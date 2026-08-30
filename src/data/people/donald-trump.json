@@ -1,0 +1,13 @@
+{
+  "name": { "zhCn": "唐纳德·特朗普", "en": "Donald Trump" },
+  "aliases": ["Donald J. Trump", "$TRUMP"],
+  "profileType": "industry-figure",
+  "summary": {
+    "zhCn": "美国第45任和第47任总统、Trump商业品牌控制人及Official Trump Meme公开推广者。档案区分其个人角色、关联实体、代币发行与许可收益。",
+    "en": "The 45th and 47th U.S. president, controller of the Trump business brand, and public promoter of Official Trump Meme. The profile separates his personal role, affiliated entities, token issuance, and licensing revenue."
+  },
+  "networkIds": ["solana", "tron"],
+  "reportSlug": "donald-trump",
+  "coverageStatus": "reviewed",
+  "lastReviewedAt": "2026-08-30"
+}

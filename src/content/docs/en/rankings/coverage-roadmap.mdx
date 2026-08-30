@@ -1,0 +1,24 @@
+---
+title: Coverage roadmap and ranking snapshots
+description: How network rankings, profile coverage order, and historical snapshots are maintained.
+pageType: ranking
+entityId: coverage-roadmap
+---
+
+import CoverageRanking from '../../../../components/CoverageRanking.astro';
+
+## Current editorial sequence
+
+<CoverageRanking locale="en" />
+
+## How formal rankings enter the repository
+
+Every ranking snapshot must preserve:
+
+1. the data date and retrieval date;
+2. the provider and original source link;
+3. the ranking method, such as market capitalization, TVL, or active addresses;
+4. network identifiers and their values at that time; and
+5. missing data, mapping disputes, and manual corrections.
+
+Formal snapshots never overwrite earlier files. This preserves what a given methodology showed on a particular date and prevents time-sensitive network rankings from being hard-coded into person profiles.

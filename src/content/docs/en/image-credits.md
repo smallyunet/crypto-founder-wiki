@@ -15,6 +15,7 @@ This site uses images with traceable sources and explicit reuse terms. Portraits
 | `chandler-guo.webp` | Chandler Guo | World Economic Forum / Sikarin Thanachaiary / [Flickr](https://www.flickr.com/photos/worldeconomicforum/27670228120/) | [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/) | Cropped from a panel photograph, resized, metadata removed, converted to WebP; used only in this noncommercial knowledge archive |
 | `vitalik-buterin.webp` | Vitalik Buterin | John Phillips / TechCrunch / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vitalik_Buterin_(cropped).jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | Cropped, resized, metadata removed, converted to WebP |
 | `satoshi-nakamoto.webp` | Satoshi Nakamoto memorial sculpture—not a portrait of the creator | Fekist / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bust_of_Satoshi_Nakamoto_in_Budapest.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | Cropped, resized, metadata removed, converted to WebP |
+| `donald-trump.webp` | Donald Trump | Daniel Torok / Executive Office of the President of the United States / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:President-Donald-Trump-Official-Presidential-Portrait.png) | U.S. federal government work, public domain in the United States | Cropped, resized, metadata removed, converted to WebP |
 
 ## Network marks
 
@@ -24,6 +25,7 @@ This site uses images with traceable sources and explicit reuse terms. Portraits
 | `bnb-chain.svg` | BNB Chain | Binance / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BNB,_native_cryptocurrency_for_the_Binance_Smart_Chain.svg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
 | `tron.svg` | TRON | TRON Foundation / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TRON-logo-EN-vertical.svg) | Public domain |
 | `ethereum.svg` | Ethereum | Ethereum / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ethereum_logo.svg) | Public domain (simple geometric logo); trademark rights may apply |
+| `solana.svg` | Solana | Solana Foundation / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Solana-sol-logo-horizontal-2025.svg) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); trademark rights may apply |
 
 ## Usage policy
 
