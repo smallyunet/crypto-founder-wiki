@@ -16,5 +16,6 @@ Bitcoin 由化名 **中本聪（Satoshi Nakamoto）** 的创建者发布。这�
 
 - [中本聪（Satoshi Nakamoto）](../../people/satoshi-nakamoto/)：Bitcoin 白皮书作者、原始软件开发者和网络启动者；真实身份未知。
 - [郭宏才（Chandler Guo）](../../people/chandler-guo/)：作为早期投资者与矿业人物收录，**不是 Bitcoin 创始人**。
+- [李笑来（Li Xiaolai）](../../people/li-xiaolai/)：作为早期买入者、教育传播者、基金管理人与行业投资人收录，**不是 Bitcoin 创始人或核心开发者**。
 
 人物目录允许收录对网络发展具有研究价值的行业人物，但会明确区分创始人、联合创始人、核心开发者、投资人和生态人物。

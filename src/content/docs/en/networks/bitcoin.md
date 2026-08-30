@@ -16,5 +16,6 @@ Bitcoin was released by the pseudonymous creator **Satoshi Nakamoto**. This stab
 
 - [Satoshi Nakamoto](../../people/satoshi-nakamoto/): Bitcoin's white-paper author, original software developer, and network launcher; underlying identity unknown.
 - [Chandler Guo](../../people/chandler-guo/): included as an early investor and mining figure, **not as Bitcoin's founder**.
+- [Li Xiaolai](../../people/li-xiaolai/): included as an early buyer, educator, fund manager, and industry investor, **not as Bitcoin's founder or core developer**.
 
 The directory may include people with research value to a network's history, but it distinguishes founders, core developers, investors, miners, and ecosystem figures.

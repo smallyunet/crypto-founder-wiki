@@ -17,6 +17,7 @@ pageType: policy
 | `satoshi-nakamoto.webp` | 中本聪纪念雕像（非本人肖像） | Fekist / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bust_of_Satoshi_Nakamoto_in_Budapest.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 裁切、缩放、移除元数据、转换 WebP |
 | `donald-trump.webp` | 唐纳德·特朗普 | Daniel Torok / 美国总统行政办公室 / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:President-Donald-Trump-Official-Presidential-Portrait.png) | 美国联邦政府作品，在美国属于公共领域 | 裁切、缩放、移除元数据、转换 WebP |
 | `da-hongfei.webp` | 达鸿飞 | Neo Foundation / [neo-project/neo.org](https://github.com/neo-project/neo.org/blob/release/NeoWeb/wwwroot/images/discover/DaHongfei.jpg) | [MPL 2.0](https://github.com/neo-project/neo.org/blob/release/LICENSE) | 从 Neo 官网开源仓库肖像裁切、缩放、移除元数据、转换 WebP；原仓库未列摄影者姓名 |
+| `li-xiaolai.webp` | 李笑来 | Philip McMaster / PeacePlusOne / [Flickr](https://www.flickr.com/photos/dragonpreneur/11399266046/) | [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/) | 从2013年车库咖啡活动照片裁切、缩放、移除元数据、转换 WebP；仅用于非商业知识档案 |
 
 ## 网络标识
 

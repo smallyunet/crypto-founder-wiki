@@ -1,0 +1,13 @@
+{
+  "name": { "zhCn": "李笑来", "en": "Li Xiaolai" },
+  "aliases": ["Xiaolai Li"],
+  "profileType": "industry-figure",
+  "summary": {
+    "zhCn": "前新东方教师、作者与中国早期 Bitcoin 投资人；创立 BitFund，参与云币、PressOne、INBlockchain 等项目。",
+    "en": "Former New Oriental teacher, author, and early Chinese Bitcoin investor; founder of BitFund and participant in Yunbi, PressOne, INBlockchain, and other ventures."
+  },
+  "networkIds": ["bitcoin"],
+  "reportSlug": "li-xiaolai",
+  "coverageStatus": "reviewed",
+  "lastReviewedAt": "2026-08-30"
+}
