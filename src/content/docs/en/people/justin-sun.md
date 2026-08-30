@@ -15,6 +15,11 @@ tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 }
 Justin Sun grew up in a household with public-sector experience and cultural capital, but there is no reliable evidence that his parents possessed major private wealth before his entrepreneurial career. His father's controlling interest in Tron Inc. emerged in 2025–2026, after TRON had been built, and cannot be projected backward onto Sun's childhood.
 :::
 
+<figure class="profile-figure">
+  <img src="/crypto-founder-wiki/images/people/justin-sun.webp" alt="Public portrait of Justin Sun wearing a blue jacket" width="720" height="900" loading="eager" fetchpriority="high" />
+  <figcaption>Justin Sun. Photo by MelfarraTron via <a href="https://commons.wikimedia.org/wiki/File:Justin_Sun-1_(cropped).jpg">Wikimedia Commons</a>, licensed <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>; cropped and converted to WebP.</figcaption>
+</figure>
+
 ## At a glance
 
 | Topic | Current finding | Evidence |

@@ -15,6 +15,11 @@ tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 }
 现有证据更支持“教育资本的代际传递”，而不是“家族财富继承”。赵长鹏的父母属于受过良好教育、但缺少显著商业财富的第一代移民家庭；赵家的巨额财富主要在 Binance 创立后由赵长鹏这一代形成。
 :::
 
+<figure class="profile-figure">
+  <img src="/crypto-founder-wiki/images/people/changpeng-zhao.webp" alt="赵长鹏在会议上手持麦克风发言" width="720" height="900" loading="eager" fetchpriority="high" />
+  <figcaption>赵长鹏。图片：Aevozer，<a href="https://commons.wikimedia.org/wiki/File:Changpeng_Zhao_in_2022.jpg">Wikimedia Commons</a>，<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>；本站裁切并转换为 WebP。</figcaption>
+</figure>
+
 ## 档案概览
 
 | 项目 | 当前结论 | 证据强度 |

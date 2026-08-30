@@ -14,9 +14,18 @@ const isChinese = locale === 'zh-cn';
 <div class="founder-grid">
 	{people.map(({ data }) => (
 		<a class="founder-card" href={`${base}/${locale}/people/${data.reportSlug}/`}>
+			<img
+				class="founder-card__image"
+				src={`${base}/images/people/${data.reportSlug}.webp`}
+				alt={isChinese ? `${data.name.zhCn}的公开照片` : `Public photograph of ${data.name.en}`}
+				width="720"
+				height="900"
+				loading="lazy"
+				decoding="async"
+			/>
 			<div class="founder-card__meta">
 				<span>{data.profileType === 'founder' ? (isChinese ? '创始人' : 'Founder') : (isChinese ? '行业人物' : 'Industry figure')}</span>
-				<span>{isChinese ? '已导入原始研究' : 'Source research imported'}</span>
+				<span>{data.coverageStatus === 'reviewed' ? (isChinese ? '已复核' : 'Reviewed') : (isChinese ? '待复核' : 'Needs review')}</span>
 			</div>
 			<h3>{isChinese ? data.name.zhCn : data.name.en}</h3>
 			{data.aliases.length > 0 && <p class="founder-card__aliases">{data.aliases.join(' · ')}</p>}

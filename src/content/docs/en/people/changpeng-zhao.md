@@ -15,6 +15,11 @@ tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 }
 The available evidence points to an intergenerational transfer of education and technical skills, not inherited financial wealth. CZ's parents were highly educated first-generation immigrants without documented business fortunes. The Zhao family's exceptional wealth was created in CZ's generation after the founding of Binance.
 :::
 
+<figure class="profile-figure">
+  <img src="/crypto-founder-wiki/images/people/changpeng-zhao.webp" alt="Changpeng Zhao speaking into a handheld microphone at a conference" width="720" height="900" loading="eager" fetchpriority="high" />
+  <figcaption>Changpeng Zhao. Photo by Aevozer via <a href="https://commons.wikimedia.org/wiki/File:Changpeng_Zhao_in_2022.jpg">Wikimedia Commons</a>, licensed <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>; cropped and converted to WebP.</figcaption>
+</figure>
+
 ## At a glance
 
 | Topic | Current finding | Evidence |

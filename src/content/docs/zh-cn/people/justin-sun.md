@@ -15,6 +15,11 @@ tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 }
 孙宇晨成长于具有体制职业和文化资本的家庭，但没有可靠证据证明父母在其创业前拥有巨额私人财富。2025—2026年父亲孙维柯控制的公司取得 Tron Inc. 控制性持股，发生在孙宇晨建立 TRON 之后，不能倒推为其童年时期的家族财富。
 :::
 
+<figure class="profile-figure">
+  <img src="/crypto-founder-wiki/images/people/justin-sun.webp" alt="孙宇晨身穿蓝色西装的公开肖像" width="720" height="900" loading="eager" fetchpriority="high" />
+  <figcaption>孙宇晨公开肖像。图片：MelfarraTron，<a href="https://commons.wikimedia.org/wiki/File:Justin_Sun-1_(cropped).jpg">Wikimedia Commons</a>，<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>；本站裁切并转换为 WebP。</figcaption>
+</figure>
+
 ## 档案概览
 
 | 项目 | 当前结论 | 证据强度 |

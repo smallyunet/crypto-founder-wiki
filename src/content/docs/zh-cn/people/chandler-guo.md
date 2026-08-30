@@ -15,6 +15,11 @@ tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 }
 郭宏才的公开资料以本人访谈和行业媒体转述为主，缺少能核实家庭资产、矿场权益和持币数量的原始档案。本文是公开叙事核查，不是对其净资产的审计。
 :::
 
+<figure class="profile-figure">
+  <img src="/crypto-founder-wiki/images/people/chandler-guo.webp" alt="郭宏才身穿白色上衣参加2016年世界经济论坛圆桌讨论" width="720" height="900" loading="eager" fetchpriority="high" />
+  <figcaption>郭宏才参加2016年世界经济论坛新领军者年会。图片：World Economic Forum / Sikarin Thanachaiary，<a href="https://www.flickr.com/photos/worldeconomicforum/27670228120/">Flickr</a>，<a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0</a>；本站裁切并转换为 WebP，仅用于非商业知识档案。</figcaption>
+</figure>
+
 ## 档案概览
 
 | 项目 | 当前结论 | 证据强度 |

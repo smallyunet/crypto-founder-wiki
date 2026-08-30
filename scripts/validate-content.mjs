@@ -28,6 +28,10 @@ for (const [personId, person] of people) {
 }
 
 for (const [networkId, network] of networks) {
+	for (const locale of ['zh-cn', 'en']) {
+		const networkPath = new URL(`src/content/docs/${locale}/networks/${networkId}.md`, root);
+		try { await access(networkPath); } catch { errors.push(`${networkId}: missing ${locale} network page`); }
+	}
 	for (const personId of [...network.founderIds, ...network.featuredPeopleIds]) {
 		if (!people.has(personId)) errors.push(`${networkId}: unknown person ${personId}`);
 	}

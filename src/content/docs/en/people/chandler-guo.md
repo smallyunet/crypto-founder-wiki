@@ -15,6 +15,11 @@ tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 }
 Most public material about Chandler Guo comes from his own interviews and crypto-industry reporting. There are no accessible primary records sufficient to audit his family assets, mining equity, or token holdings. This is a review of public narratives, not a net-worth audit.
 :::
 
+<figure class="profile-figure">
+  <img src="/crypto-founder-wiki/images/people/chandler-guo.webp" alt="Chandler Guo in a white shirt participating in a 2016 World Economic Forum panel" width="720" height="900" loading="eager" fetchpriority="high" />
+  <figcaption>Chandler Guo at the World Economic Forum Annual Meeting of the New Champions 2016. Photo by World Economic Forum / Sikarin Thanachaiary via <a href="https://www.flickr.com/photos/worldeconomicforum/27670228120/">Flickr</a>, licensed <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0</a>; cropped and converted to WebP for this noncommercial knowledge archive.</figcaption>
+</figure>
+
 ## At a glance
 
 | Topic | Current finding | Evidence |

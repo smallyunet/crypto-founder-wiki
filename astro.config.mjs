@@ -50,6 +50,7 @@ export default defineConfig({
 					items: [
 						{ label: '研究方法', translations: { en: 'Methodology' }, slug: 'methodology' },
 						{ label: '编辑规范', translations: { en: 'Editorial policy' }, slug: 'editorial-policy' },
+						{ label: '图片来源与许可', translations: { en: 'Image credits' }, slug: 'image-credits' },
 					],
 				},
 			],
