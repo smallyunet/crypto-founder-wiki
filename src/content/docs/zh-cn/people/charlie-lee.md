@@ -141,6 +141,14 @@ Litecoin 网络市值不属于 Lee，8,400万枚上限也不是其个人配置�
 
 ## 尚未解决的问题
 
+### 本轮公开资料复核
+
+Lee 的公开职业资料和本人 LinkedIn 将 MIT 阶段进一步收窄为：1999年取得计算机科学学士、2000年取得计算机科学与电气工程 MEng。LinkedIn 页面至少直接列出1999—2000年的 MIT 经历，但尚未找到 MIT 可公开检索的校友学位原档，因此本站把年份与学位作为 B/C 级履历，而不是校方认证事实。[Charlie Lee LinkedIn](https://www.linkedin.com/in/chocobo) [Lifeboat Foundation 简历](https://lifeboat.com/ex/bios.charlie.lee)
+
+一份美国 SEC 文件提供了新的可量化个人投资记录：2025年9月22日，Lee 以每股25美元购买40,000份 Canary Litecoin ETF 种子份额，合计投入100万美元；基金随后用这笔现金购买 LTC。它证明 Lee 在出售个人 LTC 多年后仍能为 Litecoin 相关金融产品投入七位数美元，但该 ETF 份额不是其完整资产披露。[Canary Litecoin ETF 2025年 Form 10-K](https://www.sec.gov/Archives/edgar/data/2039461/000199937126007351/ltcc-10k_123125.htm)
+
+Litecoin Foundation 的美国 Form 990 也让“基金会是否收到配捐”变得部分可核验：2024财年申报总收入243,453美元、其中捐赠222,287美元；2025财年总收入573,295美元、其中捐赠475,190美元。报表没有把其中多少逐笔归属于 Lee，因此能确认基金会收入规模上升，不能确认五年125万美元承诺已按年度足额兑现。[ProPublica Nonprofit Explorer：Litecoin Foundation](https://projects.propublica.org/nonprofits/organizations/881262826) [基金会配捐页面](https://litecoin.com/donate)
+
 - 确切出生日期、移民和入籍时间；
 - 父母企业、家庭资产、母亲职业、配偶与子女资料；
 - MIT 精确入学、毕业年份及学位记录细节；

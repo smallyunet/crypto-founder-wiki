@@ -189,6 +189,14 @@ CoinDesk 依据达鸿飞的说法报道，关键一步需要 Erik Zhang 配合�
 
 ## 尚未解决的问题
 
+### 本轮公开资料复核
+
+截至2026年8月30日，达鸿飞的 Neo Foundation restructuring proposal、Erik Zhang 的 governance restoration proposal 和社区 Neo DAO proposal 在 GitHub 上都仍显示为 **Open**。这意味着尚没有公开记录证明任何一套方案已完成正式采用；基金会迁往新法律主体、4-of-5 多签和完整国库迁移仍不能写成已完成。[达鸿飞提案 #4526](https://github.com/neo-project/neo/issues/4526) [Erik Zhang 提案 #4531](https://github.com/neo-project/neo/issues/4531) [社区提案 #4535](https://github.com/neo-project/neo/issues/4535)
+
+与此同时，Neo Foundation 临时委员会已经建立公开支出门户。截至8月16日，页面列出10笔记录，合计590,150 NEO和1,001 GAS，并给出用途和交易哈希。这是比此前更强的链上透明度证据，但门户只标示1个 disclosed address，也没有证明2025财报中的全部基金会/NGD资产已经迁入多签或完成独立审计。[Neo 临时委员会披露门户](https://transparency.neo.org/)
+
+因此，治理问题可以从“完全没有后续”收窄为“已有临时委员会和逐笔支出披露，但三套长期方案仍开放，完整国库与法律结构迁移未证实”。
+
 - 出生日期、父母职业、家庭资产、婚姻与子女的可靠一手记录；
 - 早期教育咨询公司的名称、经营规模、收入及退出方式；
 - 第一枚 BTC 的原始交易记录、后续累计持仓以及小蚁启动前是否出售 BTC 作为本金；

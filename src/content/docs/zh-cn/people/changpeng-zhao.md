@@ -105,8 +105,14 @@ Forbes 2024年的专项估算进一步把其财富拆成两类：约90%的 Binan
 
 ## 仍未确认的说法
 
+### 本轮公开资料复核
+
+赵长鹏在2026年的长访中补充了母亲的基本职业路径：她在中国教过数学和历史；移民加拿大后因英语不足以继续同等级教学工作，曾在制衣厂做缝纫工作。该说法来自本人直接口述，且与 Fortune 对家庭早期在温哥华生活状况的调查相互吻合，因此可以确认“母亲是教师、移民后从事低薪缝纫工作”这一基本轮廓；学校、任职年份和后续完整履历仍未公开。[All-In 采访实录](https://singjupost.com/all-in-interview-w-binance-founder-changpeng-zhao-transcript/) [Fortune 人物调查](https://fortune.com/crypto/2023/04/10/the-making-of-cz-changpeng-zhao-exclusive-interview-binance/)
+
+美国司法部的 Binance 刑事起诉书把赵长鹏定义为 Binance 的“primary founder, majority owner and CEO”，从法律文件层面确认其至少在相关期间是多数所有者；文件没有给出百分比，也不能证明媒体估算的约90%或其个人 BNB 数量。[美国司法部 Information](https://www.justice.gov/archives/opa/media/1326911/dl)
+
 - 祖父母或外祖父母的具体姓名、职业和资产规模；
-- 母亲完整职业履历；
+- 母亲任教学校、具体年份及加拿大阶段的完整职业履历；
 - Binance 和 BNB 权益的精确个人持有量；
 - 网络流传的贵阳祖籍、高官亲属或显著祖产说法。
 

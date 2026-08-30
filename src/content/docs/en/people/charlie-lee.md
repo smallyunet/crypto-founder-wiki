@@ -141,6 +141,14 @@ The 2017 statement says Litecoin left Lee financially well off, and his donation
 
 ## Unresolved questions
 
+### Public-record review update
+
+Lee's public professional profiles narrow the MIT period to a computer-science bachelor's degree in 1999 and an MEng in computer science and electrical engineering in 2000. His LinkedIn page directly lists the 1999–2000 MIT period, but no publicly searchable MIT degree record was located. The dates and degrees are therefore retained as level B/C biography rather than university-certified facts. [Charlie Lee on LinkedIn](https://www.linkedin.com/in/chocobo) [Lifeboat Foundation biography](https://lifeboat.com/ex/bios.charlie.lee)
+
+A U.S. SEC filing supplies a new quantified personal-investment record. On September 22, 2025, Lee bought 40,000 seed shares of the Canary Litecoin ETF at $25 each, investing US$1 million; the trust then used the cash to purchase LTC. This proves that years after disposing of his personal LTC position he could commit a seven-figure dollar amount to a Litecoin-linked financial product, but the ETF stake is not a complete asset disclosure. [Canary Litecoin ETF 2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/2039461/000199937126007351/ltcc-10k_123125.htm)
+
+The Litecoin Foundation's U.S. Forms 990 make receipt of matching support partly testable. Fiscal 2024 reported $243,453 of revenue, including $222,287 of contributions; fiscal 2025 reported $573,295 of revenue, including $475,190 of contributions. The filings do not attribute each donated dollar to Lee, so they confirm rising Foundation income but not that the full annual portions of his five-year $1.25 million pledge have been paid. [ProPublica Nonprofit Explorer: Litecoin Foundation](https://projects.propublica.org/nonprofits/organizations/881262826) [Foundation matching page](https://litecoin.com/donate)
+
 - Exact birth date and immigration and citizenship timeline;
 - parents' businesses and family assets, mother's occupation, spouse, and children;
 - exact MIT enrollment and graduation dates and degree-record details;

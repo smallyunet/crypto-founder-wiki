@@ -168,6 +168,14 @@ The most accurate description is not “Trump personally issued and manages the 
 
 ## Unresolved questions
 
+### Public-record review update
+
+The updated 2026 $TRUMP terms state the affiliated-party disposal risk more explicitly than the launch materials: Fight Fight Fight, CIC Digital, and their affiliates may dispose of $TRUMP while marketing, Coin Club, or community activities are occurring, subject to announced disposition plans. The terms acknowledge that promotion and affiliate selling can occur concurrently, but disclose no quantity, counterparty, ultimate beneficiary, or cost for each disposition. [Official GetTrumpMemes terms](https://gettrumpmemes.com/terms)
+
+A 2026 Canary TRUMP Coin ETF registration statement filed with the SEC further says that CIC Digital LLC and Celebration Cards LLC own Fight Fight Fight LLC and that the two owners receive trading revenue from $TRUMP activity. This is more specific than merely calling the venture “Trump Organization-linked,” but the filing gives no ownership percentages for the two parents and does not allocate the revenue to Donald Trump personally. [Canary TRUMP Coin ETF S-1/A](https://www.sec.gov/Archives/edgar/data/2083122/000199937126003355/canary-s1a_021326.htm)
+
+Trump's 2025 presidential disclosure separately reports only a US$1–5 million range of NFT licensing fees for CIC Digital; it does not itemize $TRUMP token income. The reporting period does not fully overlap the token's life, so omission does not prove that no income existed. It shows why a government filing reconciling meme-coin proceeds, NFTs, company retention, and personal distribution is still missing. [U.S. Office of Government Ethics 2025 disclosure](https://extapps2.oge.gov/201/Presiden.nsf/PAS%2BIndex/4EC9A8E6DD078F2985258CA9002C9377/%24FILE/Trump%2C%20Donald%20J.%202025%20Annual%20278.pdf)
+
 - Complete and current contracts and beneficial ownership among CIC Digital, Fight Fight Fight, Celebration Cards, and Celebration Coins;
 - Every controller and service provider for creation, market-making, liquidity, and vesting wallets on Solana;
 - Exact allocation of US$635,068,835 in royalties among $TRUMP, other meme coins, costs, and taxes;

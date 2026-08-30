@@ -140,6 +140,14 @@ Bitcoin 的创新不是“第一个数字货币”或“发明公钥密码学”
 
 匿名身份还产生了持续风险：冒认者可以借“创始人权威”发起诉讼、推广分叉或影响资产预期；另一方面，过度人肉搜索可能伤害无关候选人及家属。对公共利益最有价值的工作，是保存可验证历史并明确证据标准，而不是把概率最高的故事写成姓名答案。
 
+## 未决问题的统一复核
+
+2026年《纽约时报》的新调查把 Adam Back 作为最可能人选，主要依赖早期邮件时间线、文风、英国英语、技术位置和一些行为上的不一致；Back 明确否认。随后 WIRED 对这轮调查及另一部指向 Hal Finney/Len Sassaman 双人组合的纪录片进行交叉复盘，结论仍是没有密钥签名、唯一文档来源链或能排除其他密码朋克的证据。该进展提高了 Adam Back 假说的材料丰富度，没有把身份状态从“未确认”改成“已确认”。[WIRED：You Found Satoshi? Let's See the Receipts](https://www.wired.com/story/you-found-satoshi-lets-see-the-receipts/) [Le Monde 对争议的现场报道](https://www.lemonde.fr/en/pixels/article/2026/04/16/do-you-really-think-it-s-satoshi-speculation-over-bitcoin-founder-swirls-at-paris-blockchain-week_6752500_13.html)
+
+资产问题也只能收窄方法，不能确认所有权。2026年的一项诉讼研究按 Patoshi 口径列出约21,744个地址和约109万 BTC，但研究者明确把这些地址称为“suspected” Satoshi addresses；诉讼请求某组地址的法律权利，不会自动证明聚类算法、身份或现存私钥控制。[Galaxy 对 Noah Doe 诉讼与地址集的分析](https://www.galaxy.com/insights/research/satoshi-bitcoin-salomon-brothers-patoshi-abandoned-property-new-york-noah-doe-lawsuit)
+
+截至本轮检索，可以确定的边界是：Craig Wright 已被法院排除；Adam Back、Hal Finney、Len Sassaman、Peter Todd 等仍只是互相冲突的候选；约60万—110万 BTC 仍是早期主导矿工的模型区间，不是实名个人余额。真正未决的仍是法定身份、私钥控制链以及早期矿工与中本聪是否为同一实体。
+
 ## 综合判断
 
 能够确认的“中本聪”是一组连续的作品与行为：2008年发布白皮书，2009年启动可运行网络，参与早期开发和测试，并在2010—2011年逐步退出。不能确认的是作品背后的法定身份、家庭出身和真实财富。

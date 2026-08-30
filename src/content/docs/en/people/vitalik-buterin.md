@@ -135,6 +135,14 @@ His wealth was created through founding-era access to Ethereum and the later val
 
 ## Unresolved questions
 
+### Public-record review update
+
+Official material constrains the aggregate Ethereum genesis pools even though it does not reveal each founder's share. The 2014 sale announcement defined public sales as X and created two additional pools of 0.099X each: one to compensate early contributors and one as a long-term Foundation reserve. With final public sales of 60,102,216 ETH, each pool was roughly 5.95 million ETH. The official material does not disclose Buterin's individual allocation from the contributor pool. [Ethereum Foundation sale announcement](https://blog.ethereum.org/2014/07/22/launching-the-ether-sale) [Ethereum white-paper issuance section](https://ethereum.org/whitepaper/)
+
+In January 2026, Buterin publicly stated from his own account that he had withdrawn 16,384 ETH to deploy over several years into open-source security, privacy, verifiable software and hardware, and other public technologies. This is a new quantified personal funding commitment and shows that he could direct at least that scale of ETH at that time. It is not his complete balance, and a planned allocation still requires project-by-project recipient and outcome verification. [Buterin's public statement](https://www.reddit.com/r/ethereum/comments/1qqzw02/i_am_personally_allocating_16384_eth_to_support/)
+
+Accordingly, “every founder allocation is unknown” can be narrowed to “the aggregate contributor and Foundation pools are known, while the individual allocation schedule is not.” Likewise, some donation commitments and transfer totals are public, while ultimate recipients, realized value, and long-term outcomes remain project-specific gaps.
+
 - His complete current ETH and other asset holdings across all addresses and entities;
 - The exact economic terms of every founding-era allocation and later disposition;
 - Complete private finances and asset transfers within the Buterin family;

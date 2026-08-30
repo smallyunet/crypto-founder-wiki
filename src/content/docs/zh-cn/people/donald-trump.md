@@ -168,6 +168,14 @@ Donald Trump 是本站目前最明确的“继承性财富 + 品牌资本 + 政�
 
 ## 尚未解决的问题
 
+### 本轮公开资料复核
+
+2026年更新后的 $TRUMP 官方条款把关联方处置风险写得比最初页面更明确：Fight Fight Fight、CIC Digital 及其关联方可以在营销、Coin Club 或社区活动进行期间同时处置 $TRUMP，但仍称受预先公布的处置计划约束。条款承认“推广与关联方卖币可以同时发生”，却没有披露每次处置的数量、成交对手、最终受益人或成本。[GetTrumpMemes 官方条款](https://gettrumpmemes.com/terms)
+
+一份2026年向 SEC 提交的 Canary TRUMP Coin ETF 注册文件进一步确认：CIC Digital LLC 与 Celebration Cards LLC 是 Fight Fight Fight LLC 的所有者，且两者从 $TRUMP 交易活动取得交易收入。这比“与 Trump Organization 有关联”更具体，但注册文件没有给出两家母公司的持股比例，也没有把收入拆到 Donald Trump 个人。[Canary TRUMP Coin ETF S-1/A](https://www.sec.gov/Archives/edgar/data/2083122/000199937126003355/canary-s1a_021326.htm)
+
+Trump 的2025年总统财务披露对 CIC Digital 只单列了 NFT 许可费100万—500万美元区间，并未单独列示 $TRUMP 代币收入。该表覆盖期与代币发行并不完全重合，因此不能用“未单列”推断没有收益；它反而说明目前缺少一份能把 Meme 币、NFT、公司留存和个人分配对齐的政府财务披露。[美国政府道德办公室2025年披露](https://extapps2.oge.gov/201/Presiden.nsf/PAS%2BIndex/4EC9A8E6DD078F2985258CA9002C9377/%24FILE/Trump%2C%20Donald%20J.%202025%20Annual%20278.pdf)
+
 - CIC Digital、Fight Fight Fight、Celebration Cards 与 Celebration Coins 之间完整、最新的合同和受益所有权；
 - Solana 创建、做市、流动性池和归属钱包的完整控制人及服务商；
 - 635,068,835 美元 royalties 在 $TRUMP、其他 Meme 币、成本和税负之间的精确拆分；

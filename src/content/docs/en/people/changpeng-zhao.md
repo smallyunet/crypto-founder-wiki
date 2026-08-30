@@ -105,8 +105,14 @@ The guilty plea and sentence remain historical facts; a pardon should not be des
 
 ## Unresolved claims
 
+### Public-record review update
+
+In a 2026 long-form interview, Zhao supplied the basic outline of his mother's work history: she taught mathematics and history in China; after immigrating to Canada, limited English prevented her from obtaining equivalent teaching work and she took a sewing job in a garment factory. This is direct testimony and is consistent with Fortune's investigation of the family's early Vancouver circumstances. It supports the basic description “teacher in China, low-paid garment work after migration,” while the schools, dates, and complete later career remain undisclosed. [All-In interview transcript](https://singjupost.com/all-in-interview-w-binance-founder-changpeng-zhao-transcript/) [Fortune profile](https://fortune.com/crypto/2023/04/10/the-making-of-cz-changpeng-zhao-exclusive-interview-binance/)
+
+The U.S. Department of Justice's Binance criminal information describes Zhao as Binance's “primary founder, majority owner, and CEO,” confirming majority ownership for the relevant period in a legal filing. It gives no percentage and does not prove the media estimate of roughly 90% or Zhao's personal BNB quantity. [DOJ criminal information](https://www.justice.gov/archives/opa/media/1326911/dl)
+
 - The identities, occupations, and assets of CZ's grandparents;
-- His mother's complete professional history;
+- His mother's schools, employment dates, and complete post-migration career;
 - CZ's exact economic interest in Binance and BNB;
 - Online claims about elite relatives, substantial ancestral property, or a wealthy family origin.
 

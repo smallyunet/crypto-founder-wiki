@@ -189,6 +189,14 @@ Two distortions should be avoided. Neo was not a one-person technical creation: 
 
 ## Unresolved questions
 
+### Public-record review update
+
+As of August 30, 2026, Da Hongfei's Neo Foundation restructuring proposal, Erik Zhang's governance restoration proposal, and the community Neo DAO proposal all remain marked **Open** on GitHub. No public record therefore establishes that any one plan has been formally adopted; redomiciliation, the proposed 4-of-5 multisig, and complete treasury migration cannot be described as completed. [Da proposal #4526](https://github.com/neo-project/neo/issues/4526) [Erik Zhang proposal #4531](https://github.com/neo-project/neo/issues/4531) [Community proposal #4535](https://github.com/neo-project/neo/issues/4535)
+
+The Neo Foundation temporary committee has, however, launched an expenditure portal. Through August 16 it lists ten records totaling 590,150 NEO and 1,001 GAS, with purposes and transaction hashes. This is stronger on-chain transparency than was previously available, but the portal identifies only one disclosed address and does not show that every NF/NGD asset in the 2025 report has moved to multisig or undergone an independent audit. [Neo temporary-committee disclosure portal](https://transparency.neo.org/)
+
+The governance gap can thus be narrowed from “no subsequent evidence” to “a temporary committee and transaction-level spending disclosure now exist, while all three long-term plans remain open and full treasury/legal migration is unproven.”
+
 - Primary records for his birth date, parents' occupations, family assets, marriage, and children;
 - The name, scale, income, and exit history of his education consultancy;
 - The original first-BTC trade, cumulative holdings, and whether BTC was sold to finance Antshares;

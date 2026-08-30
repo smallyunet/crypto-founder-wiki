@@ -150,6 +150,14 @@ This profile distinguishes allegations, Rainberry's consent resolution, and the 
 
 ## Unresolved claims
 
+### Public-record review update
+
+The BitTorrent purchase price can be narrowed beyond the commonly reported “about $120 million,” although the source of funds cannot. Bram Cohen later said the final transaction was approximately $140 million after an escrowed final-payment dispute was resolved. This is direct testimony from the seller's founder about price and escrow, but it discloses no bank financing, TRX sale, personal cash, or other funding mix. [Decrypt interview with Bram Cohen](https://decrypt.co/43553/bittorrent-founder-reveals-final-details-on-tron-acquisition) The defensible range is therefore “initial reports around $120 million; seller's later account around $140 million,” not that Sun personally paid the entire price in cash.
+
+Poloniex's legal transaction chain is also partly confirmed. Circle said in 2019 that it spun the platform into Polo Digital Assets backed by an Asian investment group; later Circle SEC material dates the asset sale to November 4, 2019. The Poloniex team subsequently described the private group as led by Sun, and Sun confirmed participation in the investor group, but public filings still provide no member list, ownership percentages, purchase consideration, or profit-sharing schedule. [Circle spin-out release](https://investor.circle.com/news/news-details/2019/Poloniex-to-Spin-Out-of-Circle/default.aspx) [Circle SEC material](https://www.sec.gov/Archives/edgar/data/1824301/000121390021036070/ea143875ex99-6_concordacq.htm) [Poloniex team retrospective](https://medium.com/poloniex/a-vision-for-2022-this-is-gonna-be-big-449059c94a0)
+
+The early-capital record still rests largely on Sun's recollections and secondary reporting. Public interviews support early Bitcoin purchases, participation in the Ethereum sale, and employment at Ripple, but no original wallet, Ethereum genesis allocation, or Ripple compensation/XRP record was located. This review found no evidence capable of converting those channels into a quantified source of TRON startup capital.
+
 - Whether the maternal grandfather held the reported office, as well as his identity and complete official record;
 - The careers, assets, and political standing of Sun's paternal grandparents;
 - Any specific family intervention in Sun's education or early ventures;

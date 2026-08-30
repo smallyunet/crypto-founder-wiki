@@ -127,6 +127,14 @@ This dossier therefore does not publish a falsely precise mixed-definition “po
 
 ## Unresolved questions
 
+### Public-record review update
+
+Changpeng Zhao provided corroboration independent of Guo when recounting Binance's launch. Zhao said that in June 2017 he attended a Chongqing potluck organized by Chandler Guo, where everyone urged him to use an ICO rather than venture funding; he then instructed his team to draft the Chinese and English white papers. This confirms Guo as the organizer of an important early setting and an advocate for the ICO route. Zhao did not say that Guo handled subscriptions, guaranteed a fundraising amount, or received a 1% fee. [Epicenter interview transcript](https://podscripts.co/podcasts/epicenter-learn-about-crypto-blockchain-ethereum-bitcoin-and-distributed-technologies/changpeng-zhao-the-meteoric-rise-of-crypto-exchange-binance)
+
+In an October 2017 direct interview, Guo described Bitangel as holding a portfolio of “30+” crypto startups. In a 2018 interview, he separately claimed that roughly 80 projects had given him interests and that five post-move U.S. projects paid a combined US$5 million. These contemporary sources show that his adviser/token-compensation narrative was not invented years later, but “30+ invested projects,” “about 80 gifted projects,” and “five paying projects” are different populations and cannot be merged into an audited portfolio or income total. [Irish Tech News interview](https://irishtechnews.ie/why-seratio-is-a-unique-ico-chandler-guo-world-blockchain-summit-dubai-25th-october-2017/) [2018 interview transcript, Chinese](https://www.sohu.com/a/224929125_649045)
+
+The Binance relationship can therefore be upgraded from Guo's unilateral account to Zhao-confirmed event organization and influence over the ICO decision. Actual fundraising agency, custody of proceeds, and compensation contracts remain unverified.
+
 - The names, businesses, and assets of Guo's father and grandfather;
 - Whether and when his father supplied RMB 10,000;
 - Guo's legal equity, carried interest, and proceeds from Yihang/Bitbank;

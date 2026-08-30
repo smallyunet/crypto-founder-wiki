@@ -127,6 +127,14 @@ tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 }
 
 ## 仍未确认的关键问题
 
+### 本轮公开资料复核
+
+赵长鹏在一场回顾 Binance 创立过程的采访中提供了独立于郭宏才的旁证：他称2017年6月参加郭宏才在重庆组织的聚餐，席间所有人都建议其以 ICO 而不是 VC 融资；这促使他随后让团队起草中英文白皮书。该证据确认郭宏才是 Binance 转向 ICO 的早期场景组织者和意见推动者，但赵长鹏没有说郭宏才经手认购款、承诺募资额度或获得1%报酬。[Epicenter 对赵长鹏的采访实录](https://podscripts.co/podcasts/epicenter-learn-about-crypto-blockchain-ethereum-bitcoin-and-distributed-technologies/changpeng-zhao-the-meteoric-rise-of-crypto-exchange-binance)
+
+2017年10月的直接采访中，郭宏才把 Bitangel 的投资组合描述为“30多个”加密创业项目；2018年的另一场采访里，他又称收到约80个项目赠送的份额，并称赴美后5个项目合计给了500万美元。这组同期材料证明他的项目顾问/代币报酬叙事并非后来才出现，但“30多个投资项目”“约80个获赠项目”和“5个付费项目”是三种口径，不能合并为经过审计的项目数量或收入。[Irish Tech News 采访](https://irishtechnews.ie/why-seratio-is-a-unique-ico-chandler-guo-world-blockchain-summit-dubai-25th-october-2017/) [哔哔News采访整理](https://www.sohu.com/a/224929125_649045)
+
+因此，币安关系已经从“只有郭宏才单方自述”提升为“赵长鹏确认其组织了关键聚餐并推动 ICO 选择”；仍未得到确认的是实际募资代理、资金归集和报酬合同。
+
 - 祖父、父亲的姓名、企业和实际资产规模；
 - 父亲是否以及何时提供1万元启动资金；
 - 郭宏才在 Bitbank/毅航矿场的法律股权、干股比例和实际收益；

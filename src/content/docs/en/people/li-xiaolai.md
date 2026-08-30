@@ -143,6 +143,16 @@ The stronger conclusion is structural rather than numerical: **early BTC exposur
 
 ## Unresolved questions
 
+### Public-record review update
+
+The original CCTV program page has been located: *Economic Half-Hour* aired “Uncovering Bitcoin” on May 3, 2013 and retains the full video. The page has no searchable verbatim transcript. Li later said twice that his answer to the reporter was “six digits, beginning with one,” not an exact balance. The interview's existence is therefore confirmed; “exactly 100,000 BTC that day” remains a later recollection without a wallet signature. [Original CCTV program](https://tv.cctv.com/2013/05/03/VIDE1367596319388137.shtml) [PANews interview transcript, Chinese](https://www.panewslab.com/zh-hant/articles/740)
+
+In a 2018 Jiemian interview, Li gave a more specific purchase path: he initially bought 2,100 BTC in 2011 at an average of roughly $6, continued trading and accumulating for about ten months, and stopped adding when Bitcoin approached $2 and he had exhausted available cash. This is more informative than “he bought a lot early” and shows that a later six-figure position was not one purchase. Exchange statements and addresses remain absent, so cumulative cost and remaining holdings cannot be reconstructed. [Jiemian interview, Chinese](https://www.jiemian.com/article/2313153.html)
+
+INBlockchain's website claims that its partners accumulated more than 130,000 BTC through large OTC trades at an average cost of $1 and still held a substantial position. This is promotional fund material, uses “partners” rather than Li personally, and differs from his personal $6/2,100-BTC account. It proves that the investment organization made the aggregate claim, not Li's individual balance. [INBlockchain website](https://www.inblockchain.com/)
+
+The former “original CCTV interview” gap is thus partly resolved; the remaining gap is the unedited transcript, attributable wallets, and subsequent separation of personal and fund holdings.
+
 - Exact birth date and city, parents' occupations and assets, siblings, marriage, and children;
 - university name, graduation date, and verifiable academic record;
 - 2011–2013 BTC purchase records, historical wallets, and the original unedited CCTV interview;

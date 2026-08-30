@@ -150,6 +150,14 @@ SEC 于2023年起诉孙宇晨及相关实体。2026年3月5日，SEC 提交拟�
 
 ## 仍未确认的说法
 
+### 本轮公开资料复核
+
+BitTorrent 收购价格可以比“约1.2亿美元”进一步收窄，但资金来源仍不能。Bram Cohen 后来称最终交易在尾款争议解决后约为1.4亿美元；这是卖方创始人对成交价和托管尾款的直接说明，却没有披露付款主体的银行融资、TRX 处置、个人现金或其他资金组合。[Decrypt 对 Bram Cohen 的采访](https://decrypt.co/43553/bittorrent-founder-reveals-final-details-on-tron-acquisition) 因此可以把成交价写成“报道初值约1.2亿美元、卖方事后口径约1.4亿美元”，不能据此推断孙宇晨个人支付了全部现金。
+
+Poloniex 的法律交易链条也得到部分确认。Circle 官方称2019年把平台拆分给由亚洲投资集团支持的 Polo Digital Assets；Circle 后来的 SEC 材料给出资产出售完成日为2019年11月4日。Poloniex 团队随后称该私人投资集团由孙宇晨领导，孙本人也确认参与投资集团，但公开文件仍没有集团成员、持股比例、购买对价和利润分配表。[Circle 拆分公告](https://investor.circle.com/news/news-details/2019/Poloniex-to-Spin-Out-of-Circle/default.aspx) [Circle SEC 材料](https://www.sec.gov/Archives/edgar/data/1824301/000121390021036070/ea143875ex99-6_concordacq.htm) [Poloniex 团队回顾](https://medium.com/poloniex/a-vision-for-2022-this-is-gonna-be-big-449059c94a0)
+
+早期资本仍主要依赖本人回忆和二手报道：公开采访支持其早期买入 Bitcoin、参加 Ethereum 众筹并在 Ripple 工作，但没有原始钱包、Ethereum 创世分配或 Ripple 薪酬/XRP 文件。此次检索没有找到可以把这些渠道量化成 TRON 启动本金的材料。
+
 - 母系外公是否曾任所传职位，以及其姓名和完整任职档案；
 - 父系祖辈的职业、资产和权力背景；
 - 孙宇晨求学或创业是否接受过具体的家族关系帮助；

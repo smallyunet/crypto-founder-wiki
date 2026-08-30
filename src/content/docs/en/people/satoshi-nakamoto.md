@@ -140,6 +140,14 @@ Nakamoto's departure reduced the possibility of a founder acting as final arbite
 
 Pseudonymity also creates persistent risks. Claimants can invoke founder authority in litigation, promote forks, or influence expectations about dormant coins. Conversely, aggressive unmasking can harm unrelated candidates and families. The public-interest task is to preserve verifiable history and clear proof standards, not to turn the most compelling story into a legal name.
 
+## Consolidated review of open questions
+
+A 2026 *New York Times* investigation presented Adam Back as the likeliest candidate based mainly on early-email chronology, writing style, British English, technical position, and alleged behavioral inconsistencies; Back denied the conclusion. WIRED then compared that investigation with a separate documentary arguing for a Hal Finney/Len Sassaman pair and found that neither supplied a key signature, unique chain of documentary custody, or evidence excluding the broader cypherpunk cohort. The new work makes the Back hypothesis more detailed, but does not change the identity status from unconfirmed to confirmed. [WIRED: You Found Satoshi? Let's See the Receipts](https://www.wired.com/story/you-found-satoshi-lets-see-the-receipts/) [Le Monde on the resulting dispute](https://www.lemonde.fr/en/pixels/article/2026/04/16/do-you-really-think-it-s-satoshi-speculation-over-bitcoin-founder-swirls-at-paris-blockchain-week_6752500_13.html)
+
+The asset question can likewise be narrowed methodologically but not resolved as ownership. A 2026 analysis of litigation concerning suspected Satoshi coins identifies roughly 21,744 addresses and about 1.09 million BTC under a Patoshi-style definition, while explicitly describing them as suspected Satoshi addresses. A lawsuit seeking legal title to a selected address set does not validate the clustering method, identity, or current private-key control. [Galaxy analysis of the Noah Doe case and address set](https://www.galaxy.com/insights/research/satoshi-bitcoin-salomon-brothers-patoshi-abandoned-property-new-york-noah-doe-lawsuit)
+
+The defensible boundary after this review is: Craig Wright has been judicially excluded; Adam Back, Hal Finney, Len Sassaman, Peter Todd, and others remain conflicting candidates; and roughly 600,000–1.1 million BTC remains a model range for an early dominant miner rather than a named person's confirmed balance. Legal identity, chain of key control, and whether that miner was Satoshi remain open.
+
 ## Assessment
 
 The verifiable Satoshi is a continuous body of work and conduct: publishing the paper in 2008, launching working software and a network in 2009, supporting early development, and withdrawing during 2010–2011. The civil identity, family origin, and true wealth behind that work remain unverified.
