@@ -16,7 +16,6 @@ People, networks, organizations, and reports use stable English IDs. Translated 
 
 Network rankings are stored as dated snapshots with a named provider and metric. Market cap, TVL, and activity are not merged into an unexplained composite score.
 
-## Progressive translation
+## Bilingual publication
 
-Simplified Chinese is the source language for the first three dossiers. Translations preserve paths, entity IDs, source attribution, and evidence strength.
-
+The first three imported dossiers originated in Simplified Chinese; later dossiers may be researched in both languages together. Every edition preserves paths, entity IDs, source attribution, and evidence strength.

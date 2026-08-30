@@ -1,0 +1,10 @@
+{
+  "name": { "zhCn": "以太坊", "en": "Ethereum" },
+  "summary": {
+    "zhCn": "2013 年由 Vitalik Buterin 提出、2015 年上线的开放式智能合约区块链，由多位联合创始人、基金会和全球开源社区共同推动。",
+    "en": "An open smart-contract blockchain proposed by Vitalik Buterin in 2013 and launched in 2015, developed by multiple co-founders, the Ethereum Foundation, and a global open-source community."
+  },
+  "founderStatus": "identified",
+  "founderIds": ["vitalik-buterin"],
+  "featuredPeopleIds": []
+}

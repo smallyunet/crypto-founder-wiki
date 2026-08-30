@@ -13,6 +13,7 @@ pageType: policy
 | `changpeng-zhao.webp` | 赵长鹏 | Aevozer / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Changpeng_Zhao_in_2022.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 裁切、缩放、移除元数据、转换 WebP |
 | `justin-sun.webp` | 孙宇晨 | MelfarraTron / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Justin_Sun-1_(cropped).jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 裁切、缩放、移除元数据、转换 WebP |
 | `chandler-guo.webp` | 郭宏才 | World Economic Forum / Sikarin Thanachaiary / [Flickr](https://www.flickr.com/photos/worldeconomicforum/27670228120/) | [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/) | 从圆桌会议照片裁切、缩放、移除元数据、转换 WebP；仅用于非商业知识档案 |
+| `vitalik-buterin.webp` | 维塔利克·布特林 | John Phillips / TechCrunch / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vitalik_Buterin_(cropped).jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 裁切、缩放、移除元数据、转换 WebP |
 
 ## 网络标识
 
@@ -21,6 +22,7 @@ pageType: policy
 | `bitcoin.svg` | Bitcoin | Bitboy / Grayliptrot / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bitcoin.svg) | 公共领域 |
 | `bnb-chain.svg` | BNB Chain | Binance / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BNB,_native_cryptocurrency_for_the_Binance_Smart_Chain.svg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
 | `tron.svg` | TRON | TRON Foundation / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TRON-logo-EN-vertical.svg) | 公共领域 |
+| `ethereum.svg` | 以太坊 | Ethereum / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ethereum_logo.svg) | 公共领域（简单几何标识）；仍可能适用商标规则 |
 
 ## 使用原则
 
