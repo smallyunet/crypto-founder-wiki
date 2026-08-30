@@ -3,6 +3,7 @@ import { extname, join } from 'node:path';
 
 const dist = new URL('../dist/', import.meta.url);
 const base = '/crypto-founder-wiki';
+const defaultLocale = 'en';
 const errors = [];
 
 async function walk(directory) {
@@ -25,8 +26,8 @@ for (const required of ['index.html', 'zh-cn/index.html', 'en/index.html']) {
 }
 
 const rootHtml = await readFile(new URL('index.html', dist), 'utf8');
-if (!rootHtml.includes(`content="0;url=${base}/zh-cn/"`)) {
-	errors.push('root redirect does not point to the localized base path');
+if (!rootHtml.includes(`content="0;url=${base}/${defaultLocale}/"`)) {
+	errors.push(`root redirect does not point to the ${defaultLocale} locale`);
 }
 
 for (const htmlPath of await walk(dist.pathname)) {

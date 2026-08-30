@@ -11,12 +11,12 @@ export default defineConfig({
 		sitemap(),
 		starlight({
 			title: 'Crypto Founder Wiki',
-			description: '区块链人物、家世背景与财富形成路径的证据型研究档案。',
+			description: 'Evidence-based dossiers on blockchain founders, family backgrounds, and paths to wealth.',
 			favicon: '/favicon.svg',
-			defaultLocale: 'zh-cn',
+			defaultLocale: 'en',
 			locales: {
-				'zh-cn': { label: '简体中文', lang: 'zh-CN' },
 				en: { label: 'English', lang: 'en' },
+				'zh-cn': { label: '简体中文', lang: 'zh-CN' },
 			},
 			customCss: ['./src/styles/custom.css'],
 			social: [
