@@ -20,3 +20,7 @@ Consult these guides before working on related tasks:
 - [Adding or managing content](https://docs.astro.build/en/guides/content-collections/)
 - [Adding styles or using Tailwind](https://docs.astro.build/en/guides/styling/)
 - [Supporting multiple languages](https://docs.astro.build/en/guides/internationalization/)
+
+## Repository workflow
+
+After completing and verifying requested changes in this repository, commit and push them to the current branch automatically unless the user explicitly asks to keep the changes local. Include only changes that belong to the requested task, and report commit, push, deployment, and production-verification status separately.

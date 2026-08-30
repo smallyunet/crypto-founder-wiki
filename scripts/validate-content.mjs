@@ -21,8 +21,10 @@ for (const [personId, person] of people) {
 	for (const networkId of person.networkIds) {
 		if (!networks.has(networkId)) errors.push(`${personId}: unknown network ${networkId}`);
 	}
-	const reportPath = new URL(`src/content/docs/zh-cn/people/${person.reportSlug}.md`, root);
-	try { await access(reportPath); } catch { errors.push(`${personId}: missing report ${person.reportSlug}.md`); }
+	for (const locale of ['zh-cn', 'en']) {
+		const reportPath = new URL(`src/content/docs/${locale}/people/${person.reportSlug}.md`, root);
+		try { await access(reportPath); } catch { errors.push(`${personId}: missing ${locale} report ${person.reportSlug}.md`); }
+	}
 }
 
 for (const [networkId, network] of networks) {

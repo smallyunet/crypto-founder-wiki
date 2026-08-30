@@ -3,11 +3,11 @@
   "aliases": ["宝二爷"],
   "profileType": "industry-figure",
   "summary": {
-    "zhCn": "比特币早期投资者与矿业人物。档案追踪家庭商业底盘、早期创业与加密财富跃迁。",
-    "en": "Early Bitcoin investor and mining figure. The dossier traces family business foundations, entrepreneurship, and crypto wealth formation."
+    "zhCn": "比特币早期投资者与矿业人物。档案核查其家庭经商叙事、早期创业和加密财富跃迁。",
+    "en": "Early Bitcoin investor and mining figure. The profile tests claims about his family, early businesses, mining, and crypto wealth formation."
   },
   "networkIds": ["bitcoin"],
   "reportSlug": "chandler-guo",
-  "coverageStatus": "source-imported",
+  "coverageStatus": "reviewed",
   "lastReviewedAt": "2026-08-30"
 }

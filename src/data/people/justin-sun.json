@@ -3,11 +3,11 @@
   "aliases": [],
   "profileType": "founder",
   "summary": {
-    "zhCn": "TRON 创始人。档案区分家族既有政治与文化资本，以及其本人建立的加密财富。",
-    "en": "Founder of TRON. The dossier separates inherited political and cultural capital from crypto wealth built in his own generation."
+    "zhCn": "TRON 创始人。档案区分家庭文化与制度资源、本人加密财富及父亲后期持股。",
+    "en": "Founder of TRON. The profile separates family cultural and institutional resources from later crypto wealth and corporate holdings."
   },
   "networkIds": ["tron"],
   "reportSlug": "justin-sun",
-  "coverageStatus": "source-imported",
+  "coverageStatus": "reviewed",
   "lastReviewedAt": "2026-08-30"
 }
