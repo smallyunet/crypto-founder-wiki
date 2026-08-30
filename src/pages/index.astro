@@ -1,5 +1,6 @@
 ---
-const destination = `${import.meta.env.BASE_URL}zh-cn/`;
+const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+const destination = `${base}zh-cn/`;
 ---
 
 <!doctype html>

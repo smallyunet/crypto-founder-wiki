@@ -24,6 +24,11 @@ for (const required of ['index.html', 'zh-cn/index.html', 'en/index.html']) {
 	if (!await exists(new URL(required, dist))) errors.push(`missing required route: ${required}`);
 }
 
+const rootHtml = await readFile(new URL('index.html', dist), 'utf8');
+if (!rootHtml.includes(`content="0;url=${base}/zh-cn/"`)) {
+	errors.push('root redirect does not point to the localized base path');
+}
+
 for (const htmlPath of await walk(dist.pathname)) {
 	const html = await readFile(htmlPath, 'utf8');
 	if (html.includes(`${base}${base}`)) errors.push(`${htmlPath}: duplicated base path`);
