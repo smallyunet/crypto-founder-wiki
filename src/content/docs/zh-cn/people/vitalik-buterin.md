@@ -71,6 +71,28 @@ Buterin 提出了通用智能合约平台的原始构想，但 Ethereum 并非�
 
 创始团队曾在“营利性公司还是非营利基金会”问题上发生分歧。Buterin 选择了非营利路线，Ethereum Foundation 随后在瑞士成立。2014 年公开销售获得超过 31,000 BTC，按当时价格约 1,800 万美元；网络于 2015 年 7 月 30 日上线。[Ether 销售统计](https://blog.ethereum.org/2014/08/08/ether-sale-a-statistical-overview)、[Ethereum 官方历史](https://ethereum.org/ethereum-history-founder-and-ownership/)
 
+## Ethereum 发展时间线与个人贡献
+
+| 时间 | 协议或组织事件 | Buterin 的可确认角色 |
+| --- | --- | --- |
+| 2013-11 | Ethereum 白皮书开始在早期社区传播 | 原始构想与白皮书作者 |
+| 2014-01 | 在迈阿密公开介绍 Ethereum；创始团队形成 | 主要演讲者、联合创始人 |
+| 2014-07 至 09 | 瑞士 Ethereum Foundation 成立并完成 Ether 销售 | 支持非营利架构、参与设计和募资 |
+| 2015-07-30 | Frontier 主网上线 | 核心研究者和公开代表，不是独立上线者 |
+| 2016-07 | The DAO 事件后实施硬分叉，Ethereum Classic 延续未分叉链 | 支持分叉并参与公共论证 |
+| 2020-12 | Beacon Chain 启动 | 长期参与 PoS 研究和路线设计 |
+| 2022-09-15 | The Merge 完成，主网从 PoW 转为 PoS | 核心思想与研究推动者，升级由多客户端团队共同实施 |
+| 2024-03 | Dencun/EIP-4844 上线，为 rollup 提供 blob 数据 | rollup 中心路线与 proto-danksharding 的重要提出者之一 |
+| 2025 | Ethereum Foundation 明确其继续提供技术和思想指导 | 基金会理事/创始人，不负责日常管理 |
+
+这条时间线说明，Buterin 的贡献既不是“一篇白皮书后就退出”，也不是“亲自编写和批准每一次升级”。Ethereum 的协议变化通过 EIP、研究讨论、客户端实现、测试、核心开发者协调以及节点和验证者采用完成。[Ethereum 治理说明](https://ethereum.org/governance/) The Merge 保留了创世以来的执行层历史，只更换了区块生产共识机制；把它描述为创建一条全新 Ethereum 链并不准确。[The Merge](https://ethereum.org/roadmap/merge/)
+
+### 研究议程与软权力
+
+Buterin 持续提出扩容、账户抽象、隐私、状态管理、单槽最终性和加密经济学方向。他不拥有 EIP 的最终否决权，但其文章往往决定社区先讨论什么、用什么概念框架讨论。2025年基金会治理说明把他列为理事，并称其继续为生态提供技术和思想指导；日常执行由共同执行董事和管理团队承担。[Ethereum Foundation 管理结构](https://blog.ethereum.org/2025/04/28/ef-mgmt-board)
+
+因此，他的权力最接近“高声望的研究和议程领导者”，而不是公司 CEO、链上管理员或可以单方面升级网络的控制人。这个区分也是评估创始人风险的核心。
+
 ## 财富形成及估值边界
 
 目前能够辩护的财富形成顺序是：
@@ -92,6 +114,8 @@ Ethereum 没有 CEO、公司董事会或单一网络所有者。但 Buterin 拥�
 2016 年 The DAO 漏洞将矛盾公开化。Buterin 支持通过硬分叉返还受影响资金；开发者在广泛公开讨论和社区信号之后实施了分叉。用户仍可以继续运行未分叉链，后者延续为 Ethereum Classic。这件事既证明了 Buterin 的议程影响力，也证明其影响力存在边界。[硬分叉完成公告](https://blog.ethereum.org/2016/07/20/hard-fork-completed)、[TIME 对事件的重构](https://time.com/6158182/vitalik-buterin-ethereum-profile/)
 
 持续存在的其他争论还包括初始代币分配、基金会影响力、扩容路线、质押集中度，以及一个拥有高度可见创始人的网络能否保持可信中立。这些属于治理问题，不能仅凭开源代码或 Buterin 本人偏好去中心化就宣布已经解决。
+
+2022年的 The Merge 是检验这种治理方式的另一个例子：转向 PoS 的方向由 Buterin 和多位研究者长期推动，但实际升级经过多年规范、多个共识与执行客户端、测试网以及生态协调。2024年的 Dencun 又把 rollup 数据成本作为优先问题。路线图连续性显示其个人议程影响很强；多客户端实施和自愿升级则显示影响仍需组织性共识才能落地。[Ethereum 路线图](https://ethereum.org/roadmap/)
 
 ## 公益捐赠与公共利益项目
 
@@ -127,5 +151,8 @@ Vitalik Buterin 的路径结合了早期有限的物质条件和异常强的人�
 6. [巴塞尔大学：荣誉博士记录](https://cif.unibas.ch/en/team/honorary-doctorate/)
 7. [Crypto Relief：SHIB 捐赠处置说明](https://updates.cryptorelief.in/p/what-happened-to-the-shib-donation)
 8. [Future of Life Institute：财务与捐赠说明](https://futureoflife.org/about-us/finances/)
+9. [Ethereum.org：治理流程](https://ethereum.org/governance/)
+10. [Ethereum.org：The Merge](https://ethereum.org/roadmap/merge/)
+11. [Ethereum Foundation：2025年管理与理事会结构](https://blog.ethereum.org/2025/04/28/ef-mgmt-board)
 
 _最后复核：2026 年 8 月 30 日。地址归属、代币价值、组织角色和协议影响力都可能变化。_

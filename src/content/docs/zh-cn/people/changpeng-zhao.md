@@ -55,6 +55,24 @@ tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 }
 
 多家媒体及美国法院量刑材料记载，他青少年时期曾在麦当劳、加油站等地工作。这些经历与“现金并不宽裕的第一代移民家庭”相符，但不能单独作为精确的家庭资产证明。[联邦量刑材料镜像](https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/rvJ2rk_6NP5c/v0)
 
+## 从交易系统工程师到 Binance
+
+### 职业能力如何积累
+
+Fortune 对赵长鹏本人、家人和旧同事的调查，以及 Binance 早期白皮书给出的履历，能够拼出较稳定的职业路径：2000年前后，他获得东京交易所承包商的实习机会，参与撮合系统开发；随后在纽约 Bloomberg Tradebook 从事期货交易软件，并逐步承担管理职责。2005年回到上海后，他创办 Fusion Systems，为经纪商提供高频交易和交易所系统。[Fortune 人物调查](https://fortune.com/crypto/2023/04/10/the-making-of-cz-changpeng-zhao-exclusive-interview-binance/) [Binance 早期白皮书](https://www.cryptocompare.com/media/40485037/binance-coin-whitepaper.pdf)
+
+这段经历解释了 Binance 后来的两个特点：对撮合性能和系统可用性的强调，以及向不同市场快速复制交易基础设施的能力。它也说明其创业优势主要来自交易技术和跨境执行经验，而不是从家族获得交易所牌照、客户或资本。
+
+2013年接触 Bitcoin 后，赵长鹏离开传统金融技术行业，先后担任 Blockchain.info 技术负责人和 OKCoin CTO。公开资料对各段任职的精确月份略有差异，但“交易系统—Bitcoin 基础设施—中心化交易所”的能力链条较为清楚。
+
+### Binance 的创建、ICO 与快速扩张
+
+Binance 于2017年启动。早期白皮书设定2亿枚 BNB 初始供应，其中50%向公众销售、40%分配给创始团队、10%分配给天使投资者；白皮书还提出使用平台利润回购并销毁 BNB 的原始安排。币安后来调整了销毁机制，因此不能把2017年的白皮书视为今天完整有效的经济条款。
+
+公开销售与交易平台上线发生在同一轮加密市场扩张期。Binance 以币币交易、较广的代币覆盖、较低手续费和 BNB 折扣快速吸收国际用户；中国在2017年9月收紧 ICO 与交易平台监管后，团队又把服务器、公司和运营安排分散到多个司法辖区。这种高速跨境模式促成增长，也埋下了后来的牌照、客户识别和反洗钱问题。
+
+赵长鹏是核心创建者和长期控股人，但“Binance 是他个人的钱包”并不是准确法律描述。Binance 由多个实体、平台与关联业务构成；私人公司股权、BNB、关联实体和个人资产必须分别核算。
+
 ## 财富形成路径
 
 赵长鹏在麦吉尔大学学习计算机科学，但 Fortune 对其本人和同事的调查显示，他在2000年因东京实习机会离校，没有取得学位。随后他进入东京及纽约的交易系统和高频交易技术行业。这一阶段积累的是软件、交易基础设施、跨境职业网络和创业经验，而不是可确认的继承性财富。
@@ -63,14 +81,25 @@ tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 }
 
 因此，本站不把单日“净资产排行榜”当成固定事实，只记录估值来源、日期和方法。更稳妥的结论是：**赵长鹏是赵家第一代形成全球规模巨额财富的人。**
 
+Forbes 2024年的专项估算进一步把其财富拆成两类：约90%的 Binance 私人公司权益，以及按该持股归属推算的约9,400万枚 BNB。该模型认为其中包括创始团队配置和 ICO 后留在交易平台体系内的部分代币。[Forbes BNB 持仓估算](https://www.forbes.com/sites/cryptoconfidential/2024/06/17/trump-wants-bitcoin-monopoly--czs-billions-double-in-jail/) 这是一种媒体归属模型，不是赵长鹏公开签名的地址清单；其结论对 Binance 持股比例、代币受益所有权和流动性假设高度敏感。
+
+## 离任后的角色
+
+2023年认罪协议后，赵长鹏辞去 Binance CEO，由 Richard Teng 接任；但辞任管理职务并不等于出售 Binance 权益。司法部和 CFTC 的处理要求 Binance 改进合规并接受监督，同时赵长鹏仍被普遍视为大股东。
+
+服刑结束后，他把公开活动更多转向投资、教育和政府咨询。Giggle Academy 将其列为创办人，定位为免费儿童在线教育平台。[Giggle Academy](https://giggleacademy.com/zh-hant/about-us) 这些项目说明其当前公开角色已经变化，但不能据此判断他对 Binance 的非正式影响为零，也不能把新项目估值计入可确认财富。
+
 ## 法律事件时间线
 
 | 日期 | 事件 | 状态 |
 | --- | --- | --- |
 | 2023-11-21 | 就未维持有效反洗钱计划相关的《银行保密法》违规认罪 | 已确认 |
 | 2024-04-30 | 被判四个月监禁并处罚款5,000万美元 | 已确认 |
+| 2024-09 | 完成四个月刑期并获释 | 已确认 |
 | 2025-05-29 | SEC 与 Binance、赵长鹏共同撤回民事案件，且对涉案行为为 with prejudice | 已确认 |
 | 2025-10-21 | 获美国总统完全且无条件赦免 | 已确认 |
+
+司法部的公司层面和解总额超过40亿美元；另一个 CFTC 同意令要求赵长鹏个人支付1.5亿美元，并要求 Binance 支付罚款和追缴款。这些公司、民事与个人处罚不能混成一个数字。[司法部和解公告](https://www.justice.gov/archives/opa/pr/binance-and-ceo-plead-guilty-federal-charges-4b-resolution) [CFTC 同意令公告](https://www.cftc.gov/PressRoom/PressReleases/8837-23)
 
 认罪和服刑属于历史事实；赦免不应被写成“从未被定罪”。另一方面，SEC complaint 中未经裁判确认的指控也不能写成既定事实。SEC 已说明撤诉属于政策与裁量决定，并不代表其对其他案件的立场。[美国司法部案件资料](https://www.justice.gov/criminal/case/united-states-v-changpeng-zhao)、[SEC 撤诉公告](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26316)、[总统赦免令原件](https://www.justice.gov/pardon/media/1416576/dl)
 
@@ -94,5 +123,8 @@ tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 }
 5. [SEC：Binance/CZ 民事案件撤回](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26316)
 6. [美国司法部：赵长鹏赦免令原件](https://www.justice.gov/pardon/media/1416576/dl)
 7. [Forbes：Changpeng Zhao 实时财富档案](https://www.forbes.com/profile/changpeng-zhao)
+8. [Binance 早期白皮书](https://www.cryptocompare.com/media/40485037/binance-coin-whitepaper.pdf)
+9. [CFTC：Binance/CZ 同意令](https://www.cftc.gov/PressRoom/PressReleases/8837-23)
+10. [Forbes：Binance 股权与 BNB 归属估算](https://www.forbes.com/sites/cryptoconfidential/2024/06/17/trump-wants-bitcoin-monopoly--czs-billions-double-in-jail/)
 
 _最后复核：2026年8月30日。人物关系、监管状态和财富估值可能变化。_

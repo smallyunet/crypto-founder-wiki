@@ -45,11 +45,37 @@ tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 }
 
 2009年1月3日，中本聪创建 Bitcoin 创世区块。1月8日，他在同一邮件列表宣布 Bitcoin v0.1 软件；随后 Hal Finney 运行客户端、报告问题，并成为首笔已知点对点 Bitcoin 转账的接收者。链上第170区块包含中本聪向 Finney 发送的10 BTC 测试转账。[v0.1 发布邮件](https://www.metzdowd.com/pipermail/cryptography/2009-January/014994.html)、[Hal Finney：Bitcoin and me](https://bitcointalk.org/index.php?topic=155054.0)
 
-### 不是“一人永远控制的公司”
+## 2008—2011年活动时间线
+
+| 时间 | 可验证事件 | 证据边界 |
+| --- | --- | --- |
+| 2008-08-18 | bitcoin.org 域名注册 | 注册隐私信息不能识别自然人 |
+| 2008-10-31 | 向 Cryptography 邮件列表发布白皮书 | 可确认化名作者活动 |
+| 2009-01-03 | 创建创世区块，并嵌入 *The Times* 当日标题 | 可确认网络起点，标题动机仍可解释 |
+| 2009-01-08/09 | 宣布 v0.1 并在 SourceForge 发布早期客户端 | 可确认软件发布；存档版本细节仍有考证差异 |
+| 2009-01-12 | 第170区块向 Hal Finney 发送10 BTC | 可确认早期测试转账 |
+| 2009—2010 | 修复漏洞、发布版本、维护网站并与早期贡献者通信 | 大量邮件、论坛与代码记录可交叉核对 |
+| 2010-08 | 参与处理数值溢出漏洞，修复后链重组 | 显示早期仍承担关键维护角色 |
+| 2010-12 | 在 WikiLeaks 引发关注前后停止公开论坛发言 | 时间相关不等于能够证明退出原因 |
+| 2011-04 | 告知 Mike Hearn 已转向其他事情；继续肯定 Gavin 等人 | 最后一批具有普遍来源共识的通信 |
+
+公开档案已经整理出数百项2008—2011年材料，包括邮件列表、BitcoinTalk 帖子和与多名早期参与者的通信。[Satoshi Nakamoto Institute](https://nakamotoinstitute.org/) 档案数量不能证明同一自然人始终控制账号，但通信内容、代码演进和事件响应形成了相对连续的工作身份。
+
+## 技术设计究竟贡献了什么
+
+Bitcoin 的创新不是“第一个数字货币”或“发明公钥密码学”。在它之前已经有 DigiCash、Hashcash、b-money、bit gold、RPOW 等方案。中本聪的关键贡献是把工作量证明用于开放网络的排序和抗女巫机制，并把区块奖励、交易费、难度调整和最长累计工作量链组合成可持续运行的共识系统。
+
+原始设计还做出了若干长期影响显著的选择：2,100万枚上限、约10分钟出块、每21万区块减半、未花费交易输出（UTXO）模型、脚本系统，以及轻节点可验证支付的 SPV 思路。这些参数和机制并非全部不可变；它们之所以持续有效，是因为后来参与者继续运行兼容规则，而不是因为中本聪保留一项法律或技术上的永久命令权。
+
+创世区块中的报纸标题常被解读为反对银行救助的政治宣言。它至少证明区块不可能早于该报纸出版，但中本聪没有留下足以唯一确定动机的完整说明。因此可记录标题及历史语境，不应把单一政治意识形态写成已证实身份特征。
+
+## 不是“一人永远控制的公司”
 
 中本聪早期对代码、网站、论坛和网络警报机制具有不对称控制，但 Bitcoin 从一开始以开放源代码发布。Martti Malmi、Hal Finney、Gavin Andresen 等人逐步参与代码、测试、网站和社区工作。2010—2011年，中本聪把更多维护权限交给其他开发者并退出日常活动。
 
 保存下来的通信显示，他在2011年4月告诉 Mike Hearn 自己已经转向其他事情，并表示项目由 Gavin 和其他人继续推进。4月下旬后，再没有获得普遍认可、且能建立完整来源链的中本聪通信。[Mike Hearn 的法庭证词及邮件来源说明](https://bitcoindefense.org/assets/documents/First-Witness-Statement-of-Michael-Christopher-Hearn.pdf)
+
+这种交接不是一次正式公司任命。代码提交、SourceForge 权限、bitcoin.org、论坛和网络警报密钥由不同人和组织逐步承接；开发者可以发布软件，但无法强迫节点安装。美国监管文件也以此解释 Bitcoin 没有负责修改规则的单一公司，更新只有在用户和矿工采用后才产生网络效果。[美国联邦公报说明](https://public-inspection.federalregister.gov/2024-00507.pdf)
 
 ## 关于现实身份，哪些信息不能当真
 
@@ -92,6 +118,8 @@ tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 }
 
 2013年起，研究者 Sergio Demian Lerner 根据早期区块 coinbase 交易中的 ExtraNonce 等模式，提出存在一个占主导地位的早期矿工，后来称为“Patoshi”模式。不同分组方法给出约60万至110万 BTC 的结果。BitMEX Research 复算后认为，单一主导矿工的存在具有一定证据，但区块分配远没有外界想象得稳健，较保守的估计约为60万—70万 BTC。[BitMEX Research](https://www.bitmex.com/blog/satoshis-1-million-bitcoin)
 
+后续研究把更宽的模式归因提高到约110万 BTC，但这增加了统计假设，而没有增加身份签名。严谨表达应同时给出区间和方法：约70万是较保守的单一主导矿工估计，约110万来自更积极的 Patoshi 聚类；两者都不是“中本聪余额查询结果”。
+
 这里有三层不能省略的不确定性：
 
 1. 相似挖矿模式不等于所有区块一定由同一个实体生成；
@@ -128,5 +156,8 @@ tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 }
 6. [BitMEX Research：Does Satoshi have a million bitcoin?](https://www.bitmex.com/blog/satoshis-1-million-bitcoin)
 7. [英国高等法院：COPA v Wright 主判决](https://www.judiciary.uk/judgments/copa-v-wright/)
 8. [WIRED：2026年身份调查证据复盘](https://www.wired.com/story/you-found-satoshi-lets-see-the-receipts/)
+9. [Satoshi Nakamoto Institute：公开通信档案](https://nakamotoinstitute.org/)
+10. [Satoshi Nakamoto Institute：早期代码存档](https://satoshi.nakamotoinstitute.org/code/)
+11. [美国联邦公报：Bitcoin 更新采用与无单一控制实体](https://public-inspection.federalregister.gov/2024-00507.pdf)
 
 _最后复核：2026年8月30日。新的签名、密钥移动、档案发现或法院记录可能改变部分判断；仅有新的媒体指认不会自动提高证据等级。_

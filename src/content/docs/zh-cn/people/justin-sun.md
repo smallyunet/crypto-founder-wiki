@@ -59,9 +59,37 @@ Forbes 的人物调查称孙宇晨母亲是惠州当地报纸的体育记者；�
 
 把文化资本、制度经验、社会关系和现金财富分开，是理解孙宇晨家庭背景的关键。
 
+## 教育、早期创业与个人品牌
+
+孙宇晨本科就读北京大学历史系，随后在宾夕法尼亚大学取得东亚研究硕士学位。专业并非计算机科学，这使其路径与典型协议工程师不同：他的核心能力更多表现为叙事、融资、媒体传播、社群运营和跨境资源整合。TRON 与 BitTorrent 的官方资料可以确认这两段学历，但不能证明网络流传的具体录取照顾或家庭运作说法。[BitTorrent 官方访谈](https://medium.com/bittorrent/ask-me-anything-with-justin-sun-and-binance-recap-8d0aa94cc39)
+
+2013年前后，孙宇晨参与 Ripple 在大中华区的推广。公开材料对其正式头衔使用过“首席代表”“顾问”等不同说法，缺少公开雇佣合同，因此更稳妥的写法是：他确实在 Ripple 中国市场拓展中承担过代表性角色，但不应写成 Ripple 全球创始人或核心协议作者。
+
+2014年，他创建语音社交应用陪我（Peiwo）。该经历提供了移动产品、用户增长和融资实践，也为其后来发行 TRX、经营社区和高频营销奠定基础。将其描述为“先有 TRON 才第一次创业”会遗漏这一阶段。
+
+## TRON 与业务版图
+
+### 从代币项目到主网
+
+TRON Foundation 于2017年成立并发行 TRX。SEC 起诉书与 TRON 官方历史都把孙宇晨列为创始人，但对代币销售的法律定性曾存在重大争议。TRON 最初在 Ethereum 上发行 ERC-20 TRX，随后于2018年启动独立主网并迁移代币。[SEC 2023年起诉书](https://www.sec.gov/files/litigation/complaints/2023/comp-pr2023-59.pdf) [TRON 官方里程碑](https://tron.network/about/)
+
+TRON 的技术路线强调高吞吐、低费用和委托权益证明，并逐渐成为稳定币转账的重要网络。这里需要区分“创始人的产品战略影响力”和“个人拥有所有网络资产”：节点、超级代表、开发团队、基金会/DAO、交易平台及 TRX 持有人并非同一主体，网络使用量也不等于孙宇晨个人收入。
+
+### BitTorrent、交易平台与生态扩张
+
+2018年，孙宇晨控制的体系收购 BitTorrent，并在2019年推出 BTT。官方介绍称 BitTorrent 当时拥有约1亿月活用户；将这一用户基础与代币经济结合，是 TRON 从单一公链扩展为内容分发和消费级加密生态的重要尝试。[BitTorrent AMA](https://medium.com/bittorrent/ask-me-anything-with-justin-sun-and-binance-recap-8d0aa94cc39)
+
+此后其业务影响延伸到 Poloniex、HTX（原 Huobi）及其他投资。公开品牌通常称他为 HTX 顾问，TRON 官网也使用这一头衔；媒体和诉讼材料有时将其描述为所有者或控制人。由于集团结构、代持和司法辖区披露有限，本站分别记录“公开头衔”“媒体归属”和“可核验公司权益”，不把整个生态资产简单视为其个人全资财产。
+
+## 可见消费、艺术与财富证明边界
+
+高价公开交易提供了“具备大额支付能力”的证据，却不能独立解释财富来源或净资产。2019年，慈善组织 GLIDE/eBay 确认孙宇晨以4,567,888美元赢得巴菲特慈善午餐拍卖。[eBay 公告](https://www.ebayinc.com/stories/news/glides-20thannual-ebay-for-charity-power-lunch-with-warren-buffett-sold-for-a-record-breaking-4-567-888/)
+
+2021年，Sotheby's 确认其以7,840万美元购买 Giacometti 的 *Le Nez*；2024年又以含佣金620万美元购得 Maurizio Cattelan 的概念作品 *Comedian*。[Sotheby's 2021年回顾](https://www.sothebys.com/en/press/2021-historic-year-in-review) [AP 报道](https://apnews.com/article/ea246755028e74b87a2ecd8a27af16bf) 这些购买可以作为资金调度和个人品牌策略的材料，但艺术品成交价、当前价值、是否使用实体持有及是否存在融资均需分开。
+
 ## 财富形成路径
 
-孙宇晨公开可追踪的财富跃迁主要发生在其本人进入加密行业之后，包括 Ripple 相关工作经历、锐波、TRON、BitTorrent、Poloniex/HTX 生态及其他加密资产投资。Forbes 的净资产数字是对不透明加密资产和企业权益的模型估算，不应当作为审计事实。[Forbes 实时档案](https://www.forbes.com/profile/justin-sun/)
+孙宇晨公开可追踪的财富跃迁主要发生在其本人进入加密行业之后，包括 Ripple 相关工作经历、锐波/陪我、TRON、BitTorrent、Poloniex/HTX 生态及其他加密资产投资。Forbes 的净资产数字是对不透明加密资产和企业权益的模型估算，不应当作为审计事实。[Forbes 实时档案](https://www.forbes.com/profile/justin-sun/)
 
 ### 父亲控制的 Tron Inc. 股权
 
@@ -102,5 +130,9 @@ SEC 于2023年起诉孙宇晨及相关实体。2026年3月5日，SEC 提交拟�
 5. [SEC：2026年案件处理公告](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26496)
 6. [法院最终判决文本](https://www.leagle.com/decision/infdco20260316907)
 7. [Forbes：Justin Sun 人物调查](https://www.forbes.com/sites/ninabambysheva/2025/03/27/meet-the-crypto-billionaire-who-just-helped-the-trumps-net-400-milllion/)
+8. [TRON：官方里程碑与人物资料](https://tron.network/about/)
+9. [BitTorrent：孙宇晨 AMA 与履历](https://medium.com/bittorrent/ask-me-anything-with-justin-sun-and-binance-recap-8d0aa94cc39)
+10. [eBay/GLIDE：巴菲特慈善午餐拍卖结果](https://www.ebayinc.com/stories/news/glides-20thannual-ebay-for-charity-power-lunch-with-warren-buffett-sold-for-a-record-breaking-4-567-888/)
+11. [Sotheby's：2021年拍卖回顾](https://www.sothebys.com/en/press/2021-historic-year-in-review)
 
 _最后复核：2026年8月30日。持股比例、市场价格和法律状态可能变化。_

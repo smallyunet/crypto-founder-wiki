@@ -54,6 +54,28 @@ tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 }
 
 报道对接手时间、投资方、转让价格和后续收益存在差异。诸如“算力占全网5%”“日产100枚 Bitcoin”“投入2,000万元设施”“以转让款购买 ETH 后暴富”等数字，应逐项标注为矿场口径、本人说法或行业流传，不能合并成个人资产表。
 
+## 行业活动时间线
+
+| 时间 | 活动 | 证据与限制 |
+| --- | --- | --- |
+| 2013年前后 | 推广 Bitcoin，参与早期行业会议和投资社群 | 本人采访与行业记录相互印证 |
+| 2014—2015 | 介入并运营内蒙古毅航/Bitbank 矿场 | 同期及后续实地调查支持，法律股权比例不明 |
+| 2015—2016 | 从 Bitcoin 矿业转向 ETH 持有和 Ethereum 矿业 | 主要来自本人回忆，交易规模不可审计 |
+| 2016 | 在 The DAO 分叉后公开支持 Ethereum Classic | 多家同期与后续行业媒体确认 |
+| 2017 | 参与 ICO 活动、项目募资、投资者引荐和站台 | 大量本人采访与同期报道，具体项目账目不完整 |
+| 2018 | 迁居美国并公开展示“韭菜庄园”等资产 | 可确认公开活动，房产净权益未知 |
+| 2022 | 在 The Merge 前推动保留 PoW 的 EthereumPoW（ETHW）分叉 | 公开采访和链上项目均可确认，长期经济成果有限 |
+
+这条时间线显示郭宏才的持续优势不是单一技术发明，而是在矿工、资本、项目方、交易平台和中文社群之间组织资源。他在不同时期使用“矿工”“投资人”“顾问”“站台者”和分叉倡议者等身份；这些标签不应自动等同于正式公司职务或协议开发贡献。
+
+## Ethereum Classic 与 EthereumPoW
+
+2016年 The DAO 事件后，Ethereum 社区通过硬分叉处理被转移资金，未采用状态变更的原链延续为 Ethereum Classic。郭宏才成为 ETC 的高调支持者之一，并在后来的采访中承认，自己把 ETH 转向 ETC 的决定从价格结果看并不成功。[Blockworks 采访](https://blockworks.com/news/ethereum-fork-may-be-doomed-to-fail-but-chandler-guo-is-all-in-again)
+
+2022年 Ethereum 准备通过 The Merge 转向 PoS 时，郭宏才又公开组织矿工和支持者推动 ETHW，理由之一是为已投入 GPU 和电力基础设施的矿工保留 PoW 网络。CoinDesk、Forkast 和 Blockworks 的直接采访均确认他是倡议者和公众代表，但技术开发由一个更广泛且结构不透明的团队完成。[CoinDesk](https://www.coindesk.com/business/2022/08/15/miner-chandler-guo-repeats-support-for-ethereum-fork-post-merge) [Forkast](https://forkast.news/chandler-guo-why-would-hard-fork-ethereum/)
+
+这两次分叉活动扩大了其公众影响，也揭示利益位置：PoW 矿工和相关资产持有人会因 Ethereum 转向 PoS 受到直接经济冲击。倡议新链可以被解释为意识形态选择、矿工救助或资产利益保护，现有资料不足以把动机简化为其中一种。ETHW 的存在也不证明郭宏才个人拥有协议、开发团队或所有分叉代币。
+
 ## 项目募资、站台与“一个点”
 
 这一收入路径有较明确的本人陈述，但需要区分三个不同问题：他是否参与项目募资、他通常如何收费，以及某个具体项目是否向他支付了多少。
@@ -97,6 +119,12 @@ tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 }
 
 因此本站不再用豪车或房屋价格反推父母财富，也不把理论币价机会成本计入个人财富。
 
+## 投资身份与项目清单边界
+
+郭宏才常被称为 Bitangel Fund 创始人、天使投资人或 AU21 Capital 相关投资人。一些项目白皮书和投资数据库列出 BTC123、Bitbank、BW、Bither、Qtum、Current、AiLink 等名字，但“出现在顾问页”“获得免费 Token”“个人现金投资”和“基金完成股权投资”是四种不同关系。公开数据库只记录少量可核实轮次，与他自述近100个项目并不一致。
+
+因此本站不发布一张看似精确但混合口径的“投资组合”。未来若要列入具体项目，应至少说明：签约主体、现金或 Token 对价、顾问/投资身份、时间、锁仓条件以及退出情况。该缺口也是为什么其财富规模只能保持 C 级。
+
 ## 仍未确认的关键问题
 
 - 祖父、父亲的姓名、企业和实际资产规模；
@@ -127,5 +155,6 @@ tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 }
 9. [CoinDesk：Chandler Guo and the post-Merge fork](https://www.coindesk.com/business/2022/08/15/miner-chandler-guo-repeats-support-for-ethereum-fork-post-merge)
 10. [Blockworks：Chandler Guo profile](https://blockworks.com/news/ethereum-fork-may-be-doomed-to-fail-but-chandler-guo-is-all-in-again)
 11. [Irish Tech News：2017年直接采访](https://irishtechnews.ie/why-seratio-is-a-unique-ico-chandler-guo-world-blockchain-summit-dubai-25th-october-2017/)
+12. [Forkast：郭宏才推动 ETHW 的直接采访](https://forkast.news/chandler-guo-why-would-hard-fork-ethereum/)
 
 _最后复核：2026年8月30日。本人自述仅作为被归属的陈述，不自动视为独立事实。_

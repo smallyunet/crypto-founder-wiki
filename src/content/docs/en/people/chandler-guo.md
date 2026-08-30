@@ -54,6 +54,28 @@ Guo said partners supplied capital, equipment, and the site while he assembled t
 
 Sources differ on when control changed, who invested, the transfer price, and the eventual proceeds. Figures such as 5% of global hash rate, 100 BTC per day, RMB 20 million of infrastructure, or a windfall from investing sale proceeds in ether must remain attributed to the mine, Guo, or industry lore rather than being combined into a personal balance sheet.
 
+## Industry activity timeline
+
+| Date | Activity | Evidence and limit |
+| --- | --- | --- |
+| Around 2013 | Promoted Bitcoin and joined early industry conferences and investor communities | Interviews and industry records corroborate the broad activity |
+| 2014–2015 | Became involved in operating the Yihang/Bitbank mine in Inner Mongolia | Contemporary and later site reporting supports involvement; legal percentage unknown |
+| 2015–2016 | Shifted from Bitcoin mining toward holding ETH and Ethereum mining | Primarily autobiographical; transaction scale is unaudited |
+| 2016 | Publicly supported Ethereum Classic after The DAO fork | Confirmed by contemporary and retrospective industry reporting |
+| 2017 | Participated in ICO events, fundraising, investor introductions, and promotion | Extensive attributed interviews; project accounts remain incomplete |
+| 2018 | Moved to the United States and publicly displayed “Chive Manor” and other assets | Public activity is documented; net home equity is unknown |
+| 2022 | Promoted the EthereumPoW (ETHW) fork to retain proof of work after The Merge | Public interviews and the resulting chain confirm the campaign; long-term economic result was limited |
+
+The timeline shows that Guo's enduring advantage was not a single technical invention but the ability to organize miners, capital, projects, exchanges, and Chinese-speaking communities. At different times he used the labels miner, investor, adviser, promoter, and fork advocate. None automatically establishes a formal corporate office or protocol-development contribution.
+
+## Ethereum Classic and EthereumPoW
+
+After The DAO incident in 2016, Ethereum implemented a hard fork to address the diverted funds; the chain without the state change continued as Ethereum Classic. Guo became a prominent ETC supporter. He later acknowledged that moving his ETH exposure into ETC had not worked out well in price terms. [Blockworks interview](https://blockworks.com/news/ethereum-fork-may-be-doomed-to-fail-but-chandler-guo-is-all-in-again)
+
+As Ethereum prepared to move to proof of stake through The Merge in 2022, Guo publicly organized miners and supporters around ETHW. One rationale was to preserve a proof-of-work network for miners who had invested in GPUs and power infrastructure. Direct interviews by CoinDesk, Forkast, and Blockworks confirm his role as advocate and public representative, while technical development was performed by a broader and structurally opaque group. [CoinDesk](https://www.coindesk.com/business/2022/08/15/miner-chandler-guo-repeats-support-for-ethereum-fork-post-merge) [Forkast](https://forkast.news/chandler-guo-why-would-hard-fork-ethereum/)
+
+The campaigns expanded his visibility while revealing an economic position: proof-of-work miners and associated asset owners faced direct losses when Ethereum moved to proof of stake. A new-chain campaign can be interpreted as ideology, miner assistance, or protection of asset interests; the record does not reduce motive to one explanation. ETHW's existence also does not establish that Guo personally owned the protocol, development team, or all forked tokens.
+
 ## Fundraising, promotion, and the “one point” model
 
 There is unusually clear evidence that Guo made these claims himself, but three questions must remain separate: whether he participated in fundraising, how he generally charged projects, and what any particular project actually paid him.
@@ -97,6 +119,12 @@ Guo has publicly discussed buying cars with 100 BTC or approximately 25 BTC and 
 
 This profile therefore does not use cars or property prices to infer his parents' wealth, nor does it count hypothetical unspent bitcoin as an asset.
 
+## Investment identity and portfolio boundaries
+
+Guo is frequently described as founder of Bitangel Fund, an angel investor, or an investor associated with AU21 Capital. Project papers and investment databases name BTC123, Bitbank, BW, Bither, Qtum, Current, AiLink, and others. But appearing on an advisory page, receiving free tokens, investing personal cash, and completing an equity investment through a fund are four different relationships. Public databases record only a handful of verifiable rounds, which does not match his claim of nearly 100 projects.
+
+This dossier therefore does not publish a falsely precise mixed-definition “portfolio.” A project should identify the contracting party, cash or token consideration, advisory versus investment role, date, vesting, and exit before being listed as verified. This gap is also why the scale of Guo's wealth remains level C.
+
 ## Unresolved questions
 
 - The names, businesses, and assets of Guo's father and grandfather;
@@ -127,5 +155,6 @@ Confidence in this conclusion is lower than in the CZ and Justin Sun profiles. W
 9. [CoinDesk: Guo and the post-Merge fork](https://www.coindesk.com/business/2022/08/15/miner-chandler-guo-repeats-support-for-ethereum-fork-post-merge)
 10. [Blockworks profile](https://blockworks.com/news/ethereum-fork-may-be-doomed-to-fail-but-chandler-guo-is-all-in-again)
 11. [Irish Tech News: 2017 direct interview](https://irishtechnews.ie/why-seratio-is-a-unique-ico-chandler-guo-world-blockchain-summit-dubai-25th-october-2017/)
+12. [Forkast: direct interview on Guo's ETHW campaign](https://forkast.news/chandler-guo-why-would-hard-fork-ethereum/)
 
 _Last reviewed August 30, 2026. Attributed statements are not automatically treated as independently established facts._

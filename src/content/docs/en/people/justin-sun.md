@@ -59,6 +59,34 @@ They do not establish that:
 
 Cultural capital, institutional knowledge, social connections, and cash wealth should be analyzed separately.
 
+## Education, early ventures, and personal brand
+
+Sun studied history at Peking University and later earned a master's degree in East Asian studies at the University of Pennsylvania. Neither degree was in computer science. His comparative advantage has appeared more in narrative, fundraising, media, community growth, and cross-border resource coordination than in protocol engineering. TRON and BitTorrent materials confirm the degrees, but they do not establish online claims of family-arranged admissions. [BitTorrent interview](https://medium.com/bittorrent/ask-me-anything-with-justin-sun-and-binance-recap-8d0aa94cc39)
+
+Around 2013, Sun participated in Ripple's Greater China expansion. Public descriptions vary between “chief representative” and “advisor,” and no employment contract is public. The cautious formulation is that he held a representative business-development role in China—not that he founded Ripple globally or authored its core protocol.
+
+In 2014 he created Peiwo, a voice-based social application. That experience supplied mobile-product, user-acquisition, and fundraising practice and became relevant to the way he later launched TRX, cultivated communities, and marketed continuously. An account that begins with TRON omits a meaningful entrepreneurial stage.
+
+## TRON and the wider business network
+
+### From token project to mainnet
+
+The TRON Foundation was created and TRX issued in 2017. Both the SEC complaint and TRON's history identify Sun as founder, while the legal characterization of the token sale was disputed. TRX began as an ERC-20 token on Ethereum; TRON launched its independent mainnet and migrated the token in 2018. [SEC complaint](https://www.sec.gov/files/litigation/complaints/2023/comp-pr2023-59.pdf) [TRON milestones](https://tron.network/about/)
+
+TRON emphasized throughput, low fees, and delegated proof of stake, and later became an important network for stablecoin transfers. Founder-level product influence must still be separated from personal ownership of all network assets: nodes, super representatives, development teams, foundations/DAOs, exchanges, and TRX holders are not one entity, and network activity is not personal revenue.
+
+### BitTorrent, exchanges, and ecosystem expansion
+
+Sun's business network acquired BitTorrent in 2018 and launched BTT in 2019. Official materials described BitTorrent as having roughly 100 million monthly active users. Combining that distribution base with token economics was a major effort to expand TRON from a standalone chain into content distribution and consumer crypto. [BitTorrent AMA](https://medium.com/bittorrent/ask-me-anything-with-justin-sun-and-binance-recap-8d0aa94cc39)
+
+His influence later extended to Poloniex, HTX (formerly Huobi), and other investments. Public branding usually calls him an HTX adviser, and TRON's site uses that title; media and litigation materials sometimes call him an owner or controller. Because group structure, nominee arrangements, and cross-jurisdiction disclosure remain incomplete, this dossier separates public titles, reported attribution, and verifiable company interests instead of treating the whole ecosystem as personally and wholly owned.
+
+## Visible spending and the limits of wealth evidence
+
+High-profile purchases show an ability to command substantial funds, but they do not independently establish the source of wealth or net worth. In 2019, GLIDE and eBay confirmed that Sun won the Warren Buffett charity-lunch auction with a $4,567,888 bid. [eBay release](https://www.ebayinc.com/stories/news/glides-20thannual-ebay-for-charity-power-lunch-with-warren-buffett-sold-for-a-record-breaking-4-567-888/)
+
+Sotheby's confirmed that he bought Giacometti's *Le Nez* for $78.4 million in 2021. In 2024 he paid $6.2 million including fees for Maurizio Cattelan's conceptual work *Comedian*. [Sotheby's 2021 review](https://www.sothebys.com/en/press/2021-historic-year-in-review) [Associated Press](https://apnews.com/article/ea246755028e74b87a2ecd8a27af16bf) These purchases are relevant to liquidity and personal-brand strategy, but purchase price, current value, entity ownership, and financing are separate questions.
+
 ## Wealth formation
 
 Sun's traceable leap in wealth occurred after he entered the crypto industry, through activities associated with Ripple, Peiwo, TRON, BitTorrent, the Poloniex/HTX ecosystem, and crypto investments. Forbes's net-worth figure models opaque token and business interests; it is not an audited statement. [Forbes profile](https://www.forbes.com/profile/justin-sun/)
@@ -102,5 +130,9 @@ Sun cannot reliably be described as having “no background,” but the evidence
 5. [SEC 2026 litigation release](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26496)
 6. [Court-entered final judgment](https://www.leagle.com/decision/infdco20260316907)
 7. [Forbes investigation of Justin Sun](https://www.forbes.com/sites/ninabambysheva/2025/03/27/meet-the-crypto-billionaire-who-just-helped-the-trumps-net-400-milllion/)
+8. [TRON milestones and profile](https://tron.network/about/)
+9. [BitTorrent AMA and Sun biography](https://medium.com/bittorrent/ask-me-anything-with-justin-sun-and-binance-recap-8d0aa94cc39)
+10. [eBay/GLIDE charity-lunch auction result](https://www.ebayinc.com/stories/news/glides-20thannual-ebay-for-charity-power-lunch-with-warren-buffett-sold-for-a-record-breaking-4-567-888/)
+11. [Sotheby's 2021 auction review](https://www.sothebys.com/en/press/2021-historic-year-in-review)
 
 _Last reviewed August 30, 2026. Ownership percentages, market prices, and legal status may change._

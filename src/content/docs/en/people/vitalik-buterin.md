@@ -71,6 +71,28 @@ Buterin supplied the original general-purpose smart-contract concept, but Ethere
 
 The founding group disagreed over whether Ethereum should be organized around a for-profit company or a nonprofit foundation. Buterin chose the nonprofit path, and the Ethereum Foundation was established in Switzerland. A 2014 public sale collected more than 31,000 BTC—about US$18 million at the time—and the network launched on July 30, 2015. [Ether sale overview](https://blog.ethereum.org/2014/08/08/ether-sale-a-statistical-overview), [Ethereum history](https://ethereum.org/ethereum-history-founder-and-ownership/)
 
+## Ethereum timeline and personal contribution
+
+| Date | Protocol or organizational event | Buterin's evidenced role |
+| --- | --- | --- |
+| November 2013 | The Ethereum white paper began circulating in the early community | Originator of the concept and white-paper author |
+| January 2014 | Ethereum was presented publicly in Miami and the founding group formed | Principal presenter and co-founder |
+| July–September 2014 | The Swiss Ethereum Foundation was formed and the ether sale completed | Advocate of the nonprofit structure; participant in design and fundraising |
+| July 30, 2015 | Frontier mainnet launch | Core researcher and public representative, not sole implementer |
+| July 2016 | Hard fork after The DAO; Ethereum Classic retained the unforked history | Public advocate of the fork and participant in the debate |
+| December 2020 | Beacon Chain launch | Long-term proof-of-stake researcher and roadmap contributor |
+| September 15, 2022 | The Merge moved mainnet from proof of work to proof of stake | Major intellectual and research advocate; implemented by multiple client teams |
+| March 2024 | Dencun/EIP-4844 introduced blob data for rollups | Important contributor to the rollup-centric and proto-danksharding direction |
+| 2025 | The Foundation clarified that he continues to provide technical and intellectual guidance | Foundation board member/founder, not day-to-day executive |
+
+The timeline shows that Buterin neither disappeared after writing the white paper nor personally wrote and approved every upgrade. Ethereum changes move through EIPs, research, client implementation, testing, core-developer coordination, and adoption by nodes and validators. [Ethereum governance](https://ethereum.org/governance/) The Merge preserved the execution history from genesis and changed the block-production consensus mechanism; it did not create an entirely new Ethereum history. [The Merge](https://ethereum.org/roadmap/merge/)
+
+### Research agenda and soft power
+
+Buterin continues to propose directions for scaling, account abstraction, privacy, state management, single-slot finality, and cryptoeconomics. He has no final veto over EIPs, but his writing often determines which problems receive attention and how the ecosystem frames them. The Foundation's 2025 governance explanation lists him on the board and says he continues to provide technical and intellectual guidance, while co-executive directors and management handle execution. [Ethereum Foundation structure](https://blog.ethereum.org/2025/04/28/ef-mgmt-board)
+
+His power is therefore best described as high-prestige research and agenda leadership—not that of a corporate CEO, chain administrator, or unilateral upgrader. That distinction is central to assessing founder risk.
+
 ## Wealth formation and its limits
 
 The defensible wealth sequence is:
@@ -92,6 +114,8 @@ Ethereum has no CEO, board, or single party that owns the network. Buterin never
 The 2016 DAO exploit made the tension visible. Buterin publicly supported a hard fork that returned affected funds; developers implemented it after extensive public debate and community signaling. Users remained free to follow the non-fork chain, which survives as Ethereum Classic. The episode is evidence of Buterin's agenda-setting influence and of the limits of that influence at the same time. [Hard fork completion notice](https://blog.ethereum.org/2016/07/20/hard-fork-completed), [TIME account](https://time.com/6158182/vitalik-buterin-ethereum-profile/)
 
 Other recurring debates concern Ethereum's initial token distribution, foundation influence, scaling choices, staking concentration, and whether a visible founder is compatible with credible neutrality. These are governance questions; they are not resolved simply by citing the network's open-source code or Buterin's personal preference for decentralization.
+
+The 2022 Merge provides another test of that governance model. Buterin and many researchers promoted the proof-of-stake direction for years, but the upgrade required specifications, multiple consensus and execution clients, testnets, and ecosystem coordination. Dencun in 2024 then prioritized rollup data costs. The continuity of the roadmap shows strong personal agenda influence; multi-client implementation and voluntary upgrading show that the influence still requires organizational consensus. [Ethereum roadmap](https://ethereum.org/roadmap/)
 
 ## Philanthropy and public-interest work
 
@@ -127,5 +151,8 @@ His wealth was created through founding-era access to Ethereum and the later val
 6. [University of Basel: Honorary doctorate](https://cif.unibas.ch/en/team/honorary-doctorate/)
 7. [Crypto Relief: What happened to the SHIB donation](https://updates.cryptorelief.in/p/what-happened-to-the-shib-donation)
 8. [Future of Life Institute: Finances](https://futureoflife.org/about-us/finances/)
+9. [Ethereum.org: governance process](https://ethereum.org/governance/)
+10. [Ethereum.org: The Merge](https://ethereum.org/roadmap/merge/)
+11. [Ethereum Foundation: 2025 management and board structure](https://blog.ethereum.org/2025/04/28/ef-mgmt-board)
 
 _Last reviewed August 30, 2026. Wallet attribution, token values, organizational roles, and protocol influence can change._
