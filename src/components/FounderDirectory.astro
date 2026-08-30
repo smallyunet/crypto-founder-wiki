@@ -6,7 +6,9 @@ interface Props {
 }
 
 const { locale = 'zh-cn' } = Astro.props;
-const people = (await getCollection('people')).sort((a, b) => a.data.name.en.localeCompare(b.data.name.en));
+const people = (await getCollection('people')).sort(
+	(a, b) => a.data.directoryOrder - b.data.directoryOrder || a.data.name.en.localeCompare(b.data.name.en),
+);
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const isChinese = locale === 'zh-cn';
 ---

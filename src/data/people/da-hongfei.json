@@ -2,6 +2,7 @@
   "name": { "zhCn": "达鸿飞", "en": "Da Hongfei" },
   "aliases": ["Uncle Da", "达叔", "笪鸿飞"],
   "profileType": "founder",
+  "directoryOrder": 50,
   "summary": {
     "zhCn": "Neo（原小蚁/Antshares）共同创始人、Onchain 创始人，也是币安白皮书列名的早期投资人/顾问。档案区分个人权益、Neo 项目投资与基金会国库。",
     "en": "Co-founder of Neo, founder of Onchain, and a named early investor/advisor in Binance's white paper. The dossier separates personal interests, Neo's investment, and foundation treasury assets."

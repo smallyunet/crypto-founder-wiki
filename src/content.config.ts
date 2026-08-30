@@ -12,6 +12,7 @@ const people = defineCollection({
 		name: localeText,
 		aliases: z.array(z.string()).default([]),
 		profileType: z.enum(['founder', 'industry-figure']),
+		directoryOrder: z.number().int().positive(),
 		summary: localeText,
 		networkIds: z.array(z.string()),
 		reportSlug: z.string(),

@@ -27,6 +27,8 @@ const docsDirectory = new URL('src/content/docs/', root);
 const docFiles = (await readdir(docsDirectory, { recursive: true }))
 	.filter((name) => /\.(?:md|mdx)$/.test(name));
 
+const directoryOrders = new Map();
+
 for (const name of docFiles) {
 	const content = await readFile(new URL(name, docsDirectory), 'utf8');
 	for (const { label, pattern } of sensitiveTerms) {
@@ -37,6 +39,13 @@ for (const name of docFiles) {
 }
 
 for (const [personId, person] of people) {
+	if (!Number.isInteger(person.directoryOrder) || person.directoryOrder <= 0) {
+		errors.push(`${personId}: directoryOrder must be a positive integer`);
+	} else if (directoryOrders.has(person.directoryOrder)) {
+		errors.push(`${personId}: directoryOrder ${person.directoryOrder} is already used by ${directoryOrders.get(person.directoryOrder)}`);
+	} else {
+		directoryOrders.set(person.directoryOrder, personId);
+	}
 	for (const networkId of person.networkIds) {
 		if (!networks.has(networkId)) errors.push(`${personId}: unknown network ${networkId}`);
 	}

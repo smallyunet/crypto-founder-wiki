@@ -2,6 +2,7 @@
   "name": { "zhCn": "维塔利克·布特林", "en": "Vitalik Buterin" },
   "aliases": ["Vitalik"],
   "profileType": "founder",
+  "directoryOrder": 20,
   "summary": {
     "zhCn": "Ethereum 构想者与联合创始人。档案聚焦家庭迁移、教育资本、协议创立、财富形成、治理影响与公益捐赠。",
     "en": "Conceiver and co-founder of Ethereum. The profile examines family migration, educational capital, protocol creation, wealth formation, governance influence, and philanthropy."
