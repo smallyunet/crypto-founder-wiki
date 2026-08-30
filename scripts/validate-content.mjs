@@ -17,6 +17,25 @@ const networks = await loadDirectory('src/data/networks/');
 const rankings = await loadDirectory('src/data/rankings/');
 const errors = [];
 
+const sensitiveTerms = [
+	{ label: 'Chinese sensitive-event term', pattern: /六(?:四|[·・]四)/u },
+	{ label: 'English sensitive-event term', pattern: /\bJune\s+(?:Fourth|4(?:th)?)\b/iu },
+	{ label: 'Tiananmen reference', pattern: /\bTiananmen\b/iu },
+];
+
+const docsDirectory = new URL('src/content/docs/', root);
+const docFiles = (await readdir(docsDirectory, { recursive: true }))
+	.filter((name) => /\.(?:md|mdx)$/.test(name));
+
+for (const name of docFiles) {
+	const content = await readFile(new URL(name, docsDirectory), 'utf8');
+	for (const { label, pattern } of sensitiveTerms) {
+		if (pattern.test(content)) {
+			errors.push(`${name}: ${label} must be partially masked before publication`);
+		}
+	}
+}
+
 for (const [personId, person] of people) {
 	for (const networkId of person.networkIds) {
 		if (!networks.has(networkId)) errors.push(`${personId}: unknown network ${networkId}`);
