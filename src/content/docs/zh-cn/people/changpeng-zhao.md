@@ -11,8 +11,8 @@ lastReviewedAt: 2026-08-30
 tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 }
 ---
 
-:::note[结论摘要]
-现有证据更支持“教育资本的代际传递”，而不是“家族财富继承”。赵长鹏的父母属于受过良好教育、但缺少显著商业财富的第一代移民家庭；赵家的巨额财富主要在 Binance 创立后由赵长鹏这一代形成。
+:::note[独立复核结论]
+本文已于2026年8月30日逐项回查大学、法院、监管、赦免及同期人物调查资料。现有证据更支持“教育资本的代际传递”，而不是“家族财富继承”。赵长鹏的父母属于受过良好教育、但缺少已知显著商业财富的第一代移民家庭；赵家的巨额财富主要在 Binance 创立后由赵长鹏这一代形成。
 :::
 
 <figure class="profile-figure">
@@ -57,7 +57,7 @@ tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 }
 
 ## 财富形成路径
 
-赵长鹏在麦吉尔大学学习计算机科学，随后进入东京及纽约的交易系统和高频交易技术行业。这一阶段积累的是软件、交易基础设施、跨境职业网络和创业经验，而不是可确认的继承性财富。
+赵长鹏在麦吉尔大学学习计算机科学，但 Fortune 对其本人和同事的调查显示，他在2000年因东京实习机会离校，没有取得学位。随后他进入东京及纽约的交易系统和高频交易技术行业。这一阶段积累的是软件、交易基础设施、跨境职业网络和创业经验，而不是可确认的继承性财富。
 
 2017年创立 Binance 后，交易平台收入、私人公司股权及 BNB 相关权益成为其财富的主要来源。Forbes 目前估计赵长鹏仍拥有 Binance 约90%的权益并持有 BNB，但 Binance 并非上市公司，该比例和净资产均是媒体估算，不是公开审计后的个人资产负债表。[Forbes 实时档案](https://www.forbes.com/profile/changpeng-zhao)
 
@@ -72,7 +72,7 @@ tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 }
 | 2025-05-29 | SEC 与 Binance、赵长鹏共同撤回民事案件，且对涉案行为为 with prejudice | 已确认 |
 | 2025-10-21 | 获美国总统完全且无条件赦免 | 已确认 |
 
-认罪和服刑属于历史事实；赦免不应被写成“从未被定罪”。另一方面，SEC complaint 中未经裁判确认的指控也不能写成既定事实。SEC 已说明撤诉属于政策与裁量决定，并不代表其对其他案件的立场。[美国司法部案件资料](https://www.justice.gov/criminal/case/united-states-v-changpeng-zhao)、[SEC 撤诉公告](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26316)、[美国司法部赦免记录](https://www.justice.gov/pardon/clemency-grants-president-donald-j-trump-2025-present)
+认罪和服刑属于历史事实；赦免不应被写成“从未被定罪”。另一方面，SEC complaint 中未经裁判确认的指控也不能写成既定事实。SEC 已说明撤诉属于政策与裁量决定，并不代表其对其他案件的立场。[美国司法部案件资料](https://www.justice.gov/criminal/case/united-states-v-changpeng-zhao)、[SEC 撤诉公告](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26316)、[总统赦免令原件](https://www.justice.gov/pardon/media/1416576/dl)
 
 ## 仍未确认的说法
 
@@ -92,7 +92,7 @@ tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 }
 3. [Fortune：The Making of Binance's CZ](https://fortune.com/crypto/2023/04/10/the-making-of-cz-changpeng-zhao-exclusive-interview-binance/)
 4. [美国司法部：United States v. Changpeng Zhao](https://www.justice.gov/criminal/case/united-states-v-changpeng-zhao)
 5. [SEC：Binance/CZ 民事案件撤回](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26316)
-6. [美国司法部：2025年赦免记录](https://www.justice.gov/pardon/clemency-grants-president-donald-j-trump-2025-present)
+6. [美国司法部：赵长鹏赦免令原件](https://www.justice.gov/pardon/media/1416576/dl)
 7. [Forbes：Changpeng Zhao 实时财富档案](https://www.forbes.com/profile/changpeng-zhao)
 
 _最后复核：2026年8月30日。人物关系、监管状态和财富估值可能变化。_

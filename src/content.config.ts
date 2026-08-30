@@ -15,7 +15,7 @@ const people = defineCollection({
 		summary: localeText,
 		networkIds: z.array(z.string()),
 		reportSlug: z.string(),
-		coverageStatus: z.enum(['source-imported', 'reviewed', 'needs-review']),
+		coverageStatus: z.enum(['reviewed', 'needs-review']),
 		lastReviewedAt: z.coerce.date(),
 	}),
 });
@@ -56,7 +56,7 @@ export const collections = {
 				entityId: z.string().optional(),
 				profileType: z.enum(['founder', 'industry-figure']).optional(),
 				networkIds: z.array(z.string()).optional(),
-				researchStatus: z.enum(['source-imported', 'reviewed', 'needs-review']).optional(),
+				researchStatus: z.enum(['reviewed', 'needs-review']).optional(),
 				investigatedAt: z.coerce.date().optional(),
 				lastReviewedAt: z.coerce.date().optional(),
 			}),

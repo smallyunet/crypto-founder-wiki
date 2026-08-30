@@ -42,7 +42,16 @@ for (const [personId, person] of people) {
 	}
 	for (const locale of ['zh-cn', 'en']) {
 		const reportPath = new URL(`src/content/docs/${locale}/people/${person.reportSlug}.md`, root);
-		try { await access(reportPath); } catch { errors.push(`${personId}: missing ${locale} report ${person.reportSlug}.md`); }
+		try {
+			await access(reportPath);
+			const report = await readFile(reportPath, 'utf8');
+			const status = report.match(/^researchStatus:\s*([^\s]+)\s*$/m)?.[1];
+			if (status !== person.coverageStatus) {
+				errors.push(`${personId}: ${locale} researchStatus ${status ?? 'missing'} does not match people record ${person.coverageStatus}`);
+			}
+		} catch {
+			errors.push(`${personId}: missing ${locale} report ${person.reportSlug}.md`);
+		}
 	}
 }
 

@@ -18,4 +18,6 @@ Network rankings are stored as dated snapshots with a named provider and metric.
 
 ## Bilingual publication
 
-The first three imported dossiers originated in Simplified Chinese; later dossiers may be researched in both languages together. Every edition preserves paths, entity IDs, source attribution, and evidence strength.
+The Changpeng Zhao, Justin Sun, and Chandler Guo dossiers began with Simplified Chinese research material. Each has since been re-researched claim by claim, corrected, and independently reviewed against public sources. Later dossiers may be researched in both languages together. Every edition preserves paths, entity IDs, source attribution, and evidence strength.
+
+`reviewed` means that the editors independently checked material claims and their cited support. It does not mean that every private fact is provable from public records. Unsupported material must be downgraded, removed, or clearly identified as attributed testimony or an unresolved question.

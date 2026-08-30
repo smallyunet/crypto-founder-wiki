@@ -11,7 +11,7 @@ An evidence-led, multilingual-ready archive of crypto founders and other consequ
 - Simplified Chinese and English editions with build-time coverage checks.
 - Static search, responsive navigation, dark mode, sitemap, and GitHub Pages deployment.
 
-The first three source dossiers cover Changpeng Zhao, Justin Sun, and Chandler Guo. The fourth dossier, on Vitalik Buterin, was researched directly for this repository. Chandler Guo is explicitly classified as an industry figure rather than a network founder.
+The first three dossiers cover Changpeng Zhao, Justin Sun, and Chandler Guo. They began from supplied research material and were subsequently re-researched, corrected, and independently reviewed against public primary records and reputable reporting. The fourth dossier covers Vitalik Buterin. Chandler Guo is explicitly classified as an industry figure rather than a network founder.
 
 ## Project structure
 
@@ -43,4 +43,4 @@ the Chandler Guo panel photograph is licensed for non-commercial reuse only.
 
 ## Editorial status
 
-The initial three reports were imported from supplied research documents. An imported report is not represented as independently fact-checked by this repository; later dossiers are labeled according to their own research status. See the published methodology and editorial policy before contributing claims about living people or their relatives.
+Every published dossier is marked `reviewed` only after a claim-by-claim source audit. Evidence limitations remain visible where public records cannot establish private family assets, beneficial ownership, or token holdings. See the published methodology and editorial policy before contributing claims about living people or their relatives.

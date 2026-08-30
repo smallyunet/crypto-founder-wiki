@@ -11,8 +11,8 @@ lastReviewedAt: 2026-08-30
 tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 }
 ---
 
-:::note[Summary]
-The available evidence points to an intergenerational transfer of education and technical skills, not inherited financial wealth. CZ's parents were highly educated first-generation immigrants without documented business fortunes. The Zhao family's exceptional wealth was created in CZ's generation after the founding of Binance.
+:::note[Independent review finding]
+This dossier was checked claim by claim on August 30, 2026 against university, court, regulatory, clemency, and contemporaneous profile records. The available evidence points to an intergenerational transfer of education and technical skills, not inherited financial wealth. CZ's parents were highly educated first-generation immigrants without a documented substantial business fortune. The Zhao family's exceptional wealth was created in CZ's generation after the founding of Binance.
 :::
 
 <figure class="profile-figure">
@@ -57,7 +57,7 @@ Media accounts and federal sentencing materials record that CZ worked at McDonal
 
 ## Wealth formation
 
-CZ studied computer science at McGill University and then worked on trading and high-frequency-trading systems in Tokyo and New York. This period built software expertise, market-infrastructure knowledge, and an international professional network rather than documented inherited wealth.
+CZ studied computer science at McGill University but did not receive a degree: Fortune's interviews report that he left in 2000 after receiving an internship opportunity in Tokyo. He then worked on trading and high-frequency-trading systems in Tokyo and New York. This period built software expertise, market-infrastructure knowledge, and an international professional network rather than documented inherited wealth.
 
 After Binance was founded in 2017, private-company equity, exchange economics, and BNB-related holdings became the principal sources of his fortune. Forbes currently estimates that CZ owns roughly 90% of Binance and holds BNB. Because Binance is private, both the ownership percentage and net-worth figure are estimates rather than an audited personal balance sheet. [Forbes profile](https://www.forbes.com/profile/changpeng-zhao)
 
@@ -72,7 +72,7 @@ The defensible conclusion is that **CZ is the first generation of the Zhao famil
 | May 29, 2025 | The SEC civil action against Binance and CZ was dismissed with prejudice |
 | October 21, 2025 | Received a full and unconditional presidential pardon |
 
-The guilty plea and sentence remain historical facts; a pardon should not be described as though no conviction ever occurred. Conversely, allegations in the SEC complaint were not adjudicated facts, and the civil action was later dismissed. [U.S. Department of Justice case page](https://www.justice.gov/criminal/case/united-states-v-changpeng-zhao), [SEC dismissal](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26316), [DOJ clemency record](https://www.justice.gov/pardon/clemency-grants-president-donald-j-trump-2025-present)
+The guilty plea and sentence remain historical facts; a pardon should not be described as though no conviction ever occurred. Conversely, allegations in the SEC complaint were not adjudicated facts, and the civil action was later dismissed. [U.S. Department of Justice case page](https://www.justice.gov/criminal/case/united-states-v-changpeng-zhao), [SEC dismissal](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26316), [signed pardon](https://www.justice.gov/pardon/media/1416576/dl)
 
 ## Unresolved claims
 
@@ -92,6 +92,6 @@ The Zhao family's most visible intergenerational assets were education, quantita
 3. [Fortune: The Making of Binance's CZ](https://fortune.com/crypto/2023/04/10/the-making-of-cz-changpeng-zhao-exclusive-interview-binance/)
 4. [U.S. Department of Justice: United States v. Changpeng Zhao](https://www.justice.gov/criminal/case/united-states-v-changpeng-zhao)
 5. [SEC dismissal of the Binance/CZ civil action](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26316)
-6. [DOJ clemency records](https://www.justice.gov/pardon/clemency-grants-president-donald-j-trump-2025-present)
+6. [DOJ: signed pardon for Changpeng Zhao](https://www.justice.gov/pardon/media/1416576/dl)
 
 _Last reviewed August 30, 2026. Relationships, regulatory status, and wealth estimates may change._
