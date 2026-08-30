@@ -1,0 +1,10 @@
+{
+  "name": { "zhCn": "Bitcoin", "en": "Bitcoin" },
+  "summary": {
+    "zhCn": "由化名 Satoshi Nakamoto 发布的去中心化货币网络；郭宏才作为早期行业人物收录，并非创始人。",
+    "en": "The decentralized monetary network published by the pseudonymous Satoshi Nakamoto; Chandler Guo is covered as an early industry figure, not its founder."
+  },
+  "founderStatus": "pseudonymous",
+  "founderIds": [],
+  "featuredPeopleIds": ["chandler-guo"]
+}

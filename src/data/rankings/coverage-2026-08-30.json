@@ -1,0 +1,14 @@
+{
+  "asOf": "2026-08-30",
+  "kind": "editorial-seed",
+  "provider": "Crypto Founder Wiki editorial seed",
+  "description": {
+    "zhCn": "首批三份用户提供报告构成的收录队列，不代表网络市值、TVL 或影响力排名。",
+    "en": "An initial coverage queue based on three supplied reports; it is not a market-cap, TVL, or influence ranking."
+  },
+  "entries": [
+    { "position": 1, "networkId": "bnb-chain", "personIds": ["changpeng-zhao"], "coverageStatus": "published" },
+    { "position": 2, "networkId": "tron", "personIds": ["justin-sun"], "coverageStatus": "published" },
+    { "position": 3, "networkId": "bitcoin", "personIds": ["chandler-guo"], "coverageStatus": "published" }
+  ]
+}

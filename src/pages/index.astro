@@ -1,0 +1,17 @@
+---
+const destination = `${import.meta.env.BASE_URL}zh-cn/`;
+---
+
+<!doctype html>
+<html lang="zh-CN">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<meta http-equiv="refresh" content={`0;url=${destination}`} />
+		<link rel="canonical" href={new URL(destination, Astro.site)} />
+		<title>Crypto Founder Wiki</title>
+	</head>
+	<body>
+		<p><a href={destination}>进入 Crypto Founder Wiki</a></p>
+	</body>
+</html>

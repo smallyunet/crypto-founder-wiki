@@ -1,0 +1,15 @@
+---
+title: Bitcoin
+description: Bitcoin 网络与已收录行业人物关系说明。
+pageType: network
+entityId: bitcoin
+---
+
+Bitcoin 由化名 **Satoshi Nakamoto** 的创建者发布。
+
+## 已收录关联人物
+
+- [郭宏才（Chandler Guo）](../../people/chandler-guo/)：作为早期投资者与矿业人物收录，**不是 Bitcoin 创始人**。
+
+人物目录允许收录对网络发展具有研究价值的行业人物，但会明确区分创始人、联合创始人、核心开发者、投资人和生态人物。
+

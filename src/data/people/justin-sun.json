@@ -1,0 +1,13 @@
+{
+  "name": { "zhCn": "孙宇晨", "en": "Justin Sun" },
+  "aliases": [],
+  "profileType": "founder",
+  "summary": {
+    "zhCn": "TRON 创始人。档案区分家族既有政治与文化资本，以及其本人建立的加密财富。",
+    "en": "Founder of TRON. The dossier separates inherited political and cultural capital from crypto wealth built in his own generation."
+  },
+  "networkIds": ["tron"],
+  "reportSlug": "justin-sun",
+  "coverageStatus": "source-imported",
+  "lastReviewedAt": "2026-08-30"
+}

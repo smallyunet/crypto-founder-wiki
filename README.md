@@ -1,49 +1,38 @@
-# Starlight Starter Kit: Basics
+# Crypto Founder Wiki
 
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+An evidence-led, multilingual-ready archive of crypto founders and other consequential industry figures.
 
-```
-npm create astro@latest -- --template starlight
-```
+**Live site:** <https://smallyunet.github.io/crypto-founder-wiki/>
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## What is included
 
-## 🚀 Project Structure
+- Long-form Markdown dossiers with visible evidence boundaries.
+- Structured people, network, and dated-ranking collections validated at build time.
+- Simplified Chinese source content and an English translation framework.
+- Static search, responsive navigation, dark mode, sitemap, and GitHub Pages deployment.
 
-Inside of your Astro + Starlight project, you'll see the following folders and files:
+The first three source dossiers cover Changpeng Zhao, Justin Sun, and Chandler Guo. Chandler Guo is explicitly classified as an industry figure rather than a network founder.
 
-```
-.
-├── public/
-├── src/
-│   ├── assets/
-│   ├── content/
-│   │   └── docs/
-│   └── content.config.ts
-├── astro.config.mjs
-├── package.json
-└── tsconfig.json
+## Project structure
+
+```text
+src/content/docs/<locale>/   Published articles and methodology
+src/data/people/             Language-neutral person records
+src/data/networks/           Network relationships
+src/data/rankings/           Dated ranking or coverage snapshots
+src/components/              Data-driven directory components
 ```
 
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
+## Development
 
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
+```bash
+npm install
+npm run dev
+npm run verify
+```
 
-Static assets, like favicons, can be placed in the `public/` directory.
+The production site is generated into `dist/`. Pushes to `main` are deployed through GitHub Actions.
 
-## 🧞 Commands
+## Editorial status
 
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+The initial reports were imported from supplied research documents. An imported report is not represented as independently fact-checked by this repository. See the published methodology and editorial policy before contributing claims about living people or their relatives.

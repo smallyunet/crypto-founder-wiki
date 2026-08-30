@@ -1,0 +1,10 @@
+{
+  "name": { "zhCn": "BNB Chain", "en": "BNB Chain" },
+  "summary": {
+    "zhCn": "由 Binance 生态推动发展的区块链网络；人物档案按公开关系谨慎区分公司创始人与网络创始身份。",
+    "en": "A blockchain network developed through the Binance ecosystem; profiles distinguish company-founder and network-founder claims."
+  },
+  "founderStatus": "organization-led",
+  "founderIds": [],
+  "featuredPeopleIds": ["changpeng-zhao"]
+}

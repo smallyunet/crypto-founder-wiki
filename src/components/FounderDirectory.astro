@@ -1,0 +1,27 @@
+---
+import { getCollection } from 'astro:content';
+
+interface Props {
+	locale?: 'zh-cn' | 'en';
+}
+
+const { locale = 'zh-cn' } = Astro.props;
+const people = (await getCollection('people')).sort((a, b) => a.data.name.en.localeCompare(b.data.name.en));
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const isChinese = locale === 'zh-cn';
+---
+
+<div class="founder-grid">
+	{people.map(({ data }) => (
+		<a class="founder-card" href={`${base}/${locale}/people/${data.reportSlug}/`}>
+			<div class="founder-card__meta">
+				<span>{data.profileType === 'founder' ? (isChinese ? '创始人' : 'Founder') : (isChinese ? '行业人物' : 'Industry figure')}</span>
+				<span>{isChinese ? '已导入原始研究' : 'Source research imported'}</span>
+			</div>
+			<h3>{isChinese ? data.name.zhCn : data.name.en}</h3>
+			{data.aliases.length > 0 && <p class="founder-card__aliases">{data.aliases.join(' · ')}</p>}
+			<p>{isChinese ? data.summary.zhCn : data.summary.en}</p>
+			<span class="founder-card__link">{isChinese ? '阅读档案' : 'Read dossier'} <span aria-hidden="true">→</span></span>
+		</a>
+	))}
+</div>

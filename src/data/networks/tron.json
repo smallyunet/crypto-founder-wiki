@@ -1,0 +1,10 @@
+{
+  "name": { "zhCn": "TRON", "en": "TRON" },
+  "summary": {
+    "zhCn": "由孙宇晨创立的区块链网络。",
+    "en": "A blockchain network founded by Justin Sun."
+  },
+  "founderStatus": "identified",
+  "founderIds": ["justin-sun"],
+  "featuredPeopleIds": ["justin-sun"]
+}

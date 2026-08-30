@@ -1,0 +1,51 @@
+import { access, readFile, readdir } from 'node:fs/promises';
+
+const root = new URL('..', import.meta.url);
+
+async function loadDirectory(relativePath) {
+	const directory = new URL(relativePath, root);
+	const files = (await readdir(directory)).filter((name) => name.endsWith('.json'));
+	return new Map(await Promise.all(files.map(async (name) => {
+		const id = name.replace(/\.json$/, '');
+		const data = JSON.parse(await readFile(new URL(name, directory), 'utf8'));
+		return [id, data];
+	})));
+}
+
+const people = await loadDirectory('src/data/people/');
+const networks = await loadDirectory('src/data/networks/');
+const rankings = await loadDirectory('src/data/rankings/');
+const errors = [];
+
+for (const [personId, person] of people) {
+	for (const networkId of person.networkIds) {
+		if (!networks.has(networkId)) errors.push(`${personId}: unknown network ${networkId}`);
+	}
+	const reportPath = new URL(`src/content/docs/zh-cn/people/${person.reportSlug}.md`, root);
+	try { await access(reportPath); } catch { errors.push(`${personId}: missing report ${person.reportSlug}.md`); }
+}
+
+for (const [networkId, network] of networks) {
+	for (const personId of [...network.founderIds, ...network.featuredPeopleIds]) {
+		if (!people.has(personId)) errors.push(`${networkId}: unknown person ${personId}`);
+	}
+}
+
+for (const [snapshotId, snapshot] of rankings) {
+	const positions = new Set();
+	for (const entry of snapshot.entries) {
+		if (positions.has(entry.position)) errors.push(`${snapshotId}: duplicate position ${entry.position}`);
+		positions.add(entry.position);
+		if (!networks.has(entry.networkId)) errors.push(`${snapshotId}: unknown network ${entry.networkId}`);
+		for (const personId of entry.personIds) {
+			if (!people.has(personId)) errors.push(`${snapshotId}: unknown person ${personId}`);
+		}
+	}
+}
+
+if (errors.length > 0) {
+	console.error(errors.map((error) => `- ${error}`).join('\n'));
+	process.exit(1);
+}
+
+console.log(`Validated ${people.size} people, ${networks.size} networks, and ${rankings.size} ranking snapshot.`);

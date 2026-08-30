@@ -1,0 +1,25 @@
+---
+title: 收录路线与排名快照
+description: 网络排名、人物收录顺序和历史快照的维护方式。
+pageType: ranking
+entityId: coverage-roadmap
+---
+
+import CoverageRanking from '../../../../components/CoverageRanking.astro';
+
+## 当前起始队列
+
+<CoverageRanking locale="zh-cn" />
+
+## 正式排名如何进入仓库
+
+每次排名必须保存以下字段：
+
+1. 数据日期与抓取日期；
+2. 数据提供者和原始链接；
+3. 排名口径，例如市值、TVL 或活跃地址；
+4. 网络标识及当时数值；
+5. 数据缺失、映射争议和人工修订说明。
+
+正式快照不会覆盖旧文件。这样可以还原“在某一天，按某个口径看到的网络顺序”，也避免把实时变化写死进人物文章。
+

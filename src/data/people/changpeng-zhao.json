@@ -1,0 +1,13 @@
+{
+  "name": { "zhCn": "赵长鹏", "en": "Changpeng Zhao" },
+  "aliases": ["CZ"],
+  "profileType": "founder",
+  "summary": {
+    "zhCn": "Binance 联合创始人。档案聚焦赵家三代的教育、迁移与财富形成路径。",
+    "en": "Co-founder of Binance. The dossier examines three generations of education, migration, and wealth formation."
+  },
+  "networkIds": ["bnb-chain"],
+  "reportSlug": "changpeng-zhao",
+  "coverageStatus": "source-imported",
+  "lastReviewedAt": "2026-08-30"
+}
