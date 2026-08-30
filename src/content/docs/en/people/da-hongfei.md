@@ -1,10 +1,10 @@
 ---
 title: Da Hongfei
-description: An evidence-based profile of the Neo co-founder's family and education, Antshares/Neo, Onchain, fundraising, wealth boundaries, and the 2026 governance dispute.
+description: An evidence-based profile of the Neo co-founder's family and education, Antshares/Neo, Onchain, early Binance investment, wealth boundaries, and the 2026 governance dispute.
 pageType: person
 entityId: da-hongfei
 profileType: founder
-networkIds: [neo]
+networkIds: [neo, bnb-chain]
 researchStatus: reviewed
 investigatedAt: 2026-08-30
 lastReviewedAt: 2026-08-30
@@ -31,6 +31,7 @@ Da Hongfei is an early Chinese blockchain entrepreneur. He and Erik Zhang co-fou
 | Pre-blockchain work | He says he ran a study-abroad or higher-education consultancy until 2013 | B |
 | Neo role | Co-founder with Erik Zhang; long associated with strategy, ecosystem building, and external communication | A/B |
 | Onchain role | Founder and CEO of a separate enterprise-blockchain company | A/B |
+| Early Binance relationship | Named under Investors & Advisors in Binance's 2017 white paper; a later Neo report confirms a project-level investment | A/B |
 | Personal wealth | No audited net worth, complete wallet attribution, or current company capitalization table | Unknown |
 | Project treasury | A year-end 2025 report valued combined Neo Foundation and NGD assets at about US$460.8 million; not personal wealth | B/project disclosure |
 
@@ -75,6 +76,23 @@ Those figures do not imply that Da personally received half the NEO supply. Foun
 A financial-insights release published in March 2026 valued combined Neo Foundation and NGD assets at approximately **US$460.8 million** at year-end 2025, with 49% managed by the Foundation and 51% by NGD. It described holdings across BTC, NEO, GAS, and cash equivalents, and attributed growth to GAS, investment exits, asset management, and the 2025 sale of 35,000 ETH. [2025 report release](https://www.newsfilecorp.com/release/286403), [Neo News Today summary](https://neonewstoday.com/general/neo-publishes-first-financial-report-in-over-five-years-discloses-461m-in-total-assets/)
 
 This is a project disclosure, not Da's personal balance sheet. The release also said audit or due-diligence work was being commissioned, so the US$460.8 million figure should not be described as an already completed independent audit of personal or Foundation net worth.
+
+## Early investment in Binance
+
+Binance's 2017 white paper lists Da Hongfei under **Investors & Advisors**, identifying him as the AntShares founder and Onchain CEO. The same paper allocated 10% of the initial 200 million BNB supply—20 million BNB—to “Angel investors.” Da was therefore a publicly named launch-era investor or advisor, not merely a later ecosystem partner. [Early Binance white paper](https://www.cryptocompare.com/media/40485037/binance-coin-whitepaper.pdf)
+
+The paper does not disclose each person's contribution, investment instrument, equity percentage, or BNB amount. Nor does it say that every listed person necessarily performed both functions in the combined heading. It establishes public status and a collective allocation, not how much Binance equity or BNB Da personally received.
+
+Neo's 2025 financial report separately disclosed that **Neo invested in Binance around the exchange's launch**. A detailed report summary says the investment had produced no dividends, BNB distribution, favorable listing terms, or other benefits by the reporting date; prior valuation negotiations had not reached agreement, and NGD planned to pursue a realization for the Neo ecosystem. [Neo News Today report summary](https://neonewstoday.com/general/neo-publishes-first-financial-report-in-over-five-years-discloses-461m-in-total-assets/)
+
+Da later stated publicly that Neo invested in Binance in 2017, characterized the interest as an important financial asset of the Neo Foundation and NGD and a “community asset,” and set a goal of resolving and realizing its value within two years. [Da's public statement](https://x.com/dahongfei/status/2015665669954834670)
+
+The record therefore has two connected but non-interchangeable parts:
+
+1. Binance's white paper names Da personally in its investor and advisor list;
+2. Neo's report and Da's later statement characterize an early investment as a Neo community asset.
+
+Public documents do not show whether both descriptions concern exactly the same contract, whether separate personal and project investments existed, or how beneficial rights were divided. This dossier therefore confirms that Da was a named early Binance investor/advisor and participated in Neo's early investment relationship, but does not add that interest to his personal net worth.
 
 ## Onchain: separating company from public chain
 
@@ -124,7 +142,8 @@ The evidence supports several possible wealth channels but quantifies none compl
 2. Onchain founder equity, compensation, or related interests;
 3. appreciation of personally held BTC, NEO, ONT, or other cryptoassets;
 4. salary or fees from Neo, NGD, or associated organizations;
-5. other investments, advisory work, or fund relationships not fully disclosed.
+5. the early Binance investor/advisor relationship, for which his personal contribution, BNB, and equity entitlement are undisclosed;
+6. other investments, advisory work, or fund relationships not fully disclosed.
 
 This dossier therefore rejects “Neo market cap multiplied by a founder percentage” and “Foundation treasury equals founder net worth.” The first lacks a verified personal percentage; the second confuses legal ownership with governance control. Both ignore liquidity, fiduciary restrictions, cost, and tax.
 
@@ -143,6 +162,7 @@ Two distortions should be avoided. Neo was not a one-person technical creation: 
 - Independent audit results and full address mapping for the Foundation and NGD assets reported for 2025;
 - Whether either 2026 governance plan is adopted and whether treasury assets complete a multisignature and legal-entity transition;
 - Historical contracts and economic links among Neo, Onchain, Ontology, NGC, and other investment entities.
+- The Binance investment contract, investing entity, amount, equity or BNB allocation, and the beneficial-rights boundary between Da and Neo community assets.
 
 ## Key sources
 
@@ -157,5 +177,7 @@ Two distortions should be avoided. Neo was not a one-person technical creation: 
 9. [Da's 2026 Foundation restructuring proposal](https://github.com/neo-project/neo/issues/4526)
 10. [Erik Zhang's 2026 governance-restoration proposal](https://github.com/neo-project/neo/issues/4531)
 11. [CoinDesk on treasury signing and the co-founder conflict](https://www.coindesk.com/business/2026/04/16/one-person-holds-the-keys-to-usd200-million-of-a-project-s-crypto-his-co-founder-says-that-has-to-end)
+12. [Binance 2017 white paper: Investors & Advisors](https://www.cryptocompare.com/media/40485037/binance-coin-whitepaper.pdf)
+13. [Neo News Today: the Binance investment disclosed in the 2025 report](https://neonewstoday.com/general/neo-publishes-first-financial-report-in-over-five-years-discloses-461m-in-total-assets/)
 
 _Last reviewed August 30, 2026. Treasury values, wallet control, company ownership, and governance-proposal status can change. This dossier is not investment, legal, or tax advice._

@@ -15,6 +15,7 @@ BNB Chain is a blockchain network developed through the Binance ecosystem.
 ## Covered people
 
 - [Changpeng Zhao (CZ)](../../people/changpeng-zhao/): included as a co-founder of Binance. This wiki does not automatically equate founding a company with being the sole founder of a related network.
+- [Da Hongfei](../../people/da-hongfei/): a named early investor/advisor in Binance's 2017 white paper; a later Neo report also confirms a project-level early investment in Binance. That launch-era Binance and BNB relationship does not make Da a founder or controller of BNB Chain.
 
 ## Editorial distinction
 

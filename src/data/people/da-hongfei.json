@@ -3,10 +3,10 @@
   "aliases": ["Uncle Da", "达叔", "笪鸿飞"],
   "profileType": "founder",
   "summary": {
-    "zhCn": "Neo（原小蚁/Antshares）共同创始人及 Onchain 创始人。档案区分其个人经历、商业公司权益、Neo 基金会国库与2026年治理争议。",
-    "en": "Co-founder of Neo, originally Antshares, and founder of Onchain. The dossier separates his personal history and company interests from Neo's foundation treasury and the 2026 governance dispute."
+    "zhCn": "Neo（原小蚁/Antshares）共同创始人、Onchain 创始人，也是币安白皮书列名的早期投资人/顾问。档案区分个人权益、Neo 项目投资与基金会国库。",
+    "en": "Co-founder of Neo, founder of Onchain, and a named early investor/advisor in Binance's white paper. The dossier separates personal interests, Neo's investment, and foundation treasury assets."
   },
-  "networkIds": ["neo"],
+  "networkIds": ["neo", "bnb-chain"],
   "reportSlug": "da-hongfei",
   "coverageStatus": "reviewed",
   "lastReviewedAt": "2026-08-30"

@@ -15,6 +15,7 @@ BNB Chain 是由 Binance 生态推动发展的区块链网络。
 ## 已收录关联人物
 
 - [赵长鹏（CZ）](../../people/changpeng-zhao/)：作为 Binance 联合创始人收录。本站不会在缺乏明确来源时，把公司创始人身份直接等同于某一网络的单一创始人身份。
+- [达鸿飞](../../people/da-hongfei/)：Binance 2017年白皮书列名的早期投资人/顾问；Neo 后续财报也确认项目层面的早期 Binance 投资。该关系发生在 Binance/BNB 启动期，不表示达鸿飞创立或控制 BNB Chain。
 
 ## 收录原则
 

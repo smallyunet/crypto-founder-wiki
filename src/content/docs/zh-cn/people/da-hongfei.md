@@ -1,10 +1,10 @@
 ---
 title: 达鸿飞（Da Hongfei／达叔）
-description: Neo共同创始人达鸿飞的家庭与教育背景、小蚁/Neo、Onchain、融资、财富边界及2026年治理争议证据档案。
+description: Neo共同创始人达鸿飞的家庭与教育背景、小蚁/Neo、Onchain、币安早期投资、财富边界及2026年治理争议证据档案。
 pageType: person
 entityId: da-hongfei
 profileType: founder
-networkIds: [neo]
+networkIds: [neo, bnb-chain]
 researchStatus: reviewed
 investigatedAt: 2026-08-30
 lastReviewedAt: 2026-08-30
@@ -31,6 +31,7 @@ tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 }
 | 区块链前职业 | 本人称毕业后回上海，2013年前经营留学/高等教育咨询公司 | B |
 | Neo 角色 | 与 Erik Zhang 共同创立 Antshares/Neo；长期承担战略、生态和对外角色 | A/B |
 | Onchain 角色 | 创始人兼 CEO；企业级区块链公司，与 Neo 不是同一主体 | A/B |
+| Binance 早期关系 | 2017年币安白皮书将其列入 Investors & Advisors；后续 Neo 财报确认项目层面曾投资 Binance | A/B |
 | 个人财富 | 无经审计净财富、完整持币地址或公司最新股权表；无法可靠量化 | 未知 |
 | 项目国库 | 2025年末报告称 Neo Foundation 与 NGD 合计约4.608亿美元；不属于个人净财富 | B/项目披露 |
 
@@ -75,6 +76,23 @@ Neo Foundation 2019年中期财报称，项目通过募资共获得约 **8,169 B
 Neo 在2026年3月发布的财务洞察称，截至2025年末 Neo Foundation 与 NGD 合计持有约 **4.608亿美元**资产，49%由基金会管理、51%由 NGD 管理；资产包括 BTC、NEO、GAS 和现金等价物。披露还称，国库增长来自 GAS、投资退出、资产管理和2025年出售35,000 ETH 等来源。[2025财务报告新闻稿](https://www.newsfilecorp.com/release/286403)、[Neo News Today 摘要](https://neonewstoday.com/general/neo-publishes-first-financial-report-in-over-five-years-discloses-461m-in-total-assets/)
 
 这份材料是项目方财务披露，不是达鸿飞个人资产负债表；新闻稿还说审计/尽调工作正在推进，因此4.608亿美元也不应表述成已完成独立审计的个人或基金会净资产。
+
+## 作为早期投资人参与 Binance
+
+Binance 2017年白皮书在 **Investors & Advisors** 名单中列出 Da Hongfei，身份注明为 AntShares founder、Onchain CEO。同一白皮书称2亿枚初始 BNB 中10%、即2,000万枚配置给“Angel investors”。因此，达鸿飞是 Binance 启动期公开列名的投资人/顾问，而不是后来才建立联系的普通合作方。[Binance 早期白皮书](https://www.cryptocompare.com/media/40485037/binance-coin-whitepaper.pdf)
+
+不过，白皮书没有逐人披露出资金额、投资工具、股权比例或 BNB 数量，也没有说明名单中的每个人究竟同时承担“投资人”和“顾问”两种角色。它能证明公开身份和群体配置，不能单独证明达鸿飞个人获得了多少 Binance 股权或 BNB。
+
+Neo 的2025财务报告又披露，**Neo 在 Binance 成立前后进行了投资**。报告摘要称，该投资至披露时没有收到股息、BNB 分配、优惠上币条款或其他回报，历次估值谈判也未达成一致，NGD 计划推动处置并把所得重新用于 Neo 生态。[Neo News Today 对财报的摘要](https://neonewstoday.com/general/neo-publishes-first-financial-report-in-over-five-years-discloses-461m-in-total-assets/)
+
+达鸿飞随后也公开称 Neo 于2017年投资 Binance，并把这项权益称为 Neo Foundation 与 NGD 的重要金融资产和“community asset”，目标是在两年内厘清并实现其价值。[达鸿飞公开声明](https://x.com/dahongfei/status/2015665669954834670)
+
+这形成两个相互关联、但不能直接合并的记录：
+
+1. 币安白皮书以达鸿飞个人姓名把他列入投资人/顾问名单；
+2. Neo 财报和达鸿飞后来的声明把相关早期投资描述为 Neo 的社区资产。
+
+公开材料没有披露两者是否完全属于同一份合同、是否同时存在个人与项目两笔投资，或实际受益权如何分配。因此本站确认“达鸿飞是币安公开列名的早期投资人/顾问，并参与了 Neo 对 Binance 的早期投资关系”，但不把该权益直接计入其个人净财富。
 
 ## Onchain：企业公司与公链要分开
 
@@ -124,7 +142,8 @@ CoinDesk 依据达鸿飞的说法报道，关键一步需要 Erik Zhang 配合�
 2. Onchain 创始人股权、薪酬或相关权益，但最新持股和估值未知；
 3. BTC、NEO、ONT 等个人加密资产的价格变化，但地址和数量未披露；
 4. Neo、NGD 或关联机构可能支付的薪酬与费用，但没有完整个人报酬表；
-5. 其他投资、咨询或基金关系，公开资料不足以逐项量化。
+5. Binance 白皮书列名的早期投资/顾问关系，但个人出资、BNB 与股权受益量未披露；
+6. 其他投资、咨询或基金关系，公开资料不足以逐项量化。
 
 因此不采用网上流传的“NEO市值乘创始人份额”或“基金会国库等于个人身家”算法。前者缺少个人份额，后者混淆法律所有权与治理控制；两者都忽略流动性、托管义务、成本与税负。
 
@@ -143,6 +162,7 @@ CoinDesk 依据达鸿飞的说法报道，关键一步需要 Erik Zhang 配合�
 - 2025财务报告中基金会与 NGD 资产的独立审计结果及完整地址映射；
 - 2026年两套治理方案最终是否通过，国库是否已完成多签和法律主体迁移；
 - Neo、Onchain、Ontology、NGC及其他投资实体之间历史合同和利益安排。
+- Binance 早期投资合同、出资主体、金额、股权或 BNB 配置，以及个人与 Neo 社区资产之间的受益权边界。
 
 ## 关键来源
 
@@ -157,5 +177,7 @@ CoinDesk 依据达鸿飞的说法报道，关键一步需要 Erik Zhang 配合�
 9. [达鸿飞2026年基金会重组提案](https://github.com/neo-project/neo/issues/4526)
 10. [Erik Zhang 2026年治理恢复提案](https://github.com/neo-project/neo/issues/4531)
 11. [CoinDesk：2026年国库签名与创始人冲突](https://www.coindesk.com/business/2026/04/16/one-person-holds-the-keys-to-usd200-million-of-a-project-s-crypto-his-co-founder-says-that-has-to-end)
+12. [Binance 2017年白皮书：Investors & Advisors](https://www.cryptocompare.com/media/40485037/binance-coin-whitepaper.pdf)
+13. [Neo News Today：2025财报中的 Binance 投资](https://neonewstoday.com/general/neo-publishes-first-financial-report-in-over-five-years-discloses-461m-in-total-assets/)
 
 _最后复核：2026年8月30日。国库估值、钱包控制、公司股权和治理提案状态可能变化；本文不构成投资、法律或税务建议。_
