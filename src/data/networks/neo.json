@@ -1,0 +1,10 @@
+{
+  "name": { "zhCn": "Neo", "en": "Neo" },
+  "summary": {
+    "zhCn": "2014年以小蚁（Antshares）启动、2017年更名的智能合约公链，由达鸿飞与 Erik Zhang 共同创立。",
+    "en": "A smart-contract blockchain launched as Antshares in 2014 and renamed Neo in 2017, co-founded by Da Hongfei and Erik Zhang."
+  },
+  "founderStatus": "identified",
+  "founderIds": ["da-hongfei"],
+  "featuredPeopleIds": ["da-hongfei"]
+}

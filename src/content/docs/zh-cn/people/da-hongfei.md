@@ -1,0 +1,161 @@
+---
+title: 达鸿飞（Da Hongfei／达叔）
+description: Neo共同创始人达鸿飞的家庭与教育背景、小蚁/Neo、Onchain、融资、财富边界及2026年治理争议证据档案。
+pageType: person
+entityId: da-hongfei
+profileType: founder
+networkIds: [neo]
+researchStatus: reviewed
+investigatedAt: 2026-08-30
+lastReviewedAt: 2026-08-30
+tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 }
+---
+
+:::note[结论摘要]
+达鸿飞是中国早期区块链创业者之一，与 Erik Zhang 于2014年共同创立小蚁（Antshares，2017年更名 Neo），随后又创立面向企业的 Onchain（分布科技）。现有证据不支持“靠显赫家世起步”的说法，也不足以给出其个人净财富：父母、兄弟姐妹、婚姻、子女及家庭资产几乎没有可靠公开记录。Neo 基金会/NGD 的代币与投资国库、Onchain 的公司权益、达鸿飞个人持币必须分开。2026年的国库控制争议说明创始人治理风险，但不能把项目国库直接算作任何创始人的私人财产。
+:::
+
+<figure class="profile-figure">
+  <img src="/crypto-founder-wiki/images/people/da-hongfei.webp" alt="达鸿飞的黑白正面肖像" width="720" height="900" loading="eager" fetchpriority="high" />
+  <figcaption>达鸿飞官方项目肖像，来自 <a href="https://github.com/neo-project/neo.org/blob/release/NeoWeb/wwwroot/images/discover/DaHongfei.jpg">Neo 官网开源仓库</a>，仓库采用 <a href="https://github.com/neo-project/neo.org/blob/release/LICENSE">MPL 2.0</a>；原仓库未列摄影者姓名。本站裁切、缩放、移除元数据并转换为 WebP。</figcaption>
+</figure>
+
+## 核心信息
+
+| 主题 | 当前结论 | 证据 |
+| --- | --- | --- |
+| 姓名 | 英文固定使用 Da Hongfei；中文圈通称“达鸿飞/达叔”，本人称自己的姓是“笪（Dá）” | B |
+| 出生 | 多个二手资料写1980年，但未找到出生或官方档案支持，本站不列为已确认 | C/D |
+| 家庭 | 父母、祖辈、兄弟姐妹、婚姻与子女没有足够可靠的公开资料 | 未知 |
+| 教育 | 本人称毕业于华南理工大学，专业为科技英语 | B |
+| 区块链前职业 | 本人称毕业后回上海，2013年前经营留学/高等教育咨询公司 | B |
+| Neo 角色 | 与 Erik Zhang 共同创立 Antshares/Neo；长期承担战略、生态和对外角色 | A/B |
+| Onchain 角色 | 创始人兼 CEO；企业级区块链公司，与 Neo 不是同一主体 | A/B |
+| 个人财富 | 无经审计净财富、完整持币地址或公司最新股权表；无法可靠量化 | 未知 |
+| 项目国库 | 2025年末报告称 Neo Foundation 与 NGD 合计约4.608亿美元；不属于个人净财富 | B/项目披露 |
+
+**A 级**为协议、基金会财报、公司或标准机构的一手记录；**B 级**为本人访谈及多方印证的可靠报道；**C 级**为可信二手重构；**D 级**为缺乏原始文件的网络说法。
+
+## 姓名、家庭与教育
+
+### “达鸿飞”与“笪鸿飞”
+
+Neo 的英文资料一贯写作 Da Hongfei，中文媒体和社区普遍使用“达鸿飞”，昵称“达叔”。2018年蜂巢财经采访中，他本人说“我姓笪（Dá）”，并称其大学专业是科技英语。部分企业工商资料的新闻截图也使用“笪鸿飞”。因此，“达鸿飞”适合作为公众识别名，但不应据此断定其法定姓氏就是常用字“达”。[蜂巢财经采访转载](https://www.sohu.com/a/246010534_100157595)、[英文翻译](https://neonewstoday.com/interviews/english-translation-of-da-hongfei-interview-with-honeycomb-finance/)
+
+### 公开资料没有支持家族财富叙事
+
+目前没有可靠公开来源说明其父母职业、家庭企业、祖辈政治关系、兄弟姐妹、配偶或子女。搜索结果中常见的“1980年出生”“1997年入读大学”等细节主要来自商业百科或相互转载，缺少可追溯的学校、户籍或本人同期记录。因此本站不把这些细节升级为确定事实。
+
+这只说明证据缺口，不等于证明其来自贫困家庭、没有结婚或没有亲属资产。更稳妥的结论是：**没有发现足以解释其区块链地位的继承性财富或显赫家世证据；也没有材料足以完整重建其私人家庭。**
+
+### 教育与第一段创业
+
+达鸿飞在上述采访中称，自己在广州完成大学学业，毕业于华南理工大学科技英语专业，随后回到上海；2011年接触 Bitcoin，2013年前经营自己的留学/高等教育咨询公司，之后全职进入区块链行业。这是直接自述，可信度高于商业人物百科，但学校公开校友档案和原咨询公司的完整工商、收入资料仍未找到。
+
+这条路径反映的早期资本更像语言能力、技术兴趣、教育服务创业经验与中国早期 Bitcoin 社群关系，而不是已证实的巨额家庭资金。
+
+## 从 Bitcoin 社群到小蚁
+
+达鸿飞称自己2011年开始研究 Bitcoin，并在早期中文社区写作、传播区块链概念。到2013年前后，他已参与中国早期行业社群，2014年与 Erik Zhang 发起 Antshares。Neo 官方历史记录：项目2014年创立，2015年7月把源代码发布到 GitHub，2016年10月启动主网，2017年更名为 Neo。[Neo 官方历史](https://neo.org/about)
+
+“Neo 创始人达鸿飞”是正确简称，但不是完整归功。Erik Zhang 是共同创始人、核心开发者和 dBFT 共识机制作者；达鸿飞更多承担愿景、融资、组织、生态合作和公共表达。两种贡献共同构成早期项目。
+
+## 众筹、代币分配与基金会国库
+
+### 早期融资
+
+Neo Foundation 2019年中期财报称，项目通过募资共获得约 **8,169 BTC 和97,517美元**；2015年10月至2018年2月间，其中7,016.6 BTC 被兑换为8,388,747美元，用于基金会和 NGD 运营。[Neo Foundation 2019中期财报](https://neo.org/files/NEO%20Foundation%20Financial%20Report-2019Jun.pdf)
+
+财报还记录，1亿枚 NEO 在创世时产生。约一半分发给募资参与者，基金会最初管理的余额为49,517,932枚，少于整5,000万是因为推广分发。该储备被划分为开发与基金会运营、生态开发、其他区块链投资和应急用途。
+
+这些数字不能反推“达鸿飞个人拿走一半 NEO”。基金会管理权、钱包签名权、预算决策权和代币受益所有权是四个不同概念。即使创始人曾对国库拥有很强控制，也不自动把所有储备变成个人资产。
+
+### 2025年末国库披露
+
+Neo 在2026年3月发布的财务洞察称，截至2025年末 Neo Foundation 与 NGD 合计持有约 **4.608亿美元**资产，49%由基金会管理、51%由 NGD 管理；资产包括 BTC、NEO、GAS 和现金等价物。披露还称，国库增长来自 GAS、投资退出、资产管理和2025年出售35,000 ETH 等来源。[2025财务报告新闻稿](https://www.newsfilecorp.com/release/286403)、[Neo News Today 摘要](https://neonewstoday.com/general/neo-publishes-first-financial-report-in-over-five-years-discloses-461m-in-total-assets/)
+
+这份材料是项目方财务披露，不是达鸿飞个人资产负债表；新闻稿还说审计/尽调工作正在推进，因此4.608亿美元也不应表述成已完成独立审计的个人或基金会净资产。
+
+## Onchain：企业公司与公链要分开
+
+达鸿飞在公链之外创立 Onchain（中文常称分布科技），面向银行、券商、政府和企业提供分布式账本与 DNA 架构方案。KPMG 2018中国金融科技50报告列达鸿飞为创始人兼 CEO、Erik Zhang 为创始人兼 CTO，并列出复星为战略投资者。[KPMG 中国金融科技50](https://assets.kpmg.com/content/dam/kpmg/cn/pdf/en/2018/12/china-fintech-50.pdf)
+
+达鸿飞2019年受访时把 Onchain 明确称为自己的私营公司，并确认复星投资及企业概念验证合作。报道还提到红杉中国等投资者，但公开材料没有提供一张足以确认其当前持股比例、历次稀释、退出与公司估值的完整股权表。[Forkast 访谈](https://forkast.news/video-audio/watch-in-conversation-with-da-hongfei-neo-china-born-digital-asset-protocol/)
+
+| 主体 | 性质与可核验角色 | 与个人财富的边界 |
+| --- | --- | --- |
+| Neo 网络 | 开源公链，由节点、委员会、开发者和用户共同运行 | 网络市值不是创始人资产 |
+| Neo Foundation | 项目战略、资助与部分国库管理主体 | 基金会国库不是个人财产 |
+| NGD | 开发、运营和生态执行组织 | 组织管理资产不等于高管持有 |
+| Onchain / 分布科技 | 获机构投资的企业区块链公司 | 创始人股权可能有价值，但缺少最新股权与估值资料 |
+| Ontology | 由 Onchain 孵化、Li Jun 创立的独立公链 | 达鸿飞曾参与战略层面，不应写成其单独创立或私人持有 |
+
+2018年达鸿飞称 Neo 与 Ontology 的团队、管理和融资相互独立；他与 Erik 通过 Onchain 影响战略，但不参与 Ontology 日常运营，并明确称 Li Jun 是 Ontology 创始人。这是当事人对组织边界的说法，应与公司和链上记录一起使用，而不是当作没有关联的证明。[2018访谈](https://neonewstoday.com/interviews/english-translation-of-da-hongfei-interview-with-honeycomb-finance/)
+
+## 技术路线与产业影响
+
+Neo 的“智能经济”愿景把数字资产、数字身份和智能合约放在同一平台。其 dBFT 模型追求快速最终性；N3 形成21名委员会、7名共识节点的链上治理，并以 NEO 投票和 GAS 激励连接治理与经济收益。[Neo 治理文档](https://docs.neo.org/docs/n3/foundation/governance.html)
+
+达鸿飞的作用并非主要体现在逐行实现协议，而在于选择方向、筹集与配置资源、链接中国企业与全球开发者、推动标准化并持续为 Neo 叙事定调。2025年接受 DefiLlama Research 采访时，他仍以 Neo 创始人身份讨论 N3、Neo X、DeFi 与 SpoonOS/AI 方向。[DefiLlama Research](https://defillama.com/research/interview/a-conversation-with-da-hongfei-founder-of-neo)
+
+这种角色带来显著软权力，也带来“创始人愿景是否压过社区治理”的长期问题。开放源代码并不自动等于组织、国库和议程完全去中心化。
+
+## 2026年治理冲突
+
+### 两套公开方案
+
+2026年4月9日，达鸿飞在 Neo GitHub 发布基金会重组提案，称两位创始人在结构、战略、支出与领导层上出现僵局，基金会控制代币在链上治理中占比过高。他主张建立更独立的董事会和监督机制、提高财务公开、引入质押投票，并把创始人管理的资产与治理工具整合进制度化基金会。[达鸿飞重组提案](https://github.com/neo-project/neo/issues/4526)
+
+4月13日，Erik Zhang 发布不同的治理恢复提案，强调公共资产授权、监督、责任追溯和可执行治理秩序。[Erik Zhang 提案](https://github.com/neo-project/neo/issues/4531) 随后出现临时委员会及支出透明网站，公开一个基金会地址与逐笔披露原则。[临时委员会透明网站](https://transparency.neo.org/)
+
+### 国库控制不等于个人所有
+
+CoinDesk 依据达鸿飞的说法报道，关键一步需要 Erik Zhang 配合，把单签控制的代币转入多签/宪制治理地址；截至报道时 Zhang 未回应其置评请求。该报道证明的是签名结构和共同创始人冲突成为公共风险，不是法院认定 Zhang 或达鸿飞“占有2亿美元”。[CoinDesk，2026年4月](https://www.coindesk.com/business/2026/04/16/one-person-holds-the-keys-to-usd200-million-of-a-project-s-crypto-his-co-founder-says-that-has-to-end)
+
+截至2026年8月，GitHub 上两套方案仍是公开讨论材料。档案不裁定哪一方方案更合法，也不把双方指控升级为事实。可以确认的是：Neo 的链上投票、基金会法律治理、钱包签名和运营预算并未完全统一，创始人分歧暴露了制度依赖。
+
+## 个人持币与财富形成边界
+
+达鸿飞2018年称自己当时只持有 BTC、NEO 和 ONT，并拒绝公开具体数量。这是一个历史自述，不是可用于2026年估值的完整资产申报。[2018访谈](https://neonewstoday.com/interviews/english-translation-of-da-hongfei-interview-with-honeycomb-finance/)
+
+现有证据支持的潜在财富来源包括：
+
+1. 区块链前教育咨询创业的收入，但金额未知；
+2. Onchain 创始人股权、薪酬或相关权益，但最新持股和估值未知；
+3. BTC、NEO、ONT 等个人加密资产的价格变化，但地址和数量未披露；
+4. Neo、NGD 或关联机构可能支付的薪酬与费用，但没有完整个人报酬表；
+5. 其他投资、咨询或基金关系，公开资料不足以逐项量化。
+
+因此不采用网上流传的“NEO市值乘创始人份额”或“基金会国库等于个人身家”算法。前者缺少个人份额，后者混淆法律所有权与治理控制；两者都忽略流动性、托管义务、成本与税负。
+
+## 综合判断
+
+达鸿飞的上升路径更像“早期社群位置 + 语言与商业组织能力 + 公链融资 + 企业区块链公司 + 长期项目国库与生态管理”，而不是有证据支持的家族资本继承。Neo 为他带来行业声誉和资源配置影响，Onchain 则提供更传统的公司股权与机构融资渠道。
+
+最需要防止的两种误读是：一是把 Neo 写成达鸿飞单人技术作品，忽略 Erik Zhang 和全球开发社区；二是把 Neo Foundation/NGD 的数亿美元国库写成达鸿飞个人财富。2026年争议反而表明，控制权、签名权、治理合法性与受益所有权之间存在必须逐项审查的差异。
+
+## 尚未解决的问题
+
+- 出生日期、父母职业、家庭资产、婚姻与子女的可靠一手记录；
+- 早期教育咨询公司的名称、经营规模、收入及退出方式；
+- Onchain 最新股权表、历轮融资条款、公司估值和达鸿飞实际权益；
+- 达鸿飞本人全部加密钱包、持币数量、处置记录、薪酬和税务情况；
+- 2025财务报告中基金会与 NGD 资产的独立审计结果及完整地址映射；
+- 2026年两套治理方案最终是否通过，国库是否已完成多签和法律主体迁移；
+- Neo、Onchain、Ontology、NGC及其他投资实体之间历史合同和利益安排。
+
+## 关键来源
+
+1. [Neo 官方历史](https://neo.org/about)
+2. [Neo 贡献者与组织结构](https://neo.org/contributors)
+3. [达鸿飞2018年蜂巢财经访谈英文翻译](https://neonewstoday.com/interviews/english-translation-of-da-hongfei-interview-with-honeycomb-finance/)
+4. [Neo Foundation 2019年中期财报](https://neo.org/files/NEO%20Foundation%20Financial%20Report-2019Jun.pdf)
+5. [Neo 2025财务报告新闻稿](https://www.newsfilecorp.com/release/286403)
+6. [KPMG 2018中国金融科技50：Onchain](https://assets.kpmg.com/content/dam/kpmg/cn/pdf/en/2018/12/china-fintech-50.pdf)
+7. [Forkast：达鸿飞、Neo 与 Onchain 访谈](https://forkast.news/video-audio/watch-in-conversation-with-da-hongfei-neo-china-born-digital-asset-protocol/)
+8. [Neo N3治理与双代币文档](https://docs.neo.org/docs/n3/foundation/governance.html)
+9. [达鸿飞2026年基金会重组提案](https://github.com/neo-project/neo/issues/4526)
+10. [Erik Zhang 2026年治理恢复提案](https://github.com/neo-project/neo/issues/4531)
+11. [CoinDesk：2026年国库签名与创始人冲突](https://www.coindesk.com/business/2026/04/16/one-person-holds-the-keys-to-usd200-million-of-a-project-s-crypto-his-co-founder-says-that-has-to-end)
+
+_最后复核：2026年8月30日。国库估值、钱包控制、公司股权和治理提案状态可能变化；本文不构成投资、法律或税务建议。_

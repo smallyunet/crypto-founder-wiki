@@ -16,6 +16,7 @@ This site uses images with traceable sources and explicit reuse terms. Portraits
 | `vitalik-buterin.webp` | Vitalik Buterin | John Phillips / TechCrunch / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vitalik_Buterin_(cropped).jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | Cropped, resized, metadata removed, converted to WebP |
 | `satoshi-nakamoto.webp` | Satoshi Nakamoto memorial sculpture—not a portrait of the creator | Fekist / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bust_of_Satoshi_Nakamoto_in_Budapest.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | Cropped, resized, metadata removed, converted to WebP |
 | `donald-trump.webp` | Donald Trump | Daniel Torok / Executive Office of the President of the United States / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:President-Donald-Trump-Official-Presidential-Portrait.png) | U.S. federal government work, public domain in the United States | Cropped, resized, metadata removed, converted to WebP |
+| `da-hongfei.webp` | Da Hongfei | Neo Foundation / [neo-project/neo.org](https://github.com/neo-project/neo.org/blob/release/NeoWeb/wwwroot/images/discover/DaHongfei.jpg) | [MPL 2.0](https://github.com/neo-project/neo.org/blob/release/LICENSE) | Cropped from the portrait in Neo's open-source website repository, resized, metadata removed, and converted to WebP; the repository does not name the photographer |
 
 ## Network marks
 
@@ -26,6 +27,7 @@ This site uses images with traceable sources and explicit reuse terms. Portraits
 | `tron.svg` | TRON | TRON Foundation / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TRON-logo-EN-vertical.svg) | Public domain |
 | `ethereum.svg` | Ethereum | Ethereum / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ethereum_logo.svg) | Public domain (simple geometric logo); trademark rights may apply |
 | `solana.svg` | Solana | Solana Foundation / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Solana-sol-logo-horizontal-2025.svg) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); trademark rights may apply |
+| `neo.svg` | Neo | Neo / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:NEO-logo.svg) | Public domain (simple geometric mark); trademark rights may apply |
 
 ## Usage policy
 

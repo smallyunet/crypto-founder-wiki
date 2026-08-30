@@ -16,6 +16,7 @@ pageType: policy
 | `vitalik-buterin.webp` | 维塔利克·布特林 | John Phillips / TechCrunch / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vitalik_Buterin_(cropped).jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 裁切、缩放、移除元数据、转换 WebP |
 | `satoshi-nakamoto.webp` | 中本聪纪念雕像（非本人肖像） | Fekist / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bust_of_Satoshi_Nakamoto_in_Budapest.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 裁切、缩放、移除元数据、转换 WebP |
 | `donald-trump.webp` | 唐纳德·特朗普 | Daniel Torok / 美国总统行政办公室 / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:President-Donald-Trump-Official-Presidential-Portrait.png) | 美国联邦政府作品，在美国属于公共领域 | 裁切、缩放、移除元数据、转换 WebP |
+| `da-hongfei.webp` | 达鸿飞 | Neo Foundation / [neo-project/neo.org](https://github.com/neo-project/neo.org/blob/release/NeoWeb/wwwroot/images/discover/DaHongfei.jpg) | [MPL 2.0](https://github.com/neo-project/neo.org/blob/release/LICENSE) | 从 Neo 官网开源仓库肖像裁切、缩放、移除元数据、转换 WebP；原仓库未列摄影者姓名 |
 
 ## 网络标识
 
@@ -26,6 +27,7 @@ pageType: policy
 | `tron.svg` | TRON | TRON Foundation / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TRON-logo-EN-vertical.svg) | 公共领域 |
 | `ethereum.svg` | 以太坊 | Ethereum / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ethereum_logo.svg) | 公共领域（简单几何标识）；仍可能适用商标规则 |
 | `solana.svg` | Solana | Solana Foundation / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Solana-sol-logo-horizontal-2025.svg) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)；仍可能适用商标规则 |
+| `neo.svg` | Neo | Neo / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:NEO-logo.svg) | 公共领域（简单几何标识）；仍可能适用商标规则 |
 
 ## 使用原则
 
