@@ -1,0 +1,13 @@
+{
+  "name": { "zhCn": "中本聪", "en": "Satoshi Nakamoto" },
+  "aliases": ["Satoshi Nakamoto", "Satoshi", "中本聪", "中本聰"],
+  "profileType": "founder",
+  "summary": {
+    "zhCn": "Bitcoin 白皮书作者、原始软件开发者和网络启动者所使用的化名。真实身份、家庭背景和可控制资产至今未获可靠确认。",
+    "en": "The pseudonym used by Bitcoin's white-paper author, original software developer, and network launcher. The underlying identity, family background, and controllable assets remain unverified."
+  },
+  "networkIds": ["bitcoin"],
+  "reportSlug": "satoshi-nakamoto",
+  "coverageStatus": "reviewed",
+  "lastReviewedAt": "2026-08-30"
+}

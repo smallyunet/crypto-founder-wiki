@@ -9,7 +9,7 @@
   "entries": [
     { "position": 1, "networkId": "bnb-chain", "personIds": ["changpeng-zhao"], "coverageStatus": "published" },
     { "position": 2, "networkId": "tron", "personIds": ["justin-sun"], "coverageStatus": "published" },
-    { "position": 3, "networkId": "bitcoin", "personIds": ["chandler-guo"], "coverageStatus": "published" },
+    { "position": 3, "networkId": "bitcoin", "personIds": ["satoshi-nakamoto", "chandler-guo"], "coverageStatus": "published" },
     { "position": 4, "networkId": "ethereum", "personIds": ["vitalik-buterin"], "coverageStatus": "published" }
   ]
 }

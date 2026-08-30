@@ -14,6 +14,7 @@ pageType: policy
 | `justin-sun.webp` | 孙宇晨 | MelfarraTron / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Justin_Sun-1_(cropped).jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 裁切、缩放、移除元数据、转换 WebP |
 | `chandler-guo.webp` | 郭宏才 | World Economic Forum / Sikarin Thanachaiary / [Flickr](https://www.flickr.com/photos/worldeconomicforum/27670228120/) | [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/) | 从圆桌会议照片裁切、缩放、移除元数据、转换 WebP；仅用于非商业知识档案 |
 | `vitalik-buterin.webp` | 维塔利克·布特林 | John Phillips / TechCrunch / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vitalik_Buterin_(cropped).jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 裁切、缩放、移除元数据、转换 WebP |
+| `satoshi-nakamoto.webp` | 中本聪纪念雕像（非本人肖像） | Fekist / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bust_of_Satoshi_Nakamoto_in_Budapest.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 裁切、缩放、移除元数据、转换 WebP |
 
 ## 网络标识
 
