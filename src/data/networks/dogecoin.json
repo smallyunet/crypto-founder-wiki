@@ -1,0 +1,10 @@
+{
+  "name": { "zhCn": "Dogecoin（狗狗币）", "en": "Dogecoin" },
+  "summary": {
+    "zhCn": "Billy Markus 与 Jackson Palmer 于2013年推出的开源 Scrypt 工作量证明网络，以固定每区块1万 DOGE 的尾部发行和与 Litecoin 合并挖矿著称。",
+    "en": "An open-source Scrypt proof-of-work network launched by Billy Markus and Jackson Palmer in 2013, known for a permanent 10,000-DOGE block subsidy and merged mining with Litecoin."
+  },
+  "founderStatus": "identified",
+  "founderIds": [],
+  "featuredPeopleIds": ["elon-musk"]
+}

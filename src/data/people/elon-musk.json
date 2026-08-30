@@ -1,0 +1,14 @@
+{
+  "name": { "zhCn": "埃隆·马斯克", "en": "Elon Musk" },
+  "aliases": ["Elon Reeve Musk"],
+  "profileType": "industry-figure",
+  "directoryOrder": 90,
+  "summary": {
+    "zhCn": "Tesla 与 SpaceX 负责人、Dogecoin 的公开持有人和高影响力推广者。档案区分其个人持币、企业采用、市场影响与网络创始权。",
+    "en": "Tesla and SpaceX leader, disclosed Dogecoin holder, and highly influential promoter. The dossier separates his holdings, corporate adoption, market influence, and network authorship."
+  },
+  "networkIds": ["dogecoin"],
+  "reportSlug": "elon-musk",
+  "coverageStatus": "reviewed",
+  "lastReviewedAt": "2026-08-30"
+}

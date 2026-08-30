@@ -19,6 +19,7 @@ pageType: policy
 | `da-hongfei.webp` | 达鸿飞 | Neo Foundation / [neo-project/neo.org](https://github.com/neo-project/neo.org/blob/release/NeoWeb/wwwroot/images/discover/DaHongfei.jpg) | [MPL 2.0](https://github.com/neo-project/neo.org/blob/release/LICENSE) | 从 Neo 官网开源仓库肖像裁切、缩放、移除元数据、转换 WebP；原仓库未列摄影者姓名 |
 | `li-xiaolai.webp` | 李笑来 | Philip McMaster / PeacePlusOne / [Flickr](https://www.flickr.com/photos/dragonpreneur/11399266046/) | [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/) | 从2013年车库咖啡活动照片裁切、缩放、移除元数据、转换 WebP；仅用于非商业知识档案 |
 | `charlie-lee.webp` | 李启威 | Charlie Lee / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Charlie_Lee.png) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 裁切、缩放、移除元数据、转换 WebP |
+| `elon-musk.webp` | 埃隆·马斯克 | Duncan Hull / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Elon_Musk_Royal_Society_(crop1).jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 裁切、缩放、移除元数据、转换 WebP |
 
 ## 网络标识
 
@@ -31,6 +32,7 @@ pageType: policy
 | `solana.svg` | Solana | Solana Foundation / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Solana-sol-logo-horizontal-2025.svg) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)；仍可能适用商标规则 |
 | `neo.svg` | Neo | Neo / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:NEO-logo.svg) | 公共领域（简单几何标识）；仍可能适用商标规则 |
 | `litecoin.svg` | Litecoin | Albert dro、Charlie Lee 与 Bushido / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Litecoin.svg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)；仍可能适用商标规则 |
+| `dogecoin.svg` | Dogecoin | Dogecoin Foundation / [dogecoin.com 官方仓库](https://github.com/dogecoinfoundation/dogecoin.com/blob/main/static/logo_silentshibe_dogecoin.svg) | [MIT](https://github.com/dogecoinfoundation/dogecoin.com/blob/main/LICENSE)；仍可能适用商标规则 |
 
 ## 使用原则
 

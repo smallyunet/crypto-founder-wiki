@@ -1,0 +1,137 @@
+---
+title: 埃隆·马斯克（Elon Musk）
+description: 对 Elon Musk 家庭背景、教育、财富形成路径、Dogecoin 持有与推广、Tesla 和 SpaceX 采用及诉讼边界的证据化档案。
+pageType: person
+entityId: elon-musk
+profileType: industry-figure
+networkIds: [dogecoin]
+researchStatus: reviewed
+investigatedAt: 2026-08-30
+lastReviewedAt: 2026-08-30
+tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 }
+---
+
+:::note[结论与证据边界]
+Elon Musk **不是 Dogecoin 创始人**。Billy Markus 与 Jackson Palmer 在2013年启动该网络。Musk 多年后成为重要公开推广者，承认个人买入过一些 DOGE，推动 Tesla 接受指定商品支付，并称 SpaceX 会采取类似做法。他的数量、钱包、交易历史、成本和 DOGE 盈亏均未公开。价格对其言论的反应证明影响力，不证明所有权或技术控制权。
+:::
+
+<figure class="profile-figure">
+  <img src="/crypto-founder-wiki/images/people/elon-musk.webp" alt="身穿深色西装和白衬衫的 Elon Musk 肖像" width="720" height="900" loading="eager" fetchpriority="high" />
+  <figcaption>Duncan Hull 在 Royal Society 拍摄的肖像，经 <a href="https://commons.wikimedia.org/wiki/File:Elon_Musk_Royal_Society_(crop1).jpg">Wikimedia Commons</a> 获取，采用 <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>；本站裁切、缩放、移除元数据并转换为 WebP。</figcaption>
+</figure>
+
+## 档案概览
+
+| 项目 | 当前结论 | 证据 |
+| --- | --- | --- |
+| 出生 | 1971年6月28日，南非 Pretoria | A/B |
+| 父母 | 母亲 Maye Musk 是加拿大出生的模特与营养师；父亲 Errol Musk 是南非工程师和商人 | B |
+| 兄弟姐妹 | Kimbal Musk、Tosca Musk | B |
+| 教育 | 就读 Queen's University；取得宾夕法尼亚大学物理和经济学学位；未继续计划中的 Stanford 研究生项目 | A/B |
+| 第一次重大流动性 | 1999年 Compaq 收购 Zip2，其持股所得约2,200万美元 | B |
+| 财富主引擎 | 把互联网公司退出所得投入 SpaceX 与 Tesla；现有财富主要来自公司股权，而非已披露 DOGE | A/B |
+| Dogecoin 角色 | 持有人、推广者和企业采用决策者；不是创始人、核心开发者、矿工或网络所有人 | A/B |
+| DOGE 持仓 | 他确认持有一些 DOGE；数量、地址、成本和当前余额未知 | B（本人陈述） |
+| Tesla 关系 | 指定商品接受 DOGE，不是普遍车辆支付方案 | A |
+| 2022年投资者诉讼 | 联邦地区法院于2024年有偏见驳回第四次修订诉状；原告后来撤回上诉 | A |
+| 当前净资产 | 高度波动的模型估算，不能仅凭公开股价完成审计 | C / 不完整 |
+
+**A级**为公司、法院、监管、代码或大学原始材料；**B级**为本人采访和同期可靠报道；**C级**为可信二手重建；**D级**为缺少原始证据的网络说法。
+
+## 家庭背景与创业资金争议
+
+Musk 出生于 Pretoria，母亲 Maye、父亲 Errol。Maye 建立了模特和营养师职业，Errol 涉及工程、地产等业务。家庭具备教育、专业职业、身份和跨国迁移优势，因此把他的童年描述为绝对贫困并不准确；但这些优势也不能直接证明后来 Tesla、SpaceX 股权是继承所得。
+
+### 祖母绿故事：相互冲突的两套说法
+
+Errol Musk 在采访中讲过参与赞比亚祖母绿矿经营或宝石交易，并称家庭一度富裕。Elon Musk 则否认继承财富、得到巨额赠与，或由一座家族拥有的祖母绿矿资助其公司。相关叙述多次变化，公众没有看到完整矿权文件、家庭资产负债表或银行流水。
+
+传记重建中出现 Errol 后来在 Zip2 一轮融资中投入约2万美元的说法。这属于不应抹去的家庭支持，却不同于证明祖母绿收入完整资助 Zip2，更无法直接解释后来由 Tesla 与 SpaceX 股权形成的财富。稳妥结论是：**存在家庭支持和早期资源，但“矿产直接造就全部财富”的因果链没有被公开文件证实。** [《New Yorker》传记性调查](https://resources.newhouse.syr.edu/awards/wp-content/uploads/sites/7/2024/02/Elon-Musks-Shadow-Rule-The-New-Yorker.pdf) [Associated Press 对 Walter Isaacson 传记的书评](https://apnews.com/article/4ac9a6020bf1daa9b6353e4199525e97)
+
+## 教育、迁移与早期人力资本
+
+Musk 青少年时期迁往加拿大，先进入 Queen's University，后转入宾夕法尼亚大学。Penn 把他列为1997届校友，取得物理和经济学本科学位；他在1995年前往 California，没有继续原计划中的 Stanford 博士项目。[Penn 记录](https://knowledge.wharton.upenn.edu/article/harnessing-the-sun-and-outer-space-elon-musks-sky-high-vision/)
+
+这条路径提供的不只是文凭：来自母亲的加拿大身份路径、北美大学资源、编程经验、技术同伴网络，以及接近1990年代互联网资本市场的地理条件，都是启动资本，即使它们并非现金继承。
+
+## 可核验的财富形成路径
+
+### Zip2：第一次重大退出
+
+Elon、Kimbal Musk 与合作者建立 Zip2，为报纸和城市指南提供互联网软件。风险资本进入后稀释创始人并施加公司治理，项目并非长期依靠某个家庭金库。Compaq 于1999年以约3.07亿美元收购 Zip2，可靠重建普遍认为 Elon 获得约**2,200万美元**。[TIME 财富路径重建](https://time.com/6127754/elon-musk-net-worth-person-of-the-year/) [Tesla/SEC 人物资料](https://ir.tesla.com/_flysystem/s3/sec/000156459020018984/tsla-10ka_20191231.html)
+
+这是他个人流动财富第一次有较清晰文件支持的跃迁，发生在 Dogecoin 出现之前十四年。
+
+### X.com 与 PayPal
+
+Musk 用部分 Zip2 所得创办网上银行 X.com。它与 Confinity 合并，后来统一使用 PayPal 名称；eBay 于2002年以约15亿美元股票收购 PayPal。Musk 是最大个人股东。个人所得数字来自交易和持股比例推算，不等于完整税务报表。
+
+### SpaceX 与 Tesla：集中股权，而非工资
+
+Musk 于2002年创办 SpaceX，2004年领投 Tesla 融资并进入董事会，2008年成为 CEO。Tesla 自己的申报材料记录了他早期在招聘、工程、融资和公众传播上的作用，但没有把他写成 Tesla 2003年的两位最初注册创始人。[Tesla 申报文件](https://ir.tesla.com/_flysystem/s3/sec/000156459020018984/tsla-10ka_20191231.html) [SpaceX 管理层](https://ir.spacex.com/leadership/)
+
+他称在企业资金危机中把剩余 PayPal 所得基本投入 SpaceX、Tesla 等公司。之后 NASA 合同、外部私募、公开市场上涨、期权奖励和 SpaceX 私募估值共同放大集中股权价值。因此财富主路径是：**持有由外部投资者和客户共同融资的可规模化公司股权**，不是现金工资，更不是已知 DOGE 持仓。
+
+富豪榜数字只是模型输出，会组合 Tesla 市价、期权假设、私营公司最近交易价格、负债、质押、税务和有争议的薪酬。它们必须标注时点，不能当成经审计银行余额。
+
+## 与 Dogecoin 的关系
+
+### 公开推广与市场影响
+
+Musk 在 Dogecoin 启动多年后才频繁公开评论。他的巨大受众、表情包帖子、2021年电视节目期间使用的“Dogefather”称号，以及持续偏好表态，赋予其异常强的叙事影响力。多次帖子与 DOGE 短期剧烈波动时间接近，但对持续时间和因果强度的研究结论并不完全一致。
+
+必须区分三点：
+
+1. 帖子先于价格变化，不等于公开了交易；
+2. 对注意力有影响，不等于拥有协议权限；
+3. 市值变动不是直接转入 Musk 账户的现金。
+
+### 他实际披露持有什么
+
+Musk 在2021年 The B Word 活动称，个人持有 Bitcoin、Ether 和 Dogecoin，而 Tesla、SpaceX 持有 Bitcoin。2022年卡塔尔经济论坛上，他再次称自己买过一些 Dogecoin、Tesla 接受部分商品使用 DOGE 支付，SpaceX 也会这样做；同时表示自己从未要求人们投资加密货币。[The B Word 文字记录存档](https://www.elonmuskarchive.org/video/the-b-word-bitcoin-conference-2021-07-21) [卡塔尔经济论坛文字记录](https://www.rev.com/transcripts/tesla-ceo-elon-musk-at-qatar-economic-forum-6-21-22-transcript)
+
+他没有披露数量、钱包、购买时间、出售记录或当前余额。在没有签名消息、交易所记录、法院证据开示或本人确认时，把匿名巨鲸地址认定为 Musk 只是归属猜测。
+
+### Tesla、SpaceX 与 DOGE-1
+
+Tesla 支持页目前只允许用 DOGE 购买商店中带 Dogecoin 标识的商品，并提示转账不可逆、误转其他资产可能损失。这是真实商业采用，但不能据此声称所有 Tesla 商品或汽车都接受 DOGE。[Tesla Dogecoin 支持页](https://www.tesla.com/support/dogecoin)
+
+Geometric Energy Corporation 宣布以 DOGE 支付 SpaceX 计划中的 DOGE-1 月球立方星任务。监管文件也提到该支付场景，但任务多次延期，因此付款、预订、监管审批、载荷集成和完成发射是不同里程碑。本次复核没有证据说明 Musk 个人收到了该 DOGE 或拥有卫星。[SEC 网络说明](https://www.sec.gov/Archives/edgar/data/2055510/000119312526143897/pos_am_doge_s-1_a3.htm)
+
+## 基金会顾问关系不等于控制
+
+Dogecoin Foundation 在2021年重新活跃时，Jared Birchall 被列为代表 Musk 的法律与财务顾问；同时还有开发者和其他独立顾问。这是一项应记录的正式关系，但不会让 Musk 变成创始人、基金会所有人、协议维护者或拥有否决权的人。[基金会历史](https://foundation.dogecoin.com/about/) [基金会公告](https://dogecoin.org/announcements/2020-08-15-foundation-announcement/)
+
+## Dogecoin 投资者诉讼
+
+投资者于2022年起诉 Musk、Tesla 等被告，主张存在 Dogecoin 虚假陈述、市场操纵、内幕交易和州法责任。2024年8月29日，纽约南区联邦地区法院**有偏见驳回**第四次修订诉状。法院把所列推广语句视为愿望表达或不可诉陈述，并认为操纵和内幕交易指控缺乏足够明确的事实。[驳回裁定](https://docs.justia.com/cases/federal/district-courts/new-york/nysdce/1%3A2022cv05037/581639/113/) [上诉案卷](https://dockets.justia.com/docket/circuit-courts/ca2/24-2501)
+
+原告后来结束上诉。法律结果表示这些诉状中的主张未能成立；它**不等于**法院证明 Musk 的言论从未影响价格、审计了所有交易，或对未来所有言论提供豁免。
+
+## 政府“DOGE”是另一实体
+
+Musk 后来公开参与过缩写同为 DOGE 的美国政府项目 Department of Government Efficiency。名称借用了表情包，并一度引发市场联想，但该项目从来不是 Dogecoin 网络、Dogecoin Foundation、代币发行人或 DOGE 托管方。政府行为不能归因于 Dogecoin 节点或开发者。
+
+## 尚未确认的关键问题
+
+- Musk 历史和当前 DOGE 数量、钱包、成本、出售、赠与、税务及盈亏；
+- Tesla 或 SpaceX 是保留收到的 DOGE、兑换，还是通过支付中介处理；
+- 企业 DOGE 专项国库余额和经审计收入总额；
+- Zip2 机构融资前每一笔家庭转账的确切规模与来源；
+- 私营公司股权、质押、负债、信托、税务和最终受益权益的完整清单；
+- 任何具体匿名 Dogecoin 地址是否属于 Musk；
+- DOGE-1 的最终发射与运行结果，直至原始任务记录确认。
+
+最稳固的总体结论很窄：Musk 是 Dogecoin 最重要的名人和企业推广者，但公开证据没有让他成为创建者、控制人或最大已确认持有人。
+
+## 主要来源
+
+- [Dogecoin 原始公告](https://bitcointalk.org/index.php?topic=361813.0)
+- [Dogecoin Core 源码与开发仓库](https://github.com/dogecoin/dogecoin)
+- [Tesla Dogecoin 支持页](https://www.tesla.com/support/dogecoin)
+- [卡塔尔经济论坛文字记录](https://www.rev.com/transcripts/tesla-ceo-elon-musk-at-qatar-economic-forum-6-21-22-transcript)
+- [Tesla SEC 人物资料](https://ir.tesla.com/_flysystem/s3/sec/000156459020018984/tsla-10ka_20191231.html)
+- [宾夕法尼亚大学人物资料](https://knowledge.wharton.upenn.edu/article/harnessing-the-sun-and-outer-space-elon-musks-sky-high-vision/)
+- [联邦法院驳回裁定](https://docs.justia.com/cases/federal/district-courts/new-york/nysdce/1%3A2022cv05037/581639/113/)
+
+_最后复核：2026年8月30日。_
