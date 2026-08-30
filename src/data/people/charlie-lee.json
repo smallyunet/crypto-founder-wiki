@@ -1,0 +1,14 @@
+{
+  "name": { "zhCn": "李启威", "en": "Charlie Lee" },
+  "aliases": ["Charles Lee", "李查理", "查理·李", "SatoshiLite", "coblee"],
+  "profileType": "founder",
+  "directoryOrder": 15,
+  "summary": {
+    "zhCn": "Litecoin 创建者、前 Google 与 Coinbase 工程师、Litecoin Foundation 董事。档案核查其家庭教育、公开启动、2017年处置 LTC 及财富边界。",
+    "en": "Creator of Litecoin, former Google and Coinbase engineer, and Litecoin Foundation director. The dossier examines his family and education, fair-launch record, 2017 LTC divestment, and wealth boundaries."
+  },
+  "networkIds": ["litecoin"],
+  "reportSlug": "charlie-lee",
+  "coverageStatus": "reviewed",
+  "lastReviewedAt": "2026-08-30"
+}

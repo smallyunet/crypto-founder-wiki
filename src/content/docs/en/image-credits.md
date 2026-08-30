@@ -18,6 +18,7 @@ This site uses images with traceable sources and explicit reuse terms. Portraits
 | `donald-trump.webp` | Donald Trump | Daniel Torok / Executive Office of the President of the United States / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:President-Donald-Trump-Official-Presidential-Portrait.png) | U.S. federal government work, public domain in the United States | Cropped, resized, metadata removed, converted to WebP |
 | `da-hongfei.webp` | Da Hongfei | Neo Foundation / [neo-project/neo.org](https://github.com/neo-project/neo.org/blob/release/NeoWeb/wwwroot/images/discover/DaHongfei.jpg) | [MPL 2.0](https://github.com/neo-project/neo.org/blob/release/LICENSE) | Cropped from the portrait in Neo's open-source website repository, resized, metadata removed, and converted to WebP; the repository does not name the photographer |
 | `li-xiaolai.webp` | Li Xiaolai | Philip McMaster / PeacePlusOne / [Flickr](https://www.flickr.com/photos/dragonpreneur/11399266046/) | [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/) | Cropped from a 2013 Cheku Cafe event photograph, resized, metadata removed, and converted to WebP; used only in this noncommercial knowledge archive |
+| `charlie-lee.webp` | Charlie Lee | Charlie Lee / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Charlie_Lee.png) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | Cropped, resized, metadata removed, and converted to WebP |
 
 ## Network marks
 
@@ -29,6 +30,7 @@ This site uses images with traceable sources and explicit reuse terms. Portraits
 | `ethereum.svg` | Ethereum | Ethereum / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ethereum_logo.svg) | Public domain (simple geometric logo); trademark rights may apply |
 | `solana.svg` | Solana | Solana Foundation / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Solana-sol-logo-horizontal-2025.svg) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); trademark rights may apply |
 | `neo.svg` | Neo | Neo / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:NEO-logo.svg) | Public domain (simple geometric mark); trademark rights may apply |
+| `litecoin.svg` | Litecoin | Albert dro, Charlie Lee, and Bushido / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Litecoin.svg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); trademark rights may apply |
 
 ## Usage policy
 

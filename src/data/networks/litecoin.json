@@ -1,0 +1,10 @@
+{
+  "name": { "zhCn": "Litecoin（莱特币）", "en": "Litecoin" },
+  "summary": {
+    "zhCn": "李启威于2011年从 Bitcoin 代码派生并公开启动的点对点加密货币，采用 Scrypt 工作量证明、约2.5分钟出块和8,400万枚上限。",
+    "en": "A peer-to-peer cryptocurrency derived from Bitcoin's code and publicly launched by Charlie Lee in 2011, using Scrypt proof of work, roughly 2.5-minute blocks, and an 84 million cap."
+  },
+  "founderStatus": "identified",
+  "founderIds": ["charlie-lee"],
+  "featuredPeopleIds": []
+}

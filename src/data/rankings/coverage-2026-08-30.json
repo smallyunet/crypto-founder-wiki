@@ -12,6 +12,7 @@
     { "position": 3, "networkId": "bitcoin", "personIds": ["satoshi-nakamoto", "chandler-guo", "li-xiaolai"], "coverageStatus": "published" },
     { "position": 4, "networkId": "ethereum", "personIds": ["vitalik-buterin"], "coverageStatus": "published" },
     { "position": 5, "networkId": "solana", "personIds": ["donald-trump"], "coverageStatus": "published" },
-    { "position": 6, "networkId": "neo", "personIds": ["da-hongfei"], "coverageStatus": "published" }
+    { "position": 6, "networkId": "neo", "personIds": ["da-hongfei"], "coverageStatus": "published" },
+    { "position": 7, "networkId": "litecoin", "personIds": ["charlie-lee"], "coverageStatus": "published" }
   ]
 }
