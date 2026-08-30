@@ -2,6 +2,18 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import sitemap from '@astrojs/sitemap';
+import { readdirSync, readFileSync } from 'node:fs';
+
+const peopleDataDirectory = new URL('./src/data/people/', import.meta.url);
+const peopleSidebarItems = readdirSync(peopleDataDirectory)
+	.filter((filename) => filename.endsWith('.json'))
+	.map((filename) => JSON.parse(readFileSync(new URL(filename, peopleDataDirectory), 'utf8')))
+	.sort((a, b) => a.directoryOrder - b.directoryOrder || a.name.en.localeCompare(b.name.en))
+	.map((person) => ({
+		label: person.name.zhCn,
+		translations: { en: person.name.en },
+		slug: `people/${person.reportSlug}`,
+	}));
 
 // https://astro.build/config
 export default defineConfig({
@@ -34,7 +46,7 @@ export default defineConfig({
 				{
 					label: '人物档案',
 					translations: { en: 'People' },
-					items: [{ autogenerate: { directory: 'people' } }],
+					items: peopleSidebarItems,
 				},
 				{
 					label: '网络与收录',
