@@ -15,7 +15,7 @@ Neo 是一条支持智能合约的开源区块链。项目于2014年以“小蚁
 ## 创立与人物关系
 
 - [达鸿飞](../../people/da-hongfei/)：共同创始人，长期负责战略、生态与对外叙事，也是企业区块链公司 Onchain 的创始人。
-- Erik Zhang：共同创始人、核心开发者及 dBFT 共识机制作者；本站尚未发布其完整人物档案。
+- [张铮文（Erik Zhang）](../../people/erik-zhang/)：共同创始人、核心开发者及 dBFT 共识机制作者。
 
 把 Neo 描述成达鸿飞“一人创立”会抹去 Erik Zhang 的技术和共同创始角色。反过来，Onchain、Ontology、Neo Global Development（NGD）和 Neo Foundation 也不是同一个法律或治理主体。
 

@@ -1,0 +1,23 @@
+{
+  "personId":"chandler-guo",
+  "capitalPath":[
+    {"zhCn":"家庭经商环境和早期实体创业形成销售及组织经验","en":"A family business environment and early conventional entrepreneurship built sales and organizing experience"},
+    {"zhCn":"进入 Bitcoin 挖矿、矿场与早期项目投资获得加密资产敞口","en":"Entered Bitcoin mining, mining farms, and early project investing to gain crypto exposure"},
+    {"zhCn":"通过项目融资介绍、顾问费或其所称“一个点”模式及代币配置扩大财富","en":"Expanded wealth through project-financing introductions, advisory fees or his claimed 'one-point' model, and token allocations"}
+  ],
+  "assetBoundaries":[
+    {"category":{"zhCn":"融资金额","en":"Capital raised"},"finding":{"zhCn":"项目融资总额不能计入介绍人个人财富","en":"Total project capital raised cannot be counted as the introducer's personal wealth"},"status":"confirmed"},
+    {"category":{"zhCn":"“一个点”佣金","en":"'One-point' fee"},"finding":{"zhCn":"存在本人公开视频陈述，缺少逐项目合同和结算记录","en":"Supported by his public video statements but lacks project-by-project contracts and settlement records"},"status":"inferred"},
+    {"category":{"zhCn":"矿场与房产","en":"Mining and property assets"},"finding":{"zhCn":"公开展示证明使用或控制，不能自动证明无负债个人所有","en":"Public display can show use or control, not debt-free personal ownership"},"status":"unknown"}
+  ],
+  "keyClaims":[
+    {"claim":{"zhCn":"为 Binance 等项目融资并抽取约1%","en":"Raised for projects including Binance and took about 1%"},"finding":{"zhCn":"由本人公开视频支持；尚缺交易对手、合同和到账记录独立验证","en":"Supported by his own public video; counterparty, contract, and receipt evidence remains unavailable"},"evidenceGrade":"B","sourceType":{"zhCn":"本人视频陈述","en":"First-person video statement"},"sourceUrl":"https://www.youtube.com/@chandlerguo2542"},
+    {"claim":{"zhCn":"早期参与大型 Bitcoin 矿场","en":"Participated in large early Bitcoin mining operations"},"finding":{"zhCn":"同期采访和活动记录支持，精确个人权益不明","en":"Supported by contemporaneous interviews and event records; exact personal interest is unclear"},"evidenceGrade":"B","sourceType":{"zhCn":"同期采访","en":"Contemporaneous interview"},"sourceUrl":"https://www.youtube.com/@chandlerguo2542"},
+    {"claim":{"zhCn":"展示的豪宅和车辆均为净资产","en":"Displayed homes and cars equal net assets"},"finding":{"zhCn":"无法从展示确认产权、负债、租赁或共同所有","en":"Ownership, debt, leases, and co-ownership cannot be established from display alone"},"evidenceGrade":"D","sourceType":{"zhCn":"社交媒体展示","en":"Social-media display"}}
+  ],
+  "openQuestions":[
+    {"zhCn":"哪些项目签署了1%或类似融资报酬协议，实际结算多少？","en":"Which projects signed 1% or similar financing-fee agreements, and what was actually settled?"},
+    {"zhCn":"矿场、代币、房产和企业权益的最终受益所有权与负债如何？","en":"What are the beneficial ownership and liabilities of mining, token, property, and company interests?"}
+  ],
+  "revision":{"version":"2.0","lastReviewedAt":"2026-08-31","summary":{"zhCn":"将融资总额、佣金收入、代币配置和展示性资产严格分开。","en":"Separated capital raised, fee income, token allocations, and displayed assets."}}
+}

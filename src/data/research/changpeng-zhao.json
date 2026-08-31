@@ -1,0 +1,23 @@
+{
+  "personId":"changpeng-zhao",
+  "capitalPath":[
+    {"zhCn":"加拿大教育与东京、纽约交易系统职业形成工程和行业资本","en":"Canadian education and trading-systems work in Tokyo and New York built engineering and industry capital"},
+    {"zhCn":"进入 Blockchain.info、OKCoin 等加密企业并积累网络与资产","en":"Entered crypto through Blockchain.info, OKCoin, and related ventures, building networks and assets"},
+    {"zhCn":"2017年联合创立 Binance；主要财富来自公司权益和相关代币经济敞口","en":"Co-founded Binance in 2017; principal wealth comes from company interests and token-economy exposure"}
+  ],
+  "assetBoundaries":[
+    {"category":{"zhCn":"Binance 股权","en":"Binance equity"},"finding":{"zhCn":"控制性权益得到监管和公司材料支持，精确比例会随口径变化","en":"A controlling interest is supported by regulatory and company material; exact percentages vary by definition"},"status":"confirmed"},
+    {"category":{"zhCn":"BNB 持仓","en":"BNB holdings"},"finding":{"zhCn":"本人称持有 BNB，但个人与公司分配的完整边界未公开","en":"He has disclosed holding BNB, but the full personal-company allocation boundary is unpublished"},"status":"unknown"},
+    {"category":{"zhCn":"客户资产","en":"Customer assets"},"finding":{"zhCn":"交易所托管客户资产不能计入个人财富","en":"Exchange-custodied customer assets cannot be counted as personal wealth"},"status":"confirmed"}
+  ],
+  "keyClaims":[
+    {"claim":{"zhCn":"联合创立 Binance","en":"Co-founded Binance"},"finding":{"zhCn":"公司历史、监管文件和司法记录确认","en":"Confirmed by company history, regulatory filings, and court records"},"evidenceGrade":"A","sourceType":{"zhCn":"美国司法部案件材料","en":"U.S. DOJ case material"},"sourceUrl":"https://www.justice.gov/opa/pr/binance-and-ceo-plead-guilty-federal-charges-4b-resolution"},
+    {"claim":{"zhCn":"财富主要来自工资","en":"Wealth mainly came from salary"},"finding":{"zhCn":"不符合公开结构；核心是 Binance 权益及加密资产敞口","en":"Inconsistent with the public structure; Binance interests and crypto exposure are central"},"evidenceGrade":"B","sourceType":{"zhCn":"公司与监管材料","en":"Company and regulatory material"},"sourceUrl":"https://www.cftc.gov/PressRoom/PressReleases/8680-23"},
+    {"claim":{"zhCn":"卸任后仍是 Binance CEO","en":"Remained Binance CEO after resignation"},"finding":{"zhCn":"错误；其于2023年认罪协议后辞任 CEO","en":"Incorrect; he resigned as CEO following the 2023 plea agreement"},"evidenceGrade":"A","sourceType":{"zhCn":"司法部公告","en":"DOJ announcement"},"sourceUrl":"https://www.justice.gov/opa/pr/binance-and-ceo-plead-guilty-federal-charges-4b-resolution"}
+  ],
+  "openQuestions":[
+    {"zhCn":"其对 Binance 各地区实体的当前经济权益和表决安排如何？","en":"What are his current economic and voting interests across Binance entities?"},
+    {"zhCn":"个人 BNB、BTC及其他钱包在税务和托管层面的完整余额是多少？","en":"What are the complete taxable and custodial balances of personal BNB, BTC, and other wallets?"}
+  ],
+  "revision":{"version":"2.0","lastReviewedAt":"2026-08-31","summary":{"zhCn":"把职业资本、Binance权益、BNB和客户资产分开呈现。","en":"Separated career capital, Binance interests, BNB exposure, and customer assets."}}
+}

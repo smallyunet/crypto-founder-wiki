@@ -1,0 +1,20 @@
+{
+  "personId":"raj-gokal",
+  "capitalPath":[
+    {"zhCn":"Wharton金融教育、投资和医疗科技创业形成产品与融资资本","en":"Wharton finance training, investing, and health-tech entrepreneurship built product and financing capital"},
+    {"zhCn":"2017年加入Solana创始团队，负责运营、产品、融资和生态扩张","en":"Joined Solana's founding team in 2017 across operations, product, fundraising, and ecosystem growth"},
+    {"zhCn":"通过Solana Labs股权、可能的SOL分配及后续投资形成财富敞口","en":"Built wealth exposure through Solana Labs equity, likely SOL allocation, and later investments"}
+  ],
+  "assetBoundaries":[
+    {"category":{"zhCn":"共同创始角色","en":"Co-founder role"},"finding":{"zhCn":"公司与同期活动资料确认，技术发明贡献不同于Yakovenko","en":"Confirmed by company and contemporaneous materials; technical invention differs from Yakovenko's role"},"status":"confirmed"},
+    {"category":{"zhCn":"个人SOL与股权","en":"Personal SOL and equity"},"finding":{"zhCn":"完整配置、稀释和出售记录未公开","en":"Complete allocation, dilution, and sales are unpublished"},"status":"unknown"},
+    {"category":{"zhCn":"基金会资产","en":"Foundation assets"},"finding":{"zhCn":"董事或影响力不等于个人所有基金会国库","en":"Board service or influence does not equal personal ownership of Foundation treasury"},"status":"confirmed"}
+  ],
+  "keyClaims":[
+    {"claim":{"zhCn":"是Solana联合创始人","en":"Is a Solana co-founder"},"finding":{"zhCn":"个人网站、Solana与活动履历均确认","en":"Confirmed by his site, Solana, and event biographies"},"evidenceGrade":"A","sourceType":{"zhCn":"个人公开档案","en":"First-party profile"},"sourceUrl":"https://rajgokal.com/"},
+    {"claim":{"zhCn":"发明Proof of History","en":"Invented Proof of History"},"finding":{"zhCn":"不支持；该设计由Yakovenko提出","en":"Unsupported; the design was proposed by Yakovenko"},"evidenceGrade":"A","sourceType":{"zhCn":"原始论文","en":"Original paper"},"sourceUrl":"https://solana.com/solana-whitepaper.pdf"},
+    {"claim":{"zhCn":"个人财富等于Solana生态融资总额","en":"Personal wealth equals Solana ecosystem funding"},"finding":{"zhCn":"错误；公司融资和生态资金不属于个人现金","en":"Incorrect; company financing and ecosystem funds are not personal cash"},"evidenceGrade":"A","sourceType":{"zhCn":"资产边界原则","en":"Asset-boundary principle"}}
+  ],
+  "openQuestions":[{"zhCn":"其Solana Labs初始和当前股权比例是多少？","en":"What were and are his Solana Labs ownership percentages?"},{"zhCn":"其SOL配置、锁仓、出售和投资组合如何？","en":"What are his SOL allocation, vesting, sales, and investment portfolio?"}],
+  "revision":{"version":"1.0","lastReviewedAt":"2026-08-31","summary":{"zhCn":"区分产品运营创始贡献、技术发明与个人资产。","en":"Separated product and operating foundership, technical invention, and personal assets."}}
+}

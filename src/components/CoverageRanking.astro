@@ -3,11 +3,15 @@ import { getCollection } from 'astro:content';
 
 interface Props {
 	locale?: 'zh-cn' | 'en';
+	kind?: 'editorial-seed' | 'market-cap';
 }
 
-const { locale = 'zh-cn' } = Astro.props;
+const { locale = 'zh-cn', kind = 'editorial-seed' } = Astro.props;
 const isChinese = locale === 'zh-cn';
-const [snapshot] = await getCollection('rankings');
+const snapshots = await getCollection('rankings');
+const snapshot = snapshots.find((entry) => entry.data.kind === kind);
+if (!snapshot) throw new Error(`Missing ${kind} ranking snapshot`);
+const isMarketCap = kind === 'market-cap';
 const networks = await getCollection('networks');
 const people = await getCollection('people');
 const networkById = new Map(networks.map((entry) => [entry.id, entry.data]));
@@ -18,8 +22,9 @@ const personById = new Map(people.map((entry) => [entry.id, entry.data]));
 	<table class="coverage-table">
 		<thead>
 			<tr>
-				<th scope="col">{isChinese ? '队列' : 'Queue'}</th>
+				<th scope="col">{isMarketCap ? (isChinese ? '市值顺位' : 'Market-cap rank') : (isChinese ? '队列' : 'Queue')}</th>
 				<th scope="col">{isChinese ? '网络' : 'Network'}</th>
+				{isMarketCap && <th scope="col">{isChinese ? '流通市值（美元）' : 'Market cap (USD)'}</th>}
 				<th scope="col">{isChinese ? '已收录人物' : 'Covered person'}</th>
 				<th scope="col">{isChinese ? '状态' : 'Status'}</th>
 			</tr>
@@ -33,6 +38,7 @@ const personById = new Map(people.map((entry) => [entry.id, entry.data]));
 					<tr>
 						<td>{String(entry.position).padStart(2, '0')}</td>
 						<td>{isChinese ? network?.name.zhCn : network?.name.en}</td>
+						{isMarketCap && <td>{entry.value?.toLocaleString(isChinese ? 'zh-CN' : 'en-US', { style: 'currency', currency: 'USD', maximumFractionDigits: 0 })}</td>}
 						<td>{names}</td>
 						<td><span class="status-badge">{isChinese ? '已发布' : 'Published'}</span></td>
 					</tr>
@@ -42,3 +48,4 @@ const personById = new Map(people.map((entry) => [entry.id, entry.data]));
 	</table>
 </div>
 <p class="coverage-note">{isChinese ? snapshot.data.description.zhCn : snapshot.data.description.en}</p>
+{snapshot.data.sourceUrl && <p class="coverage-note">{isChinese ? '数据源与抓取时间：' : 'Source and retrieval time: '}<a href={snapshot.data.sourceUrl}>{snapshot.data.provider}</a>{snapshot.data.retrievedAt ? ` · ${snapshot.data.retrievedAt.toISOString()}` : ''}</p>}

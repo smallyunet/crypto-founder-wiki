@@ -20,6 +20,13 @@ pageType: policy
 | `li-xiaolai.webp` | 李笑来 | Philip McMaster / PeacePlusOne / [Flickr](https://www.flickr.com/photos/dragonpreneur/11399266046/) | [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/) | 从2013年车库咖啡活动照片裁切、缩放、移除元数据、转换 WebP；仅用于非商业知识档案 |
 | `charlie-lee.webp` | 李启威 | Charlie Lee / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Charlie_Lee.png) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 裁切、缩放、移除元数据、转换 WebP |
 | `elon-musk.webp` | 埃隆·马斯克 | Duncan Hull / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Elon_Musk_Royal_Society_(crop1).jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 裁切、缩放、移除元数据、转换 WebP |
+| `anatoly-yakovenko.webp` | Anatoly Yakovenko | TechCrunch / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Anatoly_Yakovenko_(TechCrunch_2022).jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 裁切、缩放、移除元数据、转换 WebP |
+| `gavin-wood.webp` | Gavin Wood | TechCrunch / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gavin_Wood,_TechCrunch_Disrupt_Berlin_2017_(38818572122)_(cropped).jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 裁切、缩放、移除元数据、转换 WebP |
+| `joseph-lubin.webp` | Joseph Lubin | Ivo Näpflin / Lift Conference / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Joseph_Lubin_(24961255915).jpg) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 裁切、缩放、移除元数据、转换 WebP |
+
+## 人物代表图
+
+如果没有找到许可可靠的肖像，目录会使用明确标注的网络标志，而不会使用合成或可能认错人的肖像。`billy-markus.webp` 与 `jackson-palmer.webp` 来自 MIT 许可的 Dogecoin 标志；`raj-gokal.webp` 来自 CC0 的 Solana 标志；`he-yi.webp` 来自 CC BY-SA 4.0 的 BNB 标志；`erik-zhang.webp` 来自作为简单图形进入公有领域的 Neo 标志。来源和许可链接见下方网络标志表。
 
 ## 网络标识
 
@@ -41,4 +48,4 @@ pageType: policy
 - 页面提供描述性替代文本、固定宽高和许可链接。
 - 如果权利人认为归属或许可记录有误，可通过 GitHub issue 提出更正或移除请求。
 
-_最后复核：2026年8月30日。_
+_最后复核：2026年8月31日。_

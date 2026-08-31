@@ -1,0 +1,20 @@
+{
+  "personId":"jackson-palmer",
+  "capitalPath":[
+    {"zhCn":"Adobe 营销与数据职业形成品牌和传播能力","en":"Adobe marketing and data work supplied branding and distribution skill"},
+    {"zhCn":"提出 Dogecoin 概念、注册域名并与 Markus 协作启动网络","en":"Coined the Dogecoin concept, registered the domain, and collaborated with Markus on launch"},
+    {"zhCn":"2015年前后退出加密行业；没有公开创始人代币套现路径","en":"Left crypto around 2015; no public founder-token monetization path is established"}
+  ],
+  "assetBoundaries":[
+    {"category":{"zhCn":"代码贡献","en":"Code contribution"},"finding":{"zhCn":"主要是概念、品牌和组织，初始实现主要由Markus完成","en":"Primarily concept, brand, and organization; Markus led initial implementation"},"status":"confirmed"},
+    {"category":{"zhCn":"DOGE持仓","en":"DOGE holdings"},"finding":{"zhCn":"没有完整公开钱包或当前余额","en":"No complete public wallets or current balance"},"status":"unknown"},
+    {"category":{"zhCn":"网络治理","en":"Network governance"},"finding":{"zhCn":"退出后的批评意见不构成协议控制","en":"Post-exit criticism does not confer protocol control"},"status":"confirmed"}
+  ],
+  "keyClaims":[
+    {"claim":{"zhCn":"共同创建 Dogecoin","en":"Co-created Dogecoin"},"finding":{"zhCn":"域名、公告和同期采访确认","en":"Confirmed by the domain, announcement, and contemporaneous interviews"},"evidenceGrade":"A","sourceType":{"zhCn":"原始公告","en":"Original announcement"},"sourceUrl":"https://bitcointalk.org/index.php?topic=361813.0"},
+    {"claim":{"zhCn":"独自编写Dogecoin","en":"Wrote Dogecoin alone"},"finding":{"zhCn":"错误；Markus完成主要初始代码实现","en":"Incorrect; Markus performed the principal initial implementation"},"evidenceGrade":"A","sourceType":{"zhCn":"开发者历史","en":"Developer history"},"sourceUrl":"https://dogecoin.com/dogepedia/articles/dogecoin-developers/"},
+    {"claim":{"zhCn":"从Dogecoin市值获得巨额财富","en":"Captured large wealth from Dogecoin market cap"},"finding":{"zhCn":"没有创始人国库、出售记录或钱包证据支持","en":"No founder treasury, sale record, or wallet evidence supports this"},"evidenceGrade":"Unknown","sourceType":{"zhCn":"缺少资产证据","en":"No asset evidence"}}
+  ],
+  "openQuestions":[{"zhCn":"其早期是否挖矿、持有或出售过可观数量DOGE？","en":"Did he mine, hold, or sell a material amount of early DOGE?"},{"zhCn":"域名、品牌和基金会早期法律安排如何转移？","en":"How were the domain, brand, and early Foundation legal arrangements transferred?"}],
+  "revision":{"version":"1.0","lastReviewedAt":"2026-08-31","summary":{"zhCn":"区分概念与品牌贡献、代码实现和财富证据。","en":"Separated concept and branding contribution, code implementation, and wealth evidence."}}
+}

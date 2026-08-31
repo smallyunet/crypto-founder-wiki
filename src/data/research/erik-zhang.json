@@ -1,0 +1,20 @@
+{
+  "personId":"erik-zhang",
+  "capitalPath":[
+    {"zhCn":"软件工程和会计/信息系统经验形成技术资本","en":"Software engineering and accounting/information-systems experience supplied technical capital"},
+    {"zhCn":"与达鸿飞共同创建Antshares/Neo，设计dBFT并长期维护核心代码","en":"Co-founded Antshares/Neo with Da Hongfei, designed dBFT, and maintained core code"},
+    {"zhCn":"可能通过Neo相关配置、公司权益和开发角色形成经济权益，但公开数据有限","en":"May have economic interests through Neo allocations, company equity, and development roles, but public data is limited"}
+  ],
+  "assetBoundaries":[
+    {"category":{"zhCn":"技术创始贡献","en":"Technical founding contribution"},"finding":{"zhCn":"官方贡献者资料和代码仓库确认","en":"Confirmed by official contributor material and repositories"},"status":"confirmed"},
+    {"category":{"zhCn":"个人NEO/GAS","en":"Personal NEO and GAS"},"finding":{"zhCn":"没有完整公开地址或配置表","en":"No complete public addresses or allocation schedule"},"status":"unknown"},
+    {"category":{"zhCn":"基金会与NGD资金","en":"Foundation and NGD funds"},"finding":{"zhCn":"开发影响力不等于个人所有组织资金","en":"Development influence does not equal personal ownership of organizational funds"},"status":"confirmed"}
+  ],
+  "keyClaims":[
+    {"claim":{"zhCn":"Neo共同创始人","en":"Neo co-founder"},"finding":{"zhCn":"Neo官方贡献者页面确认","en":"Confirmed by Neo's official contributors page"},"evidenceGrade":"A","sourceType":{"zhCn":"Neo官方资料","en":"Neo official record"},"sourceUrl":"https://neo.org/contributors"},
+    {"claim":{"zhCn":"dBFT作者","en":"Author of dBFT"},"finding":{"zhCn":"官方资料、代码和论文记录支持","en":"Supported by official material, code, and papers"},"evidenceGrade":"A","sourceType":{"zhCn":"Neo贡献者资料","en":"Neo contributor record"},"sourceUrl":"https://neo.org/contributors"},
+    {"claim":{"zhCn":"Neo全部技术由达鸿飞完成","en":"Da Hongfei built all Neo technology"},"finding":{"zhCn":"错误；Erik Zhang承担核心架构和开发角色","en":"Incorrect; Erik Zhang held core architecture and development roles"},"evidenceGrade":"A","sourceType":{"zhCn":"GitHub记录","en":"GitHub record"},"sourceUrl":"https://github.com/erikzhang"}
+  ],
+  "openQuestions":[{"zhCn":"其早期NEO配置、当前钱包和GAS收入是多少？","en":"What were his early NEO allocation, current wallets, and GAS income?"},{"zhCn":"其在Onchain、NGD及其他生态实体中的股权和报酬是什么？","en":"What equity and compensation does he have in Onchain, NGD, and other ecosystem entities?"}],
+  "revision":{"version":"1.0","lastReviewedAt":"2026-08-31","summary":{"zhCn":"恢复Neo技术共同创始人的独立贡献与财富边界。","en":"Restored the independent contribution and wealth boundaries of Neo's technical co-founder."}}
+}

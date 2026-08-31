@@ -14,7 +14,8 @@ Solana 是 Anatoly Yakovenko 于2017年构想的高性能权益证明区块链�
 
 ## 创始与人物关系
 
-- Anatoly Yakovenko 是 Solana 原始构想者和白皮书作者；本站尚未发布其完整人物档案。
+- [Anatoly Yakovenko](../../people/anatoly-yakovenko/)是 Solana 原始构想者、白皮书作者和技术联合创始人。
+- [Raj Gokal](../../people/raj-gokal/)是联合创始人，主要承担产品、运营、融资和生态建设。
 - [唐纳德·特朗普](../../people/donald-trump/)不是 Solana 创始人。其 Official Trump Meme 于2025年1月17日在 Solana 铸造，因此作为网络关联人物收录。
 
 Official Trump 网站列出的 Solana 合约地址为 `6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN`。[Official Trump 网站](https://gettrumpmemes.com/)

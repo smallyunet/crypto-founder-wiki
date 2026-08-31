@@ -1,0 +1,20 @@
+{
+  "personId":"anatoly-yakovenko",
+  "capitalPath":[
+    {"zhCn":"Illinois计算机科学教育和十余年Qualcomm系统工程形成技术资本","en":"Illinois computer-science training and more than a decade of Qualcomm systems engineering built technical capital"},
+    {"zhCn":"2017年提出Proof of History并组织Solana Labs团队","en":"Proposed Proof of History in 2017 and organized the Solana Labs team"},
+    {"zhCn":"通过Solana Labs股权、SOL分配和生态投资形成财富敞口","en":"Built wealth exposure through Solana Labs equity, SOL allocations, and ecosystem investments"}
+  ],
+  "assetBoundaries":[
+    {"category":{"zhCn":"个人SOL","en":"Personal SOL"},"finding":{"zhCn":"创始团队存在代币经济权益，但个人完整数量和钱包未知","en":"The founding team had token economics; complete personal quantity and wallets are unknown"},"status":"unknown"},
+    {"category":{"zhCn":"Solana Labs","en":"Solana Labs"},"finding":{"zhCn":"公司股权与网络供应、基金会国库必须分开","en":"Company equity must be separated from network supply and Foundation treasury"},"status":"confirmed"},
+    {"category":{"zhCn":"协议控制","en":"Protocol control"},"finding":{"zhCn":"具有核心技术影响力，但不能单方面控制验证者网络","en":"Has core technical influence but cannot unilaterally control the validator network"},"status":"confirmed"}
+  ],
+  "keyClaims":[
+    {"claim":{"zhCn":"构想Solana与Proof of History","en":"Conceived Solana and Proof of History"},"finding":{"zhCn":"2017年论文和代码历史确认","en":"Confirmed by the 2017 paper and code history"},"evidenceGrade":"A","sourceType":{"zhCn":"Solana论文","en":"Solana paper"},"sourceUrl":"https://solana.com/solana-whitepaper.pdf"},
+    {"claim":{"zhCn":"独自构建整个网络","en":"Built the entire network alone"},"finding":{"zhCn":"错误；Greg Fitzgerald、Stephen Akridge、Raj Gokal等共同参与","en":"Incorrect; Greg Fitzgerald, Stephen Akridge, Raj Gokal, and others contributed"},"evidenceGrade":"A","sourceType":{"zhCn":"Solana历史","en":"Solana history"},"sourceUrl":"https://solana.com/news/proof-of-history"},
+    {"claim":{"zhCn":"SOL市值等于个人财富","en":"SOL market cap equals personal wealth"},"finding":{"zhCn":"错误；需要个人分配、解锁、出售、税务和负债数据","en":"Incorrect; personal allocation, vesting, sales, taxes, and liabilities are required"},"evidenceGrade":"A","sourceType":{"zhCn":"资产边界原则","en":"Asset-boundary principle"}}
+  ],
+  "openQuestions":[{"zhCn":"创始人SOL的初始分配、解锁、出售和当前余额是多少？","en":"What were the founder SOL allocation, unlocks, sales, and current balance?"},{"zhCn":"Solana Labs股权和生态投资的当前价值与负债如何？","en":"What are the current value and liabilities of Solana Labs equity and ecosystem investments?"}],
+  "revision":{"version":"1.0","lastReviewedAt":"2026-08-31","summary":{"zhCn":"建立技术创始、团队贡献与SOL财富边界。","en":"Established technical-foundership, team-contribution, and SOL-wealth boundaries."}}
+}

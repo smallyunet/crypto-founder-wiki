@@ -7,13 +7,13 @@
     "en": "The editorial sequence of currently published dossiers; it is not a market-cap, TVL, or influence ranking."
   },
   "entries": [
-    { "position": 1, "networkId": "bnb-chain", "personIds": ["changpeng-zhao"], "coverageStatus": "published" },
+    { "position": 1, "networkId": "bnb-chain", "personIds": ["changpeng-zhao", "he-yi"], "coverageStatus": "published" },
     { "position": 2, "networkId": "tron", "personIds": ["justin-sun"], "coverageStatus": "published" },
     { "position": 3, "networkId": "bitcoin", "personIds": ["satoshi-nakamoto", "chandler-guo", "li-xiaolai"], "coverageStatus": "published" },
-    { "position": 4, "networkId": "ethereum", "personIds": ["vitalik-buterin"], "coverageStatus": "published" },
-    { "position": 5, "networkId": "solana", "personIds": ["donald-trump"], "coverageStatus": "published" },
-    { "position": 6, "networkId": "neo", "personIds": ["da-hongfei"], "coverageStatus": "published" },
+    { "position": 4, "networkId": "ethereum", "personIds": ["vitalik-buterin", "gavin-wood", "joseph-lubin"], "coverageStatus": "published" },
+    { "position": 5, "networkId": "solana", "personIds": ["anatoly-yakovenko", "raj-gokal", "donald-trump"], "coverageStatus": "published" },
+    { "position": 6, "networkId": "neo", "personIds": ["da-hongfei", "erik-zhang"], "coverageStatus": "published" },
     { "position": 7, "networkId": "litecoin", "personIds": ["charlie-lee"], "coverageStatus": "published" },
-    { "position": 8, "networkId": "dogecoin", "personIds": ["elon-musk"], "coverageStatus": "published" }
+    { "position": 8, "networkId": "dogecoin", "personIds": ["billy-markus", "jackson-palmer", "elon-musk"], "coverageStatus": "published" }
   ]
 }

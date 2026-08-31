@@ -19,6 +19,8 @@ Buterin circulated the original white paper in November 2013. A broader founding
 ## Covered people
 
 - [Vitalik Buterin](../../people/vitalik-buterin/): conceived the platform, authored the original white paper, and remains an influential protocol researcher and public advocate.
+- [Gavin Wood](../../people/gavin-wood/): authored the Yellow Paper, built the C++ client, and served as the Foundation's first CTO.
+- [Joseph Lubin](../../people/joseph-lubin/): helped organize and fund the early project before founding Consensys.
 
 ## Governance distinction
 

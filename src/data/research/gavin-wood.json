@@ -1,0 +1,20 @@
+{
+  "personId":"gavin-wood",
+  "capitalPath":[
+    {"zhCn":"计算机科学博士与软件开发职业形成技术资本","en":"A computer-science doctorate and software career supplied technical capital"},
+    {"zhCn":"实现首个可运行Ethereum客户端、编写Yellow Paper并担任早期CTO","en":"Implemented the first functional Ethereum client, wrote the Yellow Paper, and served as early CTO"},
+    {"zhCn":"通过Parity、Web3 Foundation、Polkadot/DOT和后续协议形成企业与代币权益","en":"Built company and token interests through Parity, Web3 Foundation, Polkadot/DOT, and later protocols"}
+  ],
+  "assetBoundaries":[
+    {"category":{"zhCn":"Ethereum贡献","en":"Ethereum contribution"},"finding":{"zhCn":"技术共同创始地位明确，但不拥有Ethereum网络","en":"Technical co-founder status is clear, but he does not own Ethereum"},"status":"confirmed"},
+    {"category":{"zhCn":"DOT与Parity股权","en":"DOT and Parity equity"},"finding":{"zhCn":"存在创始经济权益，完整数量、出售和当前价值未知","en":"Founder economics exist; complete quantity, sales, and current value are unknown"},"status":"unknown"},
+    {"category":{"zhCn":"Web3 Foundation国库","en":"Web3 Foundation treasury"},"finding":{"zhCn":"基金会资产不能计入个人净资产","en":"Foundation assets cannot be counted as personal net worth"},"status":"confirmed"}
+  ],
+  "keyClaims":[
+    {"claim":{"zhCn":"Ethereum联合创始人","en":"Ethereum co-founder"},"finding":{"zhCn":"Ethereum官方历史和首个客户端记录确认","en":"Confirmed by Ethereum's official history and first-client record"},"evidenceGrade":"A","sourceType":{"zhCn":"Ethereum历史","en":"Ethereum history"},"sourceUrl":"https://ethereum.org/ethereum-history-founder-and-ownership/"},
+    {"claim":{"zhCn":"编写Yellow Paper","en":"Authored the Yellow Paper"},"finding":{"zhCn":"论文署名和历史记录确认","en":"Confirmed by authorship and historical records"},"evidenceGrade":"A","sourceType":{"zhCn":"Yellow Paper","en":"Yellow Paper"},"sourceUrl":"https://ethereum.github.io/yellowpaper/paper.pdf"},
+    {"claim":{"zhCn":"拥有或控制Ethereum","en":"Owns or controls Ethereum"},"finding":{"zhCn":"错误；贡献者身份不产生全网所有权","en":"Incorrect; contributor status does not create network ownership"},"evidenceGrade":"A","sourceType":{"zhCn":"Ethereum治理资料","en":"Ethereum governance material"},"sourceUrl":"https://ethereum.org/en/governance/"}
+  ],
+  "openQuestions":[{"zhCn":"其ETH、DOT、KSM及其他代币的历史配置和当前余额是多少？","en":"What are his historical allocations and current balances of ETH, DOT, KSM, and other tokens?"},{"zhCn":"Parity及相关实体股权、基金会关系和报酬如何？","en":"What are his equity, Foundation relationships, and compensation across Parity-related entities?"}],
+  "revision":{"version":"1.0","lastReviewedAt":"2026-08-31","summary":{"zhCn":"区分Ethereum技术贡献、Polkadot创业与个人资产。","en":"Separated Ethereum technical contribution, Polkadot entrepreneurship, and personal assets."}}
+}

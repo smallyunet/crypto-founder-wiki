@@ -20,6 +20,13 @@ This site uses images with traceable sources and explicit reuse terms. Portraits
 | `li-xiaolai.webp` | Li Xiaolai | Philip McMaster / PeacePlusOne / [Flickr](https://www.flickr.com/photos/dragonpreneur/11399266046/) | [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/) | Cropped from a 2013 Cheku Cafe event photograph, resized, metadata removed, and converted to WebP; used only in this noncommercial knowledge archive |
 | `charlie-lee.webp` | Charlie Lee | Charlie Lee / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Charlie_Lee.png) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | Cropped, resized, metadata removed, and converted to WebP |
 | `elon-musk.webp` | Elon Musk | Duncan Hull / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Elon_Musk_Royal_Society_(crop1).jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | Cropped, resized, metadata removed, and converted to WebP |
+| `anatoly-yakovenko.webp` | Anatoly Yakovenko | TechCrunch / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Anatoly_Yakovenko_(TechCrunch_2022).jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | Cropped, resized, metadata removed, and converted to WebP |
+| `gavin-wood.webp` | Gavin Wood | TechCrunch / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gavin_Wood,_TechCrunch_Disrupt_Berlin_2017_(38818572122)_(cropped).jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | Cropped, resized, metadata removed, and converted to WebP |
+| `joseph-lubin.webp` | Joseph Lubin | Ivo Näpflin / Lift Conference / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Joseph_Lubin_(24961255915).jpg) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | Cropped, resized, metadata removed, and converted to WebP |
+
+## Representative profile images
+
+When no reliably licensed portrait was found, the directory uses a clearly labeled network mark—not a synthetic or potentially misidentified portrait. `billy-markus.webp` and `jackson-palmer.webp` derive from the MIT-licensed Dogecoin mark; `raj-gokal.webp` from the CC0 Solana mark; `he-yi.webp` from the CC BY-SA 4.0 BNB mark; and `erik-zhang.webp` from the public-domain simple Neo mark. Source and license links appear in the network-mark table below.
 
 ## Network marks
 
@@ -41,4 +48,4 @@ This site uses images with traceable sources and explicit reuse terms. Portraits
 - Pages include descriptive alternative text, fixed dimensions, and license links.
 - Rights holders may request correction or removal through a GitHub issue.
 
-_Last reviewed August 30, 2026._
+_Last reviewed August 31, 2026._

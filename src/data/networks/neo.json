@@ -5,6 +5,6 @@
     "en": "A smart-contract blockchain launched as Antshares in 2014 and renamed Neo in 2017, co-founded by Da Hongfei and Erik Zhang."
   },
   "founderStatus": "identified",
-  "founderIds": ["da-hongfei"],
-  "featuredPeopleIds": ["da-hongfei"]
+  "founderIds": ["da-hongfei", "erik-zhang"],
+  "featuredPeopleIds": []
 }

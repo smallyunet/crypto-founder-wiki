@@ -1,0 +1,23 @@
+{
+  "personId":"elon-musk",
+  "capitalPath":[
+    {"zhCn":"家庭教育与迁移优势、编程能力和北美大学网络形成初始资本","en":"Family educational and migration advantages, programming ability, and North American university networks formed the starting base"},
+    {"zhCn":"Zip2 出售带来约2,200万美元的第一次可验证财富跃迁","en":"The Zip2 sale produced the first verifiable wealth step-up of about US$22 million"},
+    {"zhCn":"把 X.com/PayPal 所得投入 SpaceX 与 Tesla，随后由集中股权升值放大财富","en":"Reinvested X.com/PayPal proceeds into SpaceX and Tesla, with concentrated equity appreciation multiplying wealth"}
+  ],
+  "assetBoundaries":[
+    {"category":{"zhCn":"个人 DOGE","en":"Personal DOGE"},"finding":{"zhCn":"确认持有一些，数量、钱包和当前余额未知","en":"Some holdings are confirmed; quantity, wallets, and current balance are unknown"},"status":"confirmed"},
+    {"category":{"zhCn":"Tesla/SpaceX资产","en":"Tesla and SpaceX assets"},"finding":{"zhCn":"公司资产、客户收入和公司持币不是个人钱包","en":"Company assets, customer revenue, and corporate crypto are not personal wallets"},"status":"confirmed"},
+    {"category":{"zhCn":"Dogecoin 网络","en":"Dogecoin network"},"finding":{"zhCn":"Musk不是创始人、协议所有人或单方面控制者","en":"Musk is not a founder, protocol owner, or unilateral controller"},"status":"confirmed"}
+  ],
+  "keyClaims":[
+    {"claim":{"zhCn":"创建 Dogecoin","en":"Created Dogecoin"},"finding":{"zhCn":"错误；Billy Markus 与 Jackson Palmer 于2013年创建","en":"Incorrect; Billy Markus and Jackson Palmer created it in 2013"},"evidenceGrade":"A","sourceType":{"zhCn":"Dogecoin 开发者历史","en":"Dogecoin developer history"},"sourceUrl":"https://dogecoin.com/dogepedia/articles/dogecoin-developers/"},
+    {"claim":{"zhCn":"本人持有 DOGE","en":"Personally holds DOGE"},"finding":{"zhCn":"本人公开视频确认，但没有数量披露","en":"Confirmed in a public interview, without quantity disclosure"},"evidenceGrade":"B","sourceType":{"zhCn":"卡塔尔经济论坛记录","en":"Qatar Economic Forum transcript"},"sourceUrl":"https://www.rev.com/transcripts/tesla-ceo-elon-musk-at-qatar-economic-forum-6-21-22-transcript"},
+    {"claim":{"zhCn":"操纵诉讼证明其所有交易清白","en":"The manipulation dismissal cleared every trade"},"finding":{"zhCn":"错误；法院驳回特定诉状，并未审计所有交易","en":"Incorrect; the court dismissed the pleaded case and did not audit every trade"},"evidenceGrade":"A","sourceType":{"zhCn":"法院裁定","en":"Court order"},"sourceUrl":"https://docs.justia.com/cases/federal/district-courts/new-york/nysdce/1%3A2022cv05037/581639/113/"}
+  ],
+  "openQuestions":[
+    {"zhCn":"个人 DOGE 钱包、成本、买卖和税务记录是什么？","en":"What are the personal DOGE wallets, cost basis, trades, and tax records?"},
+    {"zhCn":"Tesla和SpaceX收到的DOGE是保留、兑换还是由支付商处理？","en":"Are DOGE receipts at Tesla and SpaceX retained, converted, or handled by a processor?"}
+  ],
+  "revision":{"version":"2.0","lastReviewedAt":"2026-08-31","summary":{"zhCn":"新增可比较的财富跃迁、个人持币和网络控制边界。","en":"Added comparable wealth-step, personal-holding, and network-control boundaries."}}
+}

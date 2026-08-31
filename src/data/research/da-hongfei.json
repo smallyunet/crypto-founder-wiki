@@ -1,0 +1,23 @@
+{
+  "personId":"da-hongfei",
+  "capitalPath":[
+    {"zhCn":"语言、咨询创业和中国早期 Bitcoin 社群形成初始职业与关系资本","en":"Language skills, consulting entrepreneurship, and China's early Bitcoin community supplied initial career and network capital"},
+    {"zhCn":"与 Erik Zhang 创建 Antshares/Neo，并通过众筹取得项目资金","en":"Co-founded Antshares/Neo with Erik Zhang and obtained project funding through crowdsales"},
+    {"zhCn":"通过 Onchain、早期项目投资和生态关系扩大企业与投资权益","en":"Expanded company and investment interests through Onchain, early project investments, and ecosystem relationships"}
+  ],
+  "assetBoundaries":[
+    {"category":{"zhCn":"Neo 基金会国库","en":"Neo Foundation treasury"},"finding":{"zhCn":"基金会控制不等于达鸿飞个人所有","en":"Foundation control does not equal Da's personal ownership"},"status":"confirmed"},
+    {"category":{"zhCn":"Onchain 股权","en":"Onchain equity"},"finding":{"zhCn":"创始关系明确，个人当前比例和退出情况未完整披露","en":"The founding role is clear; current personal percentage and exits are incompletely disclosed"},"status":"unknown"},
+    {"category":{"zhCn":"Binance投资","en":"Binance investment"},"finding":{"zhCn":"早期白皮书列名支持投资/顾问身份，金额与当前权益未知","en":"Early white-paper listing supports an investor/adviser role; amount and current interest are unknown"},"status":"inferred"}
+  ],
+  "keyClaims":[
+    {"claim":{"zhCn":"独自创建 Neo","en":"Solely created Neo"},"finding":{"zhCn":"错误；Erik Zhang 是共同创始人和核心技术贡献者","en":"Incorrect; Erik Zhang is co-founder and a core technical contributor"},"evidenceGrade":"A","sourceType":{"zhCn":"Neo 官方历史","en":"Neo official history"},"sourceUrl":"https://neo.org/about"},
+    {"claim":{"zhCn":"Neo 国库都是个人财富","en":"Neo treasury is personal wealth"},"finding":{"zhCn":"没有法律或会计依据支持该等同关系","en":"No legal or accounting basis supports that equivalence"},"evidenceGrade":"A","sourceType":{"zhCn":"基金会财务报告","en":"Foundation financial report"},"sourceUrl":"https://neo.org/files/NEO%20Foundation%20Financial%20Report-2019Jun.pdf"},
+    {"claim":{"zhCn":"早期投资 Binance","en":"Invested early in Binance"},"finding":{"zhCn":"原始白皮书顾问/投资人名单支持，但交易金额不公开","en":"The original white-paper adviser/investor list supports the role, but transaction amount is unpublished"},"evidenceGrade":"B","sourceType":{"zhCn":"Binance 原始白皮书","en":"Original Binance white paper"},"sourceUrl":"https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf"}
+  ],
+  "openQuestions":[
+    {"zhCn":"Antshares早期两轮众筹资金最终进入哪些实体和支出科目？","en":"Which entities and spending categories ultimately received the two Antshares crowdsale rounds?"},
+    {"zhCn":"达鸿飞在 Onchain、Neo生态基金和 Binance 的当前受益权益是多少？","en":"What are Da's current beneficial interests in Onchain, Neo ecosystem funds, and Binance?"}
+  ],
+  "revision":{"version":"2.0","lastReviewedAt":"2026-08-31","summary":{"zhCn":"统一早期资金、众筹、基金会国库和企业股权边界。","en":"Standardized initial capital, crowdsales, Foundation treasury, and company-equity boundaries."}}
+}

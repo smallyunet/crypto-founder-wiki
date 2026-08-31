@@ -1,0 +1,20 @@
+{
+  "personId":"he-yi",
+  "capitalPath":[
+    {"zhCn":"媒体主持、品牌营销与OKCoin创业形成用户增长和行业网络","en":"Media presentation, brand marketing, and OKCoin entrepreneurship built growth skill and industry networks"},
+    {"zhCn":"一下科技高管经历扩大互联网产品和融资经验","en":"An executive role at Yixia Technology expanded internet-product and financing experience"},
+    {"zhCn":"2017年共同创立Binance，通过公司股权、BNB相关权益和投资业务形成财富","en":"Co-founded Binance in 2017 and built wealth through company equity, BNB-related interests, and investing"}
+  ],
+  "assetBoundaries":[
+    {"category":{"zhCn":"Binance股权","en":"Binance equity"},"finding":{"zhCn":"联合创始地位明确，精确持股和跨实体权益未公开","en":"Co-founder status is clear; exact ownership across entities is unpublished"},"status":"unknown"},
+    {"category":{"zhCn":"BNB与基金","en":"BNB and funds"},"finding":{"zhCn":"个人配置、公司国库、客户资产和Binance Labs/YZi Labs基金须分开","en":"Personal allocation, corporate treasury, customer assets, and Binance Labs/YZi Labs funds must be separated"},"status":"confirmed"},
+    {"category":{"zhCn":"与CZ关系","en":"Relationship with CZ"},"finding":{"zhCn":"共同创始和家庭关系不代表双方资产可合并计算","en":"Co-foundership and a family relationship do not permit combining their assets"},"status":"confirmed"}
+  ],
+  "keyClaims":[
+    {"claim":{"zhCn":"Binance联合创始人","en":"Binance co-founder"},"finding":{"zhCn":"公司与长期公开资料确认","en":"Confirmed by company and longstanding public records"},"evidenceGrade":"A","sourceType":{"zhCn":"Binance人物资料","en":"Binance profile"},"sourceUrl":"https://www.binance.com/en/blog/leadership"},
+    {"claim":{"zhCn":"曾参与创立OKCoin","en":"Helped found OKCoin"},"finding":{"zhCn":"同期行业报道与本人履历支持","en":"Supported by contemporaneous industry reporting and her career record"},"evidenceGrade":"B","sourceType":{"zhCn":"Fortune人物报道","en":"Fortune profile"},"sourceUrl":"https://fortune.com/2022/07/18/binance-female-cofounder-he-yi-cz-crypto-blockchain/"},
+    {"claim":{"zhCn":"Binance客户资产属于其个人财富","en":"Binance customer assets are her personal wealth"},"finding":{"zhCn":"错误；托管资产与股东经济权益不同","en":"Incorrect; custodial assets differ from shareholder economic interests"},"evidenceGrade":"A","sourceType":{"zhCn":"托管资产原则","en":"Custody principle"}}
+  ],
+  "openQuestions":[{"zhCn":"其在Binance各实体、BNB和投资管理平台中的当前受益权益是多少？","en":"What are her current beneficial interests across Binance entities, BNB, and investment platforms?"},{"zhCn":"早期股权、代币配置、稀释和分红如何变化？","en":"How did early equity, token allocations, dilution, and distributions change?"}],
+  "revision":{"version":"1.0","lastReviewedAt":"2026-08-31","summary":{"zhCn":"补足何一的联合创始、增长资本和资产隔离。","en":"Established Yi He's co-foundership, growth capital, and asset separation."}}
+}

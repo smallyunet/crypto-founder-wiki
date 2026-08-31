@@ -7,9 +7,13 @@ entityId: coverage-roadmap
 
 import CoverageRanking from '../../../../components/CoverageRanking.astro';
 
-## 当前起始队列
+## 市值排名快照
 
-<CoverageRanking locale="zh-cn" />
+<CoverageRanking locale="zh-cn" kind="market-cap" />
+
+## 当前编辑收录顺序
+
+<CoverageRanking locale="zh-cn" kind="editorial-seed" />
 
 ## 正式排名如何进入仓库
 
@@ -22,4 +26,3 @@ import CoverageRanking from '../../../../components/CoverageRanking.astro';
 5. 数据缺失、映射争议和人工修订说明。
 
 正式快照不会覆盖旧文件。这样可以还原“在某一天，按某个口径看到的网络顺序”，也避免把实时变化写死进人物文章。
-

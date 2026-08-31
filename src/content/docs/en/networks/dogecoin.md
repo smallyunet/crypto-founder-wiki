@@ -65,9 +65,9 @@ The U.S. Department of Government Efficiency was also abbreviated “DOGE.” Th
 
 ## Covered people
 
+- [Billy Markus](../../people/billy-markus/): co-creator and original implementation author.
+- [Jackson Palmer](../../people/jackson-palmer/): co-creator who originated the concept, name, and public launch with Markus.
 - [Elon Musk](../../people/elon-musk/): disclosed holder, promoter, and corporate adoption decision-maker—not a founder.
-
-The actual creators, Billy Markus and Jackson Palmer, are identified here even though their full personal dossiers have not yet been added.
 
 ## Unresolved questions
 

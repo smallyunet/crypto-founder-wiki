@@ -1,0 +1,6 @@
+{
+  "name":{"zhCn":"阿纳托利·雅科文科","en":"Anatoly Yakovenko"},"aliases":["Toly Yakovenko"],
+  "profileType":"founder","directoryOrder":25,
+  "summary":{"zhCn":"Solana 构想者与 Solana Labs 联合创始人，Proof of History 论文作者；此前长期在 Qualcomm 从事系统工程。","en":"Creator of the Solana design, co-founder of Solana Labs, and author of the Proof of History paper; previously a long-tenured systems engineer at Qualcomm."},
+  "networkIds":["solana"],"reportSlug":"anatoly-yakovenko","coverageStatus":"reviewed","lastReviewedAt":"2026-08-31"
+}

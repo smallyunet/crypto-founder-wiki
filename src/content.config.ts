@@ -16,6 +16,8 @@ const people = defineCollection({
 		summary: localeText,
 		networkIds: z.array(z.string()),
 		reportSlug: z.string(),
+		imageKind: z.enum(['portrait', 'representative']).default('portrait'),
+		imageAlt: localeText.optional(),
 		coverageStatus: z.enum(['reviewed', 'needs-review']),
 		lastReviewedAt: z.coerce.date(),
 	}),
@@ -36,15 +38,45 @@ const rankings = defineCollection({
 	loader: glob({ pattern: '**/*.json', base: './src/data/rankings' }),
 	schema: z.object({
 		asOf: z.coerce.date(),
+		retrievedAt: z.coerce.date().optional(),
 		kind: z.enum(['editorial-seed', 'market-cap', 'tvl', 'activity']),
 		provider: z.string(),
+		sourceUrl: z.url().optional(),
 		description: localeText,
 		entries: z.array(z.object({
 			position: z.number().int().positive(),
 			networkId: z.string(),
 			personIds: z.array(z.string()),
 			coverageStatus: z.enum(['published', 'planned']),
+			value: z.number().nonnegative().optional(),
+			unit: z.enum(['usd']).optional(),
 		})),
+	}),
+});
+
+const research = defineCollection({
+	loader: glob({ pattern: '**/*.json', base: './src/data/research' }),
+	schema: z.object({
+		personId: z.string(),
+		capitalPath: z.array(localeText).min(3),
+		assetBoundaries: z.array(z.object({
+			category: localeText,
+			finding: localeText,
+			status: z.enum(['confirmed', 'inferred', 'unknown']),
+		})).min(3),
+		keyClaims: z.array(z.object({
+			claim: localeText,
+			finding: localeText,
+			evidenceGrade: z.enum(['A', 'B', 'C', 'D', 'Unknown']),
+			sourceType: localeText,
+			sourceUrl: z.url().optional(),
+		})).min(3),
+		openQuestions: z.array(localeText).min(2),
+		revision: z.object({
+			version: z.string(),
+			lastReviewedAt: z.coerce.date(),
+			summary: localeText,
+		}),
 	}),
 });
 
@@ -60,10 +92,12 @@ export const collections = {
 				researchStatus: z.enum(['reviewed', 'needs-review']).optional(),
 				investigatedAt: z.coerce.date().optional(),
 				lastReviewedAt: z.coerce.date().optional(),
+				sourceAccessedAt: z.coerce.date().optional(),
 			}),
 		}),
 	}),
 	people,
 	networks,
 	rankings,
+	research,
 };

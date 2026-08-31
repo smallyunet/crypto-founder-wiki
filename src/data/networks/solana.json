@@ -5,6 +5,6 @@
     "en": "A high-performance proof-of-stake blockchain conceived by Anatoly Yakovenko in 2017; $TRUMP was first minted on this network in January 2025."
   },
   "founderStatus": "identified",
-  "founderIds": [],
+  "founderIds": ["anatoly-yakovenko", "raj-gokal"],
   "featuredPeopleIds": ["donald-trump"]
 }

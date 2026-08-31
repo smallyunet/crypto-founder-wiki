@@ -1,0 +1,6 @@
+{
+  "name":{"zhCn":"加文·伍德","en":"Gavin Wood"},"aliases":["Dr. Gavin Wood"],
+  "profileType":"founder","directoryOrder":21,
+  "summary":{"zhCn":"Ethereum 联合创始人、首个可运行客户端与 Yellow Paper 作者，随后创立 Parity、Web3 Foundation 与 Polkadot。","en":"Ethereum co-founder, author of its first functional client and Yellow Paper, and later founder of Parity, Web3 Foundation, and Polkadot."},
+  "networkIds":["ethereum"],"reportSlug":"gavin-wood","coverageStatus":"reviewed","lastReviewedAt":"2026-08-31"
+}

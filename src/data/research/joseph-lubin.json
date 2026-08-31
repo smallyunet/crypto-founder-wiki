@@ -1,0 +1,20 @@
+{
+  "personId":"joseph-lubin",
+  "capitalPath":[
+    {"zhCn":"Princeton工程教育、机器人、金融软件、对冲基金与Goldman Sachs经历形成技术和金融资本","en":"Princeton engineering, robotics, financial software, hedge-fund, and Goldman Sachs work built technical and financial capital"},
+    {"zhCn":"作为Ethereum早期资助者和组织者承担运营与启动资源","en":"Served as an early Ethereum funder and organizer supplying operations and launch resources"},
+    {"zhCn":"创立Consensys，通过公司股权、基础设施产品和早期ETH形成财富","en":"Founded Consensys and built wealth through company equity, infrastructure products, and early ETH"}
+  ],
+  "assetBoundaries":[
+    {"category":{"zhCn":"早期ETH","en":"Early ETH"},"finding":{"zhCn":"被广泛认为持有重要配置，但完整数量和出售历史未公开","en":"Widely understood to have held a material allocation; full quantity and sale history are unpublished"},"status":"inferred"},
+    {"category":{"zhCn":"Consensys股权","en":"Consensys equity"},"finding":{"zhCn":"创始和控制关系明确，完整资本表与个人比例不公开","en":"Founding and control are clear; the full cap table and personal percentage are private"},"status":"confirmed"},
+    {"category":{"zhCn":"MetaMask/Infura资产","en":"MetaMask and Infura assets"},"finding":{"zhCn":"属于公司业务，不等同于个人直接资产或Ethereum协议","en":"Company businesses, not direct personal assets or the Ethereum protocol"},"status":"confirmed"}
+  ],
+  "keyClaims":[
+    {"claim":{"zhCn":"Ethereum联合创始人和早期资助者","en":"Ethereum co-founder and early funder"},"finding":{"zhCn":"Ethereum官方历史和Consensys资料确认","en":"Confirmed by Ethereum's official history and Consensys records"},"evidenceGrade":"A","sourceType":{"zhCn":"Ethereum历史","en":"Ethereum history"},"sourceUrl":"https://ethereum.org/ethereum-history-founder-and-ownership/"},
+    {"claim":{"zhCn":"创建Consensys","en":"Founded Consensys"},"finding":{"zhCn":"公司记录确认","en":"Confirmed by company records"},"evidenceGrade":"A","sourceType":{"zhCn":"Consensys人物资料","en":"Consensys profile"},"sourceUrl":"https://consensys.io/about/joseph-lubin-founder-of-consensys"},
+    {"claim":{"zhCn":"控制Ethereum因为控制MetaMask","en":"Controls Ethereum because Consensys controls MetaMask"},"finding":{"zhCn":"错误；钱包与RPC基础设施影响不等于协议所有权","en":"Incorrect; wallet and RPC infrastructure influence is not protocol ownership"},"evidenceGrade":"A","sourceType":{"zhCn":"Ethereum治理资料","en":"Ethereum governance material"},"sourceUrl":"https://ethereum.org/en/governance/"}
+  ],
+  "openQuestions":[{"zhCn":"其创世ETH配置、出售、质押和当前钱包是多少？","en":"What were his genesis ETH allocation, sales, staking, and current wallets?"},{"zhCn":"Consensys历轮融资后个人股权、质押和负债是多少？","en":"What are his ownership, pledges, and liabilities after Consensys financing rounds?"}],
+  "revision":{"version":"1.0","lastReviewedAt":"2026-08-31","summary":{"zhCn":"分离Ethereum早期资助、Consensys公司价值与协议控制。","en":"Separated early Ethereum funding, Consensys company value, and protocol control."}}
+}

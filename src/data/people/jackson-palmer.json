@@ -1,0 +1,9 @@
+{
+  "name":{"zhCn":"杰克逊·帕尔默","en":"Jackson Palmer"},
+  "aliases":["Jackson Palmer"],
+  "profileType":"founder","directoryOrder":17,
+  "summary":{"zhCn":"Dogecoin 共同创建者，最初提出名称、注册域名并组织项目；曾任 Adobe 营销人员，后来退出加密行业并公开批评投机结构。","en":"Dogecoin co-creator who coined the concept, registered the domain, and organized the project; a former Adobe marketer who later left crypto and criticized its speculative structure."},
+  "networkIds":["dogecoin"],"reportSlug":"jackson-palmer","imageKind":"representative",
+  "imageAlt":{"zhCn":"代表 Jackson Palmer 档案的 Dogecoin 标识；没有使用错误或未经许可的人物照片","en":"Dogecoin mark representing the Jackson Palmer dossier; no misidentified or unlicensed portrait is used"},
+  "coverageStatus":"reviewed","lastReviewedAt":"2026-08-31"
+}

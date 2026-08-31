@@ -1,0 +1,23 @@
+{
+  "personId":"li-xiaolai",
+  "capitalPath":[
+    {"zhCn":"销售、新东方教学和出版形成现金流、受众与知识产品能力","en":"Sales, New Oriental teaching, and publishing built cash flow, audience, and knowledge-product capability"},
+    {"zhCn":"2011年前后买入 Bitcoin，公开持仓叙述带来行业声誉","en":"Bought Bitcoin around 2011, with public holding claims creating industry reputation"},
+    {"zhCn":"通过 BitFund、项目投资、平台与代币融资把个人声誉转化为管理和投资权益","en":"Converted reputation into management and investment interests through BitFund, project investments, platforms, and token financing"}
+  ],
+  "assetBoundaries":[
+    {"category":{"zhCn":"Bitcoin 持仓","en":"Bitcoin holdings"},"finding":{"zhCn":"历史数量多来自本人陈述，当前余额和地址未完整公开","en":"Historical quantities mostly come from his statements; current balances and addresses are not fully public"},"status":"unknown"},
+    {"category":{"zhCn":"基金管理资产","en":"Fund assets under management"},"finding":{"zhCn":"基金规模不能直接计入基金经理个人财富","en":"Fund assets under management cannot be counted directly as the manager's personal wealth"},"status":"confirmed"},
+    {"category":{"zhCn":"项目代币与平台权益","en":"Project tokens and platform interests"},"finding":{"zhCn":"成本、锁仓、出售和最终受益安排不完整","en":"Cost basis, lockups, sales, and ultimate beneficial arrangements are incomplete"},"status":"unknown"}
+  ],
+  "keyClaims":[
+    {"claim":{"zhCn":"曾持有六位数 BTC","en":"Held a six-figure BTC position"},"finding":{"zhCn":"主要由本人公开表述支持，缺少完整地址审计","en":"Supported mainly by his public statements, without a complete address audit"},"evidenceGrade":"B","sourceType":{"zhCn":"本人公开演讲与著作","en":"Public talks and writing"},"sourceUrl":"https://github.com/xiaolai"},
+    {"claim":{"zhCn":"BitFund规模等于个人资产","en":"BitFund size equals personal wealth"},"finding":{"zhCn":"错误；受托或基金资产必须与个人权益分离","en":"Incorrect; entrusted or fund assets must be separated from personal interests"},"evidenceGrade":"A","sourceType":{"zhCn":"资产归属原则","en":"Asset-ownership principle"}},
+    {"claim":{"zhCn":"已经永久退出区块链投资","en":"Permanently exited blockchain investing"},"finding":{"zhCn":"后续公开活动显示“退出”更接近角色和表述调整","en":"Later public activity indicates a role and messaging shift rather than a clean permanent exit"},"evidenceGrade":"B","sourceType":{"zhCn":"后续公开记录","en":"Subsequent public record"},"sourceUrl":"https://github.com/xiaolai"}
+  ],
+  "openQuestions":[
+    {"zhCn":"历史 BTC 获取成本、出售、捐赠、税务和当前余额是多少？","en":"What are the acquisition cost, sales, gifts, taxes, and current balance of historical BTC?"},
+    {"zhCn":"各基金、平台和代币项目中个人与受托资产如何对账？","en":"How do personal and entrusted assets reconcile across funds, platforms, and token projects?"}
+  ],
+  "revision":{"version":"2.0","lastReviewedAt":"2026-08-31","summary":{"zhCn":"把教师收入、Bitcoin投资、基金管理和项目权益分层。","en":"Separated teaching income, Bitcoin investment, fund management, and project interests."}}
+}

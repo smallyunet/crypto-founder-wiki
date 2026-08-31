@@ -5,6 +5,6 @@
     "en": "An open smart-contract blockchain proposed by Vitalik Buterin in 2013 and launched in 2015, developed by multiple co-founders, the Ethereum Foundation, and a global open-source community."
   },
   "founderStatus": "identified",
-  "founderIds": ["vitalik-buterin"],
+  "founderIds": ["vitalik-buterin", "gavin-wood", "joseph-lubin"],
   "featuredPeopleIds": []
 }

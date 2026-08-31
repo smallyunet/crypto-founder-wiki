@@ -1,0 +1,49 @@
+---
+import { getCollection } from 'astro:content';
+
+interface Props {
+	personId: string;
+	locale?: 'zh-cn' | 'en';
+}
+
+const { personId, locale = 'en' } = Astro.props;
+const isChinese = locale === 'zh-cn';
+const record = (await getCollection('research')).find((entry) => entry.data.personId === personId)?.data;
+
+if (!record) throw new Error(`Missing standardized research record for ${personId}`);
+
+const text = <T extends { zhCn: string; en: string }>(value: T) => isChinese ? value.zhCn : value.en;
+const statusLabel = {
+	confirmed: isChinese ? '已确认' : 'Confirmed',
+	inferred: isChinese ? '合理推断' : 'Inferred',
+	unknown: isChinese ? '未知' : 'Unknown',
+};
+---
+
+<section class="research-summary" aria-label={isChinese ? '标准化研究摘要' : 'Standardized research summary'}>
+	<h2>{isChinese ? '资本与财富形成路径' : 'Capital and wealth path'}</h2>
+	<ol class="capital-path">
+		{record.capitalPath.map((step) => <li>{text(step)}</li>)}
+	</ol>
+
+	<h2>{isChinese ? '资产与控制边界' : 'Asset and control boundaries'}</h2>
+	<div class="table-wrap">
+		<table>
+			<thead><tr><th>{isChinese ? '类别' : 'Category'}</th><th>{isChinese ? '结论' : 'Finding'}</th><th>{isChinese ? '状态' : 'Status'}</th></tr></thead>
+			<tbody>{record.assetBoundaries.map((item) => <tr><td>{text(item.category)}</td><td>{text(item.finding)}</td><td>{statusLabel[item.status]}</td></tr>)}</tbody>
+		</table>
+	</div>
+
+	<h2>{isChinese ? '核心主张证据表' : 'Key-claim evidence ledger'}</h2>
+	<div class="table-wrap">
+		<table>
+			<thead><tr><th>{isChinese ? '主张' : 'Claim'}</th><th>{isChinese ? '复核结论' : 'Reviewed finding'}</th><th>{isChinese ? '等级' : 'Grade'}</th><th>{isChinese ? '来源' : 'Source'}</th></tr></thead>
+			<tbody>{record.keyClaims.map((item) => <tr><td>{text(item.claim)}</td><td>{text(item.finding)}</td><td>{item.evidenceGrade}</td><td>{item.sourceUrl ? <a href={item.sourceUrl}>{text(item.sourceType)}</a> : text(item.sourceType)}</td></tr>)}</tbody>
+		</table>
+	</div>
+
+	<h2>{isChinese ? '优先开放问题' : 'Priority open questions'}</h2>
+	<ul>{record.openQuestions.map((question) => <li>{text(question)}</li>)}</ul>
+
+	<p class="revision-note"><strong>{isChinese ? '修订记录' : 'Revision'} {record.revision.version}:</strong> {text(record.revision.summary)} ({record.revision.lastReviewedAt.toISOString().slice(0, 10)})</p>
+</section>

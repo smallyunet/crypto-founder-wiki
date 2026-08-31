@@ -15,6 +15,7 @@ async function loadDirectory(relativePath) {
 const people = await loadDirectory('src/data/people/');
 const networks = await loadDirectory('src/data/networks/');
 const rankings = await loadDirectory('src/data/rankings/');
+const research = await loadDirectory('src/data/research/');
 const errors = [];
 
 const sensitiveTerms = [
@@ -50,7 +51,7 @@ for (const [personId, person] of people) {
 		if (!networks.has(networkId)) errors.push(`${personId}: unknown network ${networkId}`);
 	}
 	for (const locale of ['zh-cn', 'en']) {
-		const reportPath = new URL(`src/content/docs/${locale}/people/${person.reportSlug}.md`, root);
+		const reportPath = new URL(`src/content/docs/${locale}/people/${person.reportSlug}.mdx`, root);
 		try {
 			await access(reportPath);
 			const report = await readFile(reportPath, 'utf8');
@@ -58,10 +59,26 @@ for (const [personId, person] of people) {
 			if (status !== person.coverageStatus) {
 				errors.push(`${personId}: ${locale} researchStatus ${status ?? 'missing'} does not match people record ${person.coverageStatus}`);
 			}
+			if (!report.includes(`<ResearchSummary personId="${personId}" locale="${locale}" />`)) {
+				errors.push(`${personId}: ${locale} report is missing its standardized ResearchSummary`);
+			}
+			if (!/^sourceAccessedAt:\s*\d{4}-\d{2}-\d{2}\s*$/m.test(report)) {
+				errors.push(`${personId}: ${locale} report is missing sourceAccessedAt`);
+			}
 		} catch {
-			errors.push(`${personId}: missing ${locale} report ${person.reportSlug}.md`);
+			errors.push(`${personId}: missing ${locale} report ${person.reportSlug}.mdx`);
 		}
 	}
+	const researchRecord = research.get(personId);
+	if (!researchRecord) {
+		errors.push(`${personId}: missing standardized research record`);
+	} else if (researchRecord.personId !== personId) {
+		errors.push(`${personId}: research record personId is ${researchRecord.personId}`);
+	}
+}
+
+for (const [researchId, record] of research) {
+	if (!people.has(record.personId)) errors.push(`${researchId}: unknown research person ${record.personId}`);
 }
 
 for (const [networkId, network] of networks) {
@@ -75,11 +92,18 @@ for (const [networkId, network] of networks) {
 }
 
 for (const [snapshotId, snapshot] of rankings) {
+	if (snapshot.kind !== 'editorial-seed') {
+		if (!snapshot.retrievedAt) errors.push(`${snapshotId}: formal snapshot is missing retrievedAt`);
+		if (!snapshot.sourceUrl) errors.push(`${snapshotId}: formal snapshot is missing sourceUrl`);
+	}
 	const positions = new Set();
 	for (const entry of snapshot.entries) {
 		if (positions.has(entry.position)) errors.push(`${snapshotId}: duplicate position ${entry.position}`);
 		positions.add(entry.position);
 		if (!networks.has(entry.networkId)) errors.push(`${snapshotId}: unknown network ${entry.networkId}`);
+		if (snapshot.kind !== 'editorial-seed' && (!Number.isFinite(entry.value) || !entry.unit)) {
+			errors.push(`${snapshotId}: position ${entry.position} is missing value or unit`);
+		}
 		for (const personId of entry.personIds) {
 			if (!people.has(personId)) errors.push(`${snapshotId}: unknown person ${personId}`);
 		}
@@ -91,4 +115,4 @@ if (errors.length > 0) {
 	process.exit(1);
 }
 
-console.log(`Validated ${people.size} people, ${networks.size} networks, and ${rankings.size} ranking snapshot.`);
+console.log(`Validated ${people.size} people, ${networks.size} networks, ${research.size} research records, and ${rankings.size} ranking snapshot.`);

@@ -1,0 +1,23 @@
+{
+  "personId":"charlie-lee",
+  "capitalPath":[
+    {"zhCn":"MIT 教育与 Google 工程师收入形成技术和职业资本","en":"MIT training and Google engineering income supplied technical and career capital"},
+    {"zhCn":"公开启动 Litecoin，并通过挖矿或市场获得个人 LTC","en":"Publicly launched Litecoin and acquired personal LTC through mining or markets"},
+    {"zhCn":"Coinbase 早期职位与2017年出售或捐赠 LTC 构成主要可见流动性事件","en":"An early Coinbase role and the 2017 sale or donation of LTC are the main visible liquidity events"}
+  ],
+  "assetBoundaries":[
+    {"category":{"zhCn":"Litecoin 供应","en":"Litecoin supply"},"finding":{"zhCn":"没有 ICO 或大额创始人预留","en":"No ICO or large founder allocation was disclosed"},"status":"confirmed"},
+    {"category":{"zhCn":"2017年处置所得","en":"2017 disposal proceeds"},"finding":{"zhCn":"处置由本人披露，但数量、税务和净所得未知","en":"The disposal was self-disclosed; quantity, taxes, and net proceeds are unknown"},"status":"unknown"},
+    {"category":{"zhCn":"基金会资产","en":"Foundation assets"},"finding":{"zhCn":"Litecoin Foundation 资金不属于其个人资产","en":"Litecoin Foundation funds are not his personal property"},"status":"confirmed"}
+  ],
+  "keyClaims":[
+    {"claim":{"zhCn":"创建 Litecoin","en":"Created Litecoin"},"finding":{"zhCn":"原始公告、代码和启动记录确认","en":"Confirmed by the launch announcement, code, and launch record"},"evidenceGrade":"A","sourceType":{"zhCn":"原始公告","en":"Original announcement"},"sourceUrl":"https://bitcointalk.org/index.php?topic=47417.0"},
+    {"claim":{"zhCn":"存在巨额预挖","en":"There was a large premine"},"finding":{"zhCn":"公告仅披露创世及确认区块合计150 LTC","en":"The announcement disclosed only 150 LTC across genesis and confirmation blocks"},"evidenceGrade":"A","sourceType":{"zhCn":"启动记录","en":"Launch record"},"sourceUrl":"https://bitcointalk.org/index.php?topic=47417.0"},
+    {"claim":{"zhCn":"已出售全部 LTC","en":"Sold all LTC"},"finding":{"zhCn":"本人称出售或捐赠除实体收藏品外的全部个人 LTC，未审计","en":"He said he sold or donated all personal LTC except physical collectibles; unaudited"},"evidenceGrade":"B","sourceType":{"zhCn":"同期报道","en":"Contemporaneous report"},"sourceUrl":"https://www.swissinfo.ch/ita/fondatore-litecoin-vende-le-sue-criptovalute/43770982"}
+  ],
+  "openQuestions":[
+    {"zhCn":"2017年处置的数量、出售与捐赠比例及税后所得是多少？","en":"What were the quantity, sale-versus-donation split, and after-tax proceeds in 2017?"},
+    {"zhCn":"其 Coinbase 股权、期权和退出所得是多少？","en":"What Coinbase equity, options, and proceeds did he receive?"}
+  ],
+  "revision":{"version":"2.0","lastReviewedAt":"2026-08-31","summary":{"zhCn":"统一呈现公开启动、LTC处置和基金会资产边界。","en":"Standardized the public-launch, LTC-disposal, and foundation-asset boundaries."}}
+}

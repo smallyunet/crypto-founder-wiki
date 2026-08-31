@@ -1,0 +1,23 @@
+{
+  "personId":"justin-sun",
+  "capitalPath":[
+    {"zhCn":"精英教育、Ripple相关经历和个人品牌形成早期声誉与关系资本","en":"Elite education, Ripple-related work, and personal branding built early reputation and networks"},
+    {"zhCn":"2017年通过 TRON 代币发行获得项目资源与市场影响力","en":"The 2017 TRON token sale supplied project resources and market reach"},
+    {"zhCn":"通过 BitTorrent、Poloniex/HTX生态、代币储备和投资扩大控制性权益","en":"Expanded controlling interests through BitTorrent, the Poloniex/HTX ecosystem, token reserves, and investments"}
+  ],
+  "assetBoundaries":[
+    {"category":{"zhCn":"公开链上地址","en":"Public on-chain addresses"},"finding":{"zhCn":"部分地址由平台或分析机构归属，不能保证完整或持续控制","en":"Some addresses are attributed by platforms or analysts; completeness and continuing control are not guaranteed"},"status":"inferred"},
+    {"category":{"zhCn":"TRON/交易平台资产","en":"TRON and exchange assets"},"finding":{"zhCn":"项目国库、客户托管和个人钱包必须分开","en":"Project treasuries, customer custody, and personal wallets must be separated"},"status":"confirmed"},
+    {"category":{"zhCn":"关联公司股权","en":"Affiliated-company equity"},"finding":{"zhCn":"监管文件可确认部分控制关系，完整跨境结构仍不透明","en":"Filings confirm some control relationships; the complete cross-border structure remains opaque"},"status":"inferred"}
+  ],
+  "keyClaims":[
+    {"claim":{"zhCn":"创建 TRON","en":"Founded TRON"},"finding":{"zhCn":"基金会、代码和发行记录确认其创始组织角色","en":"Foundation, code, and issuance records confirm his founding-organizer role"},"evidenceGrade":"A","sourceType":{"zhCn":"TRON 开发资料","en":"TRON development material"},"sourceUrl":"https://tron.network/about?lng=en"},
+    {"claim":{"zhCn":"个人财富等于可归属地址总值","en":"Personal wealth equals the value of attributed addresses"},"finding":{"zhCn":"错误；地址可能属于企业、协议、客户或受限制资产","en":"Incorrect; addresses may represent companies, protocols, customers, or restricted assets"},"evidenceGrade":"C","sourceType":{"zhCn":"链上归属模型","en":"On-chain attribution model"},"sourceUrl":"https://intel.arkm.com/explorer/entity/justin-sun"},
+    {"claim":{"zhCn":"SEC 对其提出证券与操纵指控","en":"SEC alleged securities and manipulation violations"},"finding":{"zhCn":"起诉文件确认指控；指控本身不等于法院终局认定","en":"The complaint confirms the allegations; allegations are not final judicial findings"},"evidenceGrade":"A","sourceType":{"zhCn":"SEC 起诉公告","en":"SEC complaint announcement"},"sourceUrl":"https://www.sec.gov/newsroom/press-releases/2023-59"}
+  ],
+  "openQuestions":[
+    {"zhCn":"代币发行所得、项目储备与个人受益权益的历史对账如何？","en":"How do token-sale proceeds, project reserves, and personal beneficial interests reconcile historically?"},
+    {"zhCn":"各交易平台实体的最终持股、客户资产隔离和负债是多少？","en":"What are the ultimate ownership, customer-asset segregation, and liabilities of each exchange entity?"}
+  ],
+  "revision":{"version":"2.0","lastReviewedAt":"2026-08-31","summary":{"zhCn":"重构TRON发行、企业控制、链上归属和监管边界。","en":"Reframed TRON issuance, corporate control, on-chain attribution, and regulatory boundaries."}}
+}

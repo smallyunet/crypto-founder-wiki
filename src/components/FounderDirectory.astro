@@ -19,7 +19,7 @@ const isChinese = locale === 'zh-cn';
 			<img
 				class="founder-card__image"
 				src={`${base}/images/people/${data.reportSlug}.webp`}
-				alt={isChinese ? `${data.name.zhCn}的公开照片` : `Public photograph of ${data.name.en}`}
+				alt={data.imageAlt ? (isChinese ? data.imageAlt.zhCn : data.imageAlt.en) : (isChinese ? `${data.name.zhCn}的公开照片` : `Public photograph of ${data.name.en}`)}
 				width="720"
 				height="900"
 				loading="lazy"

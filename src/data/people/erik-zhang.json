@@ -1,0 +1,8 @@
+{
+  "name":{"zhCn":"张铮文（Erik Zhang）","en":"Erik Zhang"},"aliases":["Erik Zhang","张铮文"],
+  "profileType":"founder","directoryOrder":51,
+  "summary":{"zhCn":"Neo 共同创始人、核心开发者和 dBFT 共识作者；档案补足经常被达鸿飞个人叙事掩盖的技术创始角色。","en":"Neo co-founder, core developer, and author of dBFT; the dossier restores a technical founding role often obscured by Da Hongfei-centered narratives."},
+  "networkIds":["neo"],"reportSlug":"erik-zhang","imageKind":"representative",
+  "imageAlt":{"zhCn":"代表 Erik Zhang 档案的 Neo 标识；没有使用授权不明确的人物照片","en":"Neo mark representing the Erik Zhang dossier; no portrait with unclear reuse rights is used"},
+  "coverageStatus":"reviewed","lastReviewedAt":"2026-08-31"
+}

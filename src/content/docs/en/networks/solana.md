@@ -14,7 +14,8 @@ Solana is a high-performance proof-of-stake blockchain conceived by Anatoly Yako
 
 ## Founding and profile relationship
 
-- Anatoly Yakovenko is Solana's original conceiver and white-paper author; this site has not yet published his full dossier.
+- [Anatoly Yakovenko](../../people/anatoly-yakovenko/) is Solana's original conceiver, white-paper author, and technical co-founder.
+- [Raj Gokal](../../people/raj-gokal/) is a Solana co-founder whose role centered on product, operations, financing, and ecosystem formation.
 - [Donald Trump](../../people/donald-trump/) is not a Solana founder. He is included as a network-related figure because Official Trump Meme was minted on Solana on January 17, 2025.
 
 The Solana contract address published by the Official Trump site is `6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN`. [Official Trump website](https://gettrumpmemes.com/)

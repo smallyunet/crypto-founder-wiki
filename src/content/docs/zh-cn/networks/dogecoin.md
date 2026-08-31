@@ -65,9 +65,9 @@ Musk 与 Dogecoin 的商业和文化关系很重要，但结构边界清晰：
 
 ## 已收录人物
 
+- [Billy Markus](../../people/billy-markus/)：共同创建者和原始实现作者。
+- [Jackson Palmer](../../people/jackson-palmer/)：提出概念和名称，并与 Markus 共同完成公开启动的创建者。
 - [埃隆·马斯克](../../people/elon-musk/)：公开持有人、推广者和企业采用决策者，**不是创始人**。
-
-真实创建者 Billy Markus 与 Jackson Palmer 已在本页明确，即使本站暂未建立其完整人物档案。
 
 ## 尚未解决的问题
 

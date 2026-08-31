@@ -1,0 +1,23 @@
+{
+  "personId":"vitalik-buterin",
+  "capitalPath":[
+    {"zhCn":"家庭迁移、数学与编程教育及 Bitcoin 写作形成早期人力与声誉资本","en":"Family migration, math and programming education, and Bitcoin writing built early human and reputational capital"},
+    {"zhCn":"提出 Ethereum 并参与众筹前的协议设计和组织","en":"Proposed Ethereum and organized protocol development before the crowdsale"},
+    {"zhCn":"通过创始人分配、公开持有的 ETH 和后续项目权益形成加密资产财富","en":"Built crypto wealth through founder allocation, publicly identified ETH, and later project interests"}
+  ],
+  "assetBoundaries":[
+    {"category":{"zhCn":"公开 ETH 地址","en":"Public ETH addresses"},"finding":{"zhCn":"部分地址由本人公开，但不保证覆盖全部资产","en":"Some addresses were publicly identified but do not necessarily cover all assets"},"status":"confirmed"},
+    {"category":{"zhCn":"Ethereum Foundation","en":"Ethereum Foundation"},"finding":{"zhCn":"基金会国库不是 Vitalik 的个人钱包","en":"The Foundation treasury is not Vitalik's personal wallet"},"status":"confirmed"},
+    {"category":{"zhCn":"协议控制","en":"Protocol control"},"finding":{"zhCn":"具有显著议程影响力，但不能单方面升级网络","en":"He has substantial agenda influence but cannot unilaterally upgrade the network"},"status":"confirmed"}
+  ],
+  "keyClaims":[
+    {"claim":{"zhCn":"提出 Ethereum","en":"Proposed Ethereum"},"finding":{"zhCn":"2013年白皮书与同期记录确认","en":"Confirmed by the 2013 paper and contemporaneous record"},"evidenceGrade":"A","sourceType":{"zhCn":"Ethereum 白皮书","en":"Ethereum paper"},"sourceUrl":"https://ethereum.org/en/whitepaper/"},
+    {"claim":{"zhCn":"独自创建 Ethereum","en":"Created Ethereum alone"},"finding":{"zhCn":"错误；存在多位联合创始人与核心贡献者","en":"Incorrect; Ethereum had multiple co-founders and core contributors"},"evidenceGrade":"A","sourceType":{"zhCn":"Ethereum Foundation 历史","en":"Ethereum Foundation history"},"sourceUrl":"https://ethereum.org/en/history/"},
+    {"claim":{"zhCn":"可以单方面控制 Ethereum","en":"Can unilaterally control Ethereum"},"finding":{"zhCn":"没有协议密钥或公司权力可以强制全网升级","en":"No protocol key or corporate authority lets him compel a network-wide upgrade"},"evidenceGrade":"A","sourceType":{"zhCn":"协议治理资料","en":"Protocol governance material"},"sourceUrl":"https://ethereum.org/en/governance/"}
+  ],
+  "openQuestions":[
+    {"zhCn":"其未公开钱包和非 ETH 投资的完整规模是多少？","en":"What is the full scale of undisclosed wallets and non-ETH investments?"},
+    {"zhCn":"捐赠承诺、代币处置和税务如何影响当前净资产？","en":"How have donations, token disposals, and taxes changed current net assets?"}
+  ],
+  "revision":{"version":"2.0","lastReviewedAt":"2026-08-31","summary":{"zhCn":"强化创始人分配、基金会国库和协议影响力边界。","en":"Clarified founder allocation, Foundation treasury, and protocol-influence boundaries."}}
+}

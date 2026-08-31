@@ -1,0 +1,23 @@
+{
+  "personId": "satoshi-nakamoto",
+  "capitalPath": [
+    {"zhCn":"以化名发布 Bitcoin 白皮书和开源客户端","en":"Published the Bitcoin paper and open-source client under a pseudonym"},
+    {"zhCn":"在网络早期低竞争阶段参与挖矿，可能积累大量未移动 BTC","en":"Mined during the low-competition launch period and may have accumulated substantial unmoved BTC"},
+    {"zhCn":"2010至2011年退出公开开发；没有可核验的套现路径","en":"Withdrew from public development in 2010–2011; no verifiable monetization path is known"}
+  ],
+  "assetBoundaries": [
+    {"category":{"zhCn":"早期地址","en":"Early addresses"},"finding":{"zhCn":"聚类模型只能推测，不能全部归属于中本聪","en":"Clustering models are inferential and cannot attribute every early address to Satoshi"},"status":"inferred"},
+    {"category":{"zhCn":"Bitcoin 网络","en":"Bitcoin network"},"finding":{"zhCn":"不存在可由创始人单方面支配的公司或国库","en":"No founder-controlled company or treasury can unilaterally govern the network"},"status":"confirmed"},
+    {"category":{"zhCn":"现实身份与遗产","en":"Identity and estate"},"finding":{"zhCn":"身份、继承人、税务和密钥控制均未知","en":"Identity, heirs, tax position, and key control remain unknown"},"status":"unknown"}
+  ],
+  "keyClaims": [
+    {"claim":{"zhCn":"创建 Bitcoin","en":"Created Bitcoin"},"finding":{"zhCn":"白皮书、代码和早期通信共同确认","en":"Confirmed by the paper, code, and early correspondence"},"evidenceGrade":"A","sourceType":{"zhCn":"原始白皮书","en":"Original paper"},"sourceUrl":"https://bitcoin.org/bitcoin.pdf"},
+    {"claim":{"zhCn":"拥有约100万 BTC","en":"Owns roughly one million BTC"},"finding":{"zhCn":"来自地址聚类模型，不是已确认余额","en":"Derived from clustering models, not a confirmed balance"},"evidenceGrade":"C","sourceType":{"zhCn":"研究模型","en":"Research model"},"sourceUrl":"https://bitslog.com/2013/04/17/the-well-deserved-fortune-of-satoshi-nakamoto/"},
+    {"claim":{"zhCn":"某位候选人就是中本聪","en":"A named candidate is Satoshi"},"finding":{"zhCn":"没有候选人完成公钥签名等决定性证明","en":"No candidate has supplied decisive proof such as a valid signature from known keys"},"evidenceGrade":"Unknown","sourceType":{"zhCn":"缺少决定性证据","en":"No decisive source"}}
+  ],
+  "openQuestions": [
+    {"zhCn":"谁能用已知早期密钥完成签名证明？","en":"Who can sign a fresh message with a recognized early key?"},
+    {"zhCn":"哪些早期区块可以通过更透明、可复现的方法归入同一矿工？","en":"Which early blocks can reproducibly be attributed to one miner?"}
+  ],
+  "revision":{"version":"2.0","lastReviewedAt":"2026-08-31","summary":{"zhCn":"加入统一资本路径、资产边界和身份主张证据表。","en":"Added standardized capital path, asset boundaries, and identity-claim evidence."}}
+}

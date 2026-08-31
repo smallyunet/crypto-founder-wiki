@@ -1,0 +1,9 @@
+{
+  "name":{"zhCn":"比利·马库斯","en":"Billy Markus"},
+  "aliases":["Shibetoshi Nakamoto"],
+  "profileType":"founder","directoryOrder":16,
+  "summary":{"zhCn":"Dogecoin 共同创建者和初始客户端主要实现者；曾任 IBM 软件工程师，约2015年退出项目并处置大部分早期加密资产。","en":"Dogecoin co-creator and principal implementer of its initial client; a former IBM software engineer who left the project and disposed of most early crypto holdings around 2015."},
+  "networkIds":["dogecoin"],"reportSlug":"billy-markus","imageKind":"representative",
+  "imageAlt":{"zhCn":"代表 Billy Markus 档案的 Dogecoin 标识；没有使用未经许可的人物照片","en":"Dogecoin mark representing the Billy Markus dossier; no unlicensed portrait is used"},
+  "coverageStatus":"reviewed","lastReviewedAt":"2026-08-31"
+}

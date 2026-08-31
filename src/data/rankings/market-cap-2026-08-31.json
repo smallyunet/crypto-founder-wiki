@@ -1,0 +1,21 @@
+{
+  "asOf": "2026-08-31",
+  "retrievedAt": "2026-08-31T07:51:20Z",
+  "kind": "market-cap",
+  "provider": "CoinGecko Coins Markets API",
+  "sourceUrl": "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=bitcoin%2Cethereum%2Cbinancecoin%2Csolana%2Ctron%2Cdogecoin%2Clitecoin%2Cneo&order=market_cap_desc&per_page=100&page=1&sparkline=false",
+  "description": {
+    "zhCn": "仅对本站当前收录的八个网络按流通市值排序；这是时间点快照，不代表人物影响力或财富排名。",
+    "en": "Ranks only the eight networks currently covered by circulating market capitalization; this point-in-time snapshot is not a ranking of personal influence or wealth."
+  },
+  "entries": [
+    { "position": 1, "networkId": "bitcoin", "personIds": ["satoshi-nakamoto", "chandler-guo", "li-xiaolai"], "coverageStatus": "published", "value": 1570499790543, "unit": "usd" },
+    { "position": 2, "networkId": "ethereum", "personIds": ["vitalik-buterin", "gavin-wood", "joseph-lubin"], "coverageStatus": "published", "value": 294440554322, "unit": "usd" },
+    { "position": 3, "networkId": "bnb-chain", "personIds": ["changpeng-zhao", "he-yi"], "coverageStatus": "published", "value": 91545630632, "unit": "usd" },
+    { "position": 4, "networkId": "solana", "personIds": ["anatoly-yakovenko", "raj-gokal", "donald-trump"], "coverageStatus": "published", "value": 60218953741, "unit": "usd" },
+    { "position": 5, "networkId": "tron", "personIds": ["justin-sun"], "coverageStatus": "published", "value": 31978426079, "unit": "usd" },
+    { "position": 6, "networkId": "dogecoin", "personIds": ["billy-markus", "jackson-palmer", "elon-musk"], "coverageStatus": "published", "value": 12865899342, "unit": "usd" },
+    { "position": 7, "networkId": "litecoin", "personIds": ["charlie-lee"], "coverageStatus": "published", "value": 3766796967, "unit": "usd" },
+    { "position": 8, "networkId": "neo", "personIds": ["da-hongfei", "erik-zhang"], "coverageStatus": "published", "value": 144072011, "unit": "usd" }
+  ]
+}

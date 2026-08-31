@@ -1,0 +1,20 @@
+{
+  "personId":"billy-markus",
+  "capitalPath":[
+    {"zhCn":"IBM 软件工程职业提供编程能力与工资基础","en":"IBM software engineering supplied coding skill and conventional income"},
+    {"zhCn":"2013年快速改造开源代码，完成 Dogecoin 初始客户端","en":"Rapidly adapted open-source code into Dogecoin's initial client in 2013"},
+    {"zhCn":"约2015年失业后处置大部分加密资产；未保留可验证的巨额创始人财富","en":"Disposed of most crypto after losing his job around 2015; no verifiable giant founder fortune was retained"}
+  ],
+  "assetBoundaries":[
+    {"category":{"zhCn":"创始人分配","en":"Founder allocation"},"finding":{"zhCn":"没有 ICO 或公开大额预留","en":"No ICO or disclosed large reserve"},"status":"confirmed"},
+    {"category":{"zhCn":"当前 DOGE","en":"Current DOGE"},"finding":{"zhCn":"2021年称仅持有后来收到的小费；当前余额未知","en":"In 2021 he said he only held later tips; current balance is unknown"},"status":"unknown"},
+    {"category":{"zhCn":"Dogecoin网络","en":"Dogecoin network"},"finding":{"zhCn":"退出后不拥有协议或基金会控制权","en":"After leaving, he does not own the protocol or control the Foundation"},"status":"confirmed"}
+  ],
+  "keyClaims":[
+    {"claim":{"zhCn":"实现初始 Dogecoin 客户端","en":"Implemented the initial Dogecoin client"},"finding":{"zhCn":"本人公开信、代码历史和开发者资料相互支持","en":"Supported by his open letter, code history, and developer documentation"},"evidenceGrade":"A","sourceType":{"zhCn":"官方开发者历史","en":"Official developer history"},"sourceUrl":"https://dogecoin.com/dogepedia/articles/dogecoin-developers/"},
+    {"claim":{"zhCn":"因Dogecoin成为亿万富翁","en":"Became a billionaire from Dogecoin"},"finding":{"zhCn":"不支持；本人称早期资产仅换得二手车量级资金","en":"Unsupported; he said early holdings yielded roughly used-car money"},"evidenceGrade":"B","sourceType":{"zhCn":"本人公开信","en":"First-person open letter"},"sourceUrl":"https://www.reddit.com/r/dogecoin/comments/lfl5iz/true_value_an_open_letter_from_billy_markus/"},
+    {"claim":{"zhCn":"现在控制 Dogecoin","en":"Currently controls Dogecoin"},"finding":{"zhCn":"错误；他已退出开发，网络由独立参与者运行","en":"Incorrect; he left development and independent participants run the network"},"evidenceGrade":"A","sourceType":{"zhCn":"开源仓库","en":"Open-source repository"},"sourceUrl":"https://github.com/dogecoin/dogecoin"}
+  ],
+  "openQuestions":[{"zhCn":"早期实际挖矿、赠与和出售数量是多少？","en":"How much was actually mined, gifted, and sold early on?"},{"zhCn":"退出后各类收入与当前资产构成如何？","en":"What income and assets followed his exit?"}],
+  "revision":{"version":"1.0","lastReviewedAt":"2026-08-31","summary":{"zhCn":"建立创建贡献、退出和未形成巨额创始人储备的证据边界。","en":"Established evidence boundaries around implementation, exit, and the absence of a giant founder reserve."}}
+}

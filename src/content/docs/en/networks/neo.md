@@ -15,7 +15,7 @@ Neo is an open-source smart-contract blockchain. Da Hongfei and Erik Zhang co-fo
 ## Founding and people
 
 - [Da Hongfei](../../people/da-hongfei/): co-founder, long associated with strategy, ecosystem development, and external communication; also founder of enterprise-blockchain company Onchain.
-- Erik Zhang: co-founder, core developer, and author of the dBFT consensus mechanism; a full dossier has not yet been published here.
+- [Erik Zhang](../../people/erik-zhang/): co-founder, core developer, and author of the dBFT consensus mechanism.
 
 Calling Neo a one-person creation would erase Zhang's technical and co-founder role. Conversely, Onchain, Ontology, Neo Global Development, and the Neo Foundation should not be collapsed into a single legal or governance entity.
 

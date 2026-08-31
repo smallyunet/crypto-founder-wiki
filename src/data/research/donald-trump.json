@@ -1,0 +1,23 @@
+{
+  "personId":"donald-trump",
+  "capitalPath":[
+    {"zhCn":"继承家庭房地产资源、贷款担保、关系网络和品牌基础","en":"Inherited family real-estate resources, loan support, networks, and a brand platform"},
+    {"zhCn":"通过房地产、许可、媒体和政治品牌扩大收入与资产估值","en":"Expanded income and asset valuations through real estate, licensing, media, and political branding"},
+    {"zhCn":"通过 NFT、World Liberty Financial 与 $TRUMP 等关联安排获取加密许可和经济权益","en":"Added crypto licensing and economic interests through NFTs, World Liberty Financial, and $TRUMP-related arrangements"}
+  ],
+  "assetBoundaries":[
+    {"category":{"zhCn":"$TRUMP 代币储备","en":"$TRUMP token reserves"},"finding":{"zhCn":"关联实体持有和个人直接持有必须区分","en":"Affiliated-entity holdings must be separated from direct personal holdings"},"status":"confirmed"},
+    {"category":{"zhCn":"许可收入","en":"Licensing revenue"},"finding":{"zhCn":"品牌许可收入不等于代币全部市值或交易量","en":"Brand licensing revenue is not the token's full market capitalization or trading volume"},"status":"confirmed"},
+    {"category":{"zhCn":"总统职务","en":"Presidential office"},"finding":{"zhCn":"公共权力、政治影响与私人经济权益存在冲突风险但并非同一资产","en":"Public authority, political influence, and private economic interests create conflict risk but are not the same asset"},"status":"confirmed"}
+  ],
+  "keyClaims":[
+    {"claim":{"zhCn":"本人亲自编写并部署 $TRUMP 合约","en":"Personally wrote and deployed the $TRUMP contract"},"finding":{"zhCn":"没有证据；公开角色主要是品牌和推广，发行由关联实体执行","en":"No evidence; the public role is branding and promotion, while affiliated entities executed issuance"},"evidenceGrade":"A","sourceType":{"zhCn":"官方代币披露","en":"Official token disclosure"},"sourceUrl":"https://gettrumpmemes.com/"},
+    {"claim":{"zhCn":"代币市值全部属于 Trump","en":"The entire token market cap belongs to Trump"},"finding":{"zhCn":"错误；市值不是发行人可直接提取的现金","en":"Incorrect; market capitalization is not cash directly withdrawable by an issuer"},"evidenceGrade":"A","sourceType":{"zhCn":"代币分配披露","en":"Token-allocation disclosure"},"sourceUrl":"https://gettrumpmemes.com/"},
+    {"claim":{"zhCn":"家庭起点为零","en":"Started with no family capital"},"finding":{"zhCn":"法院、税务调查和商业记录显示大量家庭支持","en":"Court, tax-investigation, and business records show substantial family support"},"evidenceGrade":"B","sourceType":{"zhCn":"税务调查报道","en":"Tax-record investigation"},"sourceUrl":"https://www.nytimes.com/interactive/2018/10/02/us/politics/donald-trump-tax-schemes-fred-trump.html"}
+  ],
+  "openQuestions":[
+    {"zhCn":"关联实体最终向本人、信托和家庭成员分配多少代币及现金？","en":"How much token and cash value ultimately reaches Trump, trusts, and family members?"},
+    {"zhCn":"解锁、做市、流动性提供和许可协议的完整关联方条款是什么？","en":"What are the complete related-party terms for unlocks, market making, liquidity, and licensing?"}
+  ],
+  "revision":{"version":"2.0","lastReviewedAt":"2026-08-31","summary":{"zhCn":"分离品牌许可、关联实体储备、个人权益和政治影响。","en":"Separated brand licensing, affiliated reserves, personal interests, and political influence."}}
+}

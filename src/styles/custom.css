@@ -205,3 +205,28 @@ body { letter-spacing: 0.005em; }
 	.founder-card { transition: none; }
 	.founder-card:hover { transform: none; }
 }
+
+.research-summary {
+	margin-block: 2rem 3rem;
+}
+
+.research-summary .capital-path {
+	display: grid;
+	gap: 0.65rem;
+	padding-left: 1.5rem;
+}
+
+.research-summary .table-wrap {
+	overflow-x: auto;
+}
+
+.research-summary table {
+	min-width: 42rem;
+}
+
+.research-summary .revision-note {
+	margin-top: 2rem;
+	padding: 0.9rem 1rem;
+	border-left: 0.25rem solid var(--sl-color-accent);
+	background: var(--sl-color-gray-6);
+}
