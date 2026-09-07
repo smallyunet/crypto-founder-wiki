@@ -96,10 +96,16 @@ for (const [snapshotId, snapshot] of rankings) {
 		if (!snapshot.retrievedAt) errors.push(`${snapshotId}: formal snapshot is missing retrievedAt`);
 		if (!snapshot.sourceUrl) errors.push(`${snapshotId}: formal snapshot is missing sourceUrl`);
 	}
+	if (snapshot.retrievedAt && new Date(snapshot.retrievedAt) < new Date(snapshot.asOf)) {
+		errors.push(`${snapshotId}: retrievedAt precedes the data date`);
+	}
 	const positions = new Set();
+	const rankedNetworks = new Set();
 	for (const entry of snapshot.entries) {
 		if (positions.has(entry.position)) errors.push(`${snapshotId}: duplicate position ${entry.position}`);
 		positions.add(entry.position);
+		if (rankedNetworks.has(entry.networkId)) errors.push(`${snapshotId}: duplicate network ${entry.networkId}`);
+		rankedNetworks.add(entry.networkId);
 		if (!networks.has(entry.networkId)) errors.push(`${snapshotId}: unknown network ${entry.networkId}`);
 		if (snapshot.kind !== 'editorial-seed' && (!Number.isFinite(entry.value) || !entry.unit)) {
 			errors.push(`${snapshotId}: position ${entry.position} is missing value or unit`);
