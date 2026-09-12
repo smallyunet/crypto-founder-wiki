@@ -1,20 +1,199 @@
 {
-  "personId":"he-yi",
-  "capitalPath":[
-    {"zhCn":"媒体主持、品牌营销与OKCoin创业形成用户增长和行业网络","en":"Media presentation, brand marketing, and OKCoin entrepreneurship built growth skill and industry networks"},
-    {"zhCn":"一下科技高管经历扩大互联网产品和融资经验","en":"An executive role at Yixia Technology expanded internet-product and financing experience"},
-    {"zhCn":"2017年共同创立Binance，通过公司股权、BNB相关权益和投资业务形成财富","en":"Co-founded Binance in 2017 and built wealth through company equity, BNB-related interests, and investing"}
+  "personId": "he-yi",
+  "capitalPath": [
+    {
+      "zhCn": "媒体主持、品牌营销与OKCoin创业形成用户增长和行业网络",
+      "en": "Media presentation, brand marketing, and OKCoin entrepreneurship built growth skill and industry networks"
+    },
+    {
+      "zhCn": "一下科技高管经历扩大互联网产品和融资经验",
+      "en": "An executive role at Yixia Technology expanded internet-product and financing experience"
+    },
+    {
+      "zhCn": "2017年共同创立Binance，通过公司股权、BNB相关权益和投资业务形成财富",
+      "en": "Co-founded Binance in 2017 and built wealth through company equity, BNB-related interests, and investing"
+    }
   ],
-  "assetBoundaries":[
-    {"category":{"zhCn":"Binance股权","en":"Binance equity"},"finding":{"zhCn":"联合创始地位明确，精确持股和跨实体权益未公开","en":"Co-founder status is clear; exact ownership across entities is unpublished"},"status":"unknown"},
-    {"category":{"zhCn":"BNB与基金","en":"BNB and funds"},"finding":{"zhCn":"个人配置、公司国库、客户资产和Binance Labs/YZi Labs基金须分开","en":"Personal allocation, corporate treasury, customer assets, and Binance Labs/YZi Labs funds must be separated"},"status":"confirmed"},
-    {"category":{"zhCn":"与CZ关系","en":"Relationship with CZ"},"finding":{"zhCn":"共同创始和家庭关系不代表双方资产可合并计算","en":"Co-foundership and a family relationship do not permit combining their assets"},"status":"confirmed"}
+  "assetBoundaries": [
+    {
+      "category": {
+        "zhCn": "Binance股权",
+        "en": "Binance equity"
+      },
+      "finding": {
+        "zhCn": "联合创始地位明确，精确持股和跨实体权益未公开",
+        "en": "Co-founder status is clear; exact ownership across entities is unpublished"
+      },
+      "status": "unknown"
+    },
+    {
+      "category": {
+        "zhCn": "BNB与基金",
+        "en": "BNB and funds"
+      },
+      "finding": {
+        "zhCn": "个人配置、公司国库、客户资产和Binance Labs/YZi Labs基金须分开",
+        "en": "Personal allocation, corporate treasury, customer assets, and Binance Labs/YZi Labs funds must be separated"
+      },
+      "status": "confirmed"
+    },
+    {
+      "category": {
+        "zhCn": "与CZ关系",
+        "en": "Relationship with CZ"
+      },
+      "finding": {
+        "zhCn": "公开报道记载两人育有三个孩子；家庭关系不代表双方资产可合并计算",
+        "en": "Reporting states they have three children together; the family relationship does not permit combining their assets"
+      },
+      "status": "confirmed"
+    }
   ],
-  "keyClaims":[
-    {"claim":{"zhCn":"Binance联合创始人","en":"Binance co-founder"},"finding":{"zhCn":"公司与长期公开资料确认","en":"Confirmed by company and longstanding public records"},"evidenceGrade":"A","sourceType":{"zhCn":"Binance人物资料","en":"Binance profile"},"sourceUrl":"https://www.binance.com/en/blog/leadership"},
-    {"claim":{"zhCn":"曾参与创立OKCoin","en":"Helped found OKCoin"},"finding":{"zhCn":"同期行业报道与本人履历支持","en":"Supported by contemporaneous industry reporting and her career record"},"evidenceGrade":"B","sourceType":{"zhCn":"Fortune人物报道","en":"Fortune profile"},"sourceUrl":"https://fortune.com/2022/07/18/binance-female-cofounder-he-yi-cz-crypto-blockchain/"},
-    {"claim":{"zhCn":"Binance客户资产属于其个人财富","en":"Binance customer assets are her personal wealth"},"finding":{"zhCn":"错误；托管资产与股东经济权益不同","en":"Incorrect; custodial assets differ from shareholder economic interests"},"evidenceGrade":"A","sourceType":{"zhCn":"托管资产原则","en":"Custody principle"}}
+  "keyClaims": [
+    {
+      "claim": {
+        "zhCn": "Binance联合创始人",
+        "en": "Binance co-founder"
+      },
+      "finding": {
+        "zhCn": "公司与长期公开资料确认",
+        "en": "Confirmed by company and longstanding public records"
+      },
+      "evidenceGrade": "A",
+      "sourceType": {
+        "zhCn": "币安联席 CEO 任命公告",
+        "en": "Binance co-CEO appointment announcement"
+      },
+      "sourceUrl": "https://www.binance.com/en/blog/leadership/4951765043144430728"
+    },
+    {
+      "claim": {
+        "zhCn": "曾参与创立OKCoin",
+        "en": "Helped found OKCoin"
+      },
+      "finding": {
+        "zhCn": "同期行业报道与本人履历支持",
+        "en": "Supported by contemporaneous industry reporting and her career record"
+      },
+      "evidenceGrade": "B",
+      "sourceType": {
+        "zhCn": "Fortune人物报道",
+        "en": "Fortune profile"
+      },
+      "sourceUrl": "https://fortune.com/2022/07/18/binance-female-cofounder-he-yi-cz-crypto-blockchain/"
+    },
+    {
+      "claim": {
+        "zhCn": "Binance客户资产属于其个人财富",
+        "en": "Binance customer assets are her personal wealth"
+      },
+      "finding": {
+        "zhCn": "错误；托管资产与股东经济权益不同",
+        "en": "Incorrect; custodial assets differ from shareholder economic interests"
+      },
+      "evidenceGrade": "A",
+      "sourceType": {
+        "zhCn": "托管资产原则",
+        "en": "Custody principle"
+      }
+    },
+    {
+      "claim": {
+        "zhCn": "与 CZ 育有三个孩子",
+        "en": "Has three children with CZ"
+      },
+      "finding": {
+        "zhCn": "Bloomberg 2025-01-24 报道明确记载；不据此推定婚姻登记状态",
+        "en": "Explicitly reported by Bloomberg on 2025-01-24; does not establish registered marriage"
+      },
+      "evidenceGrade": "B",
+      "sourceType": {
+        "zhCn": "Bloomberg News 报道",
+        "en": "Bloomberg News reporting"
+      },
+      "sourceUrl": "https://news.bloombergtax.com/financial-accounting/cryptos-richest-man-cz-turns-vc-firm-into-giant-family-office"
+    },
+    {
+      "claim": {
+        "zhCn": "2025 年获任币安联席 CEO",
+        "en": "Appointed Binance co-CEO in 2025"
+      },
+      "finding": {
+        "zhCn": "2025-12-03 官方公告确认与 Richard Teng 共同担任",
+        "en": "Official announcement on 2025-12-03 confirms the role alongside Richard Teng"
+      },
+      "evidenceGrade": "A",
+      "sourceType": {
+        "zhCn": "币安任命公告",
+        "en": "Binance appointment announcement"
+      },
+      "sourceUrl": "https://www.binance.com/en/blog/leadership/4951765043144430728"
+    },
+    {
+      "claim": {
+        "zhCn": "2022 年出任 Binance Labs 负责人",
+        "en": "Appointed head of Binance Labs in 2022"
+      },
+      "finding": {
+        "zhCn": "2022-08-03 公告确认；不等于目前直接领导 YZi Labs",
+        "en": "Confirmed by the 2022-08-03 release; does not establish current leadership of YZi Labs"
+      },
+      "evidenceGrade": "A",
+      "sourceType": {
+        "zhCn": "币安新闻稿",
+        "en": "Binance press release"
+      },
+      "sourceUrl": "https://www.prnewswire.com/news-releases/co-founder-yi-he-to-lead-binances-7-5b-venture-capital-arm-301598732.html"
+    },
+    {
+      "claim": {
+        "zhCn": "YZi Labs 管理 CZ 与何一的财富",
+        "en": "YZi Labs manages wealth for CZ and He"
+      },
+      "finding": {
+        "zhCn": "2025 年 Bloomberg 报道支持，未披露何一个人的受益份额",
+        "en": "Supported by Bloomberg reporting in 2025; her individual beneficial share was not disclosed"
+      },
+      "evidenceGrade": "B",
+      "sourceType": {
+        "zhCn": "Bloomberg News 报道",
+        "en": "Bloomberg News reporting"
+      },
+      "sourceUrl": "https://news.bloombergtax.com/financial-accounting/cryptos-richest-man-cz-turns-vc-firm-into-giant-family-office"
+    },
+    {
+      "claim": {
+        "zhCn": "YZi Labs 的管理与币安上币决策",
+        "en": "YZi Labs management and Binance listing decisions"
+      },
+      "finding": {
+        "zhCn": "何一在 2025-02-02 表示 Ella Zhang 负责、CZ 直接管理，Labs 与上币团队独立决策；属本人说明",
+        "en": "He stated on 2025-02-02 that Ella Zhang heads Labs, CZ manages it directly, and investment and listing teams decide independently; a self-reported account"
+      },
+      "evidenceGrade": "A",
+      "sourceType": {
+        "zhCn": "何一本人公开说明",
+        "en": "Public statement by Yi He"
+      },
+      "sourceUrl": "https://www.binance.com/zh-CN/square/post/19764424467298"
+    }
   ],
-  "openQuestions":[{"zhCn":"其在Binance各实体、BNB和投资管理平台中的当前受益权益是多少？","en":"What are her current beneficial interests across Binance entities, BNB, and investment platforms?"},{"zhCn":"早期股权、代币配置、稀释和分红如何变化？","en":"How did early equity, token allocations, dilution, and distributions change?"}],
-  "revision":{"version":"1.0","lastReviewedAt":"2026-08-31","summary":{"zhCn":"补足何一的联合创始、增长资本和资产隔离。","en":"Established Yi He's co-foundership, growth capital, and asset separation."}}
+  "openQuestions": [
+    {
+      "zhCn": "其在Binance各实体、BNB和投资管理平台中的当前受益权益是多少？",
+      "en": "What are her current beneficial interests across Binance entities, BNB, and investment platforms?"
+    },
+    {
+      "zhCn": "早期股权、代币配置、稀释和分红如何变化？",
+      "en": "How did early equity, token allocations, dilution, and distributions change?"
+    }
+  ],
+  "revision": {
+    "version": "1.1",
+    "lastReviewedAt": "2026-09-12",
+    "summary": {
+      "zhCn": "补充与 CZ 共同育有三个孩子的公开报道、联席 CEO 任命和 Labs 管理变化。",
+      "en": "Added reporting on three children with CZ, the co-CEO appointment, and changes in Labs management."
+    }
+  }
 }
