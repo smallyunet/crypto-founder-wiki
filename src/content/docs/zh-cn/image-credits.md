@@ -4,7 +4,7 @@ description: Crypto Founder Wiki 使用的人物照片和网络标识来源、�
 pageType: policy
 ---
 
-本站只收录来源可追踪、许可条件明确的图片。人物照片主要采用 Creative Commons 作品；网络标识采用公共领域或 Creative Commons 文件。标识即使不受版权保护，也可能受到商标规则约束。
+本站只收录来源可追踪、许可条件明确的图片。人物照片主要采用 Creative Commons 作品，明确允许转载的新闻配图另列于下表；网络标识采用公共领域或 Creative Commons 文件。标识即使不受版权保护，也可能受到商标规则约束。
 
 ## 人物照片
 
@@ -23,10 +23,11 @@ pageType: policy
 | `anatoly-yakovenko.webp` | Anatoly Yakovenko | TechCrunch / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Anatoly_Yakovenko_(TechCrunch_2022).jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 裁切、缩放、移除元数据、转换 WebP |
 | `gavin-wood.webp` | Gavin Wood | TechCrunch / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gavin_Wood,_TechCrunch_Disrupt_Berlin_2017_(38818572122)_(cropped).jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | 裁切、缩放、移除元数据、转换 WebP |
 | `joseph-lubin.webp` | Joseph Lubin | Ivo Näpflin / Lift Conference / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Joseph_Lubin_(24961255915).jpg) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 裁切、缩放、移除元数据、转换 WebP |
+| `he-yi.webp` | 何一 | Binance / [APO Group – Africa Newsroom](https://www.africa-newsroom.com/press/media/binance-cofounder-yi-he-appointed-coceo-as-the-company-nears-300-million-users?display=image&lang=en) | 发布平台明确允许无需授权转载；并非 Creative Commons 许可 | 从与 Richard Teng 的合影中裁出左侧何一，调整尺寸并转为 WebP |
 
 ## 人物代表图
 
-如果没有找到许可可靠的肖像，目录会使用明确标注的网络标志，而不会使用合成或可能认错人的肖像。`billy-markus.webp` 与 `jackson-palmer.webp` 来自 MIT 许可的 Dogecoin 标志；`raj-gokal.webp` 来自 CC0 的 Solana 标志；`he-yi.webp` 来自 CC BY-SA 4.0 的 BNB 标志；`erik-zhang.webp` 来自作为简单图形进入公有领域的 Neo 标志。来源和许可链接见下方网络标志表。
+如果没有找到许可可靠的肖像，目录会使用明确标注的网络标志，而不会使用合成或可能认错人的肖像。`billy-markus.webp` 与 `jackson-palmer.webp` 来自 MIT 许可的 Dogecoin 标志；`raj-gokal.webp` 来自 CC0 的 Solana 标志；`erik-zhang.webp` 来自作为简单图形进入公有领域的 Neo 标志。来源和许可链接见下方网络标志表。
 
 ## 网络标识
 
@@ -48,4 +49,4 @@ pageType: policy
 - 页面提供描述性替代文本、固定宽高和许可链接。
 - 如果权利人认为归属或许可记录有误，可通过 GitHub issue 提出更正或移除请求。
 
-_最后复核：2026年8月31日。_
+_最后复核：2026年9月12日。_

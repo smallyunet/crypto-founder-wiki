@@ -4,7 +4,7 @@ description: Sources, authors, licenses, and modification notes for portraits an
 pageType: policy
 ---
 
-This site uses images with traceable sources and explicit reuse terms. Portraits are primarily Creative Commons works; network marks are public-domain or Creative Commons files. A mark may still be protected by trademark law even when it is not protected by copyright.
+This site uses images with traceable sources and explicit reuse terms. Portraits are primarily Creative Commons works, with explicitly reusable press images identified below; network marks are public-domain or Creative Commons files. A mark may still be protected by trademark law even when it is not protected by copyright.
 
 ## Portraits
 
@@ -23,10 +23,11 @@ This site uses images with traceable sources and explicit reuse terms. Portraits
 | `anatoly-yakovenko.webp` | Anatoly Yakovenko | TechCrunch / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Anatoly_Yakovenko_(TechCrunch_2022).jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | Cropped, resized, metadata removed, and converted to WebP |
 | `gavin-wood.webp` | Gavin Wood | TechCrunch / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gavin_Wood,_TechCrunch_Disrupt_Berlin_2017_(38818572122)_(cropped).jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | Cropped, resized, metadata removed, and converted to WebP |
 | `joseph-lubin.webp` | Joseph Lubin | Ivo Näpflin / Lift Conference / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Joseph_Lubin_(24961255915).jpg) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | Cropped, resized, metadata removed, and converted to WebP |
+| `he-yi.webp` | Yi He | Binance / [APO Group – Africa Newsroom](https://www.africa-newsroom.com/press/media/binance-cofounder-yi-he-appointed-coceo-as-the-company-nears-300-million-users?display=image&lang=en) | Publisher explicitly permits republication without authorization; not a Creative Commons license | Cropped to Yi He on the left of the photograph with Richard Teng, resized, and converted to WebP |
 
 ## Representative profile images
 
-When no reliably licensed portrait was found, the directory uses a clearly labeled network mark—not a synthetic or potentially misidentified portrait. `billy-markus.webp` and `jackson-palmer.webp` derive from the MIT-licensed Dogecoin mark; `raj-gokal.webp` from the CC0 Solana mark; `he-yi.webp` from the CC BY-SA 4.0 BNB mark; and `erik-zhang.webp` from the public-domain simple Neo mark. Source and license links appear in the network-mark table below.
+When no reliably licensed portrait was found, the directory uses a clearly labeled network mark—not a synthetic or potentially misidentified portrait. `billy-markus.webp` and `jackson-palmer.webp` derive from the MIT-licensed Dogecoin mark; `raj-gokal.webp` from the CC0 Solana mark; and `erik-zhang.webp` from the public-domain simple Neo mark. Source and license links appear in the network-mark table below.
 
 ## Network marks
 
@@ -48,4 +49,4 @@ When no reliably licensed portrait was found, the directory uses a clearly label
 - Pages include descriptive alternative text, fixed dimensions, and license links.
 - Rights holders may request correction or removal through a GitHub issue.
 
-_Last reviewed August 31, 2026._
+_Last reviewed September 12, 2026._
