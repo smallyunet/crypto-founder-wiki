@@ -3,6 +3,9 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import sitemap from '@astrojs/sitemap';
 import { readdirSync, readFileSync } from 'node:fs';
+import { createLocaleEntryScript } from './src/utils/locale-preference.mjs';
+
+const siteBase = '/crypto-founder-wiki';
 
 const peopleDataDirectory = new URL('./src/data/people/', import.meta.url);
 const peopleSidebarItems = readdirSync(peopleDataDirectory)
@@ -18,7 +21,7 @@ const peopleSidebarItems = readdirSync(peopleDataDirectory)
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://smallyunet.github.io',
-	base: '/crypto-founder-wiki',
+	base: siteBase,
 	integrations: [
 		sitemap(),
 		starlight({
@@ -43,6 +46,7 @@ export default defineConfig({
 				},
 			],
 			head: [
+				{ tag: 'script', content: createLocaleEntryScript(siteBase) },
 				{ tag: 'meta', attrs: { property: 'og:site_name', content: 'Crypto Founder Wiki' } },
 				{ tag: 'meta', attrs: { name: 'theme-color', content: '#0f766e' } },
 			],
