@@ -1,0 +1,136 @@
+---
+import config from 'virtual:starlight/user-config';
+import { localizedPathname } from '../utils/locale-preference.mjs';
+
+const shortLabels: Record<string, string> = {
+	en: 'EN',
+	'zh-cn': '中文',
+};
+
+const localeCodes = Object.keys(config.locales ?? {});
+const currentPath = Astro.url.pathname.replace(/\/$/, '');
+const options = localeCodes.map((code) => {
+	const locale = config.locales?.[code];
+	const href = localizedPathname(Astro.url.pathname, import.meta.env.BASE_URL, code, localeCodes);
+	return {
+		code,
+		label: locale?.label ?? code,
+		lang: locale?.lang,
+		shortLabel: shortLabels[code] ?? locale?.label ?? code,
+		href,
+		current: href.replace(/\/$/, '') === currentPath,
+	};
+});
+---
+
+<nav class="language-switch" aria-label={Astro.locals.t('languageSelect.accessibleLabel')}>
+	{
+		options.map((option) => (
+			<a
+				href={option.href}
+				hreflang={option.lang}
+				lang={option.lang}
+				data-locale={option.code}
+				aria-current={option.current ? 'page' : undefined}
+			>
+				<span class="short" aria-hidden="true">{option.shortLabel}</span>
+				<span class="full">{option.label}</span>
+			</a>
+		))
+	}
+</nav>
+
+<script>
+	import { localePreferenceKey } from '../utils/locale-preference.mjs';
+
+	function rememberLocale(event: Event) {
+		const target = event.target;
+		if (!(target instanceof Element)) return;
+		const link = target.closest('a[data-locale]');
+		if (!(link instanceof HTMLAnchorElement)) return;
+		const locale = link.dataset.locale;
+		if (locale !== 'en' && locale !== 'zh-cn') return;
+		try {
+			localStorage.setItem(localePreferenceKey, locale);
+		} catch {
+			// Private mode and locked-down browsers can reject storage writes.
+		}
+	}
+
+	document.addEventListener('click', rememberLocale);
+	document.addEventListener('auxclick', rememberLocale);
+</script>
+
+<style>
+	.language-switch {
+		display: inline-flex;
+		flex-shrink: 0;
+		align-items: center;
+		padding: 0.12rem;
+		border: 1px solid var(--sl-color-accent);
+		border-radius: 999px;
+		background: color-mix(in srgb, var(--sl-color-accent) 16%, transparent);
+	}
+
+	.language-switch a {
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		min-height: 1.55rem;
+		padding: 0.1rem 0.55rem;
+		border-radius: 999px;
+		color: var(--sl-color-white);
+		font-size: 0.78rem;
+		font-weight: 700;
+		line-height: 1;
+		text-decoration: none;
+		white-space: nowrap;
+	}
+
+	.language-switch a[aria-current='page'] {
+		background: #0f766e;
+		color: #f8fafc;
+	}
+
+	.language-switch a:hover {
+		color: var(--sl-color-accent-high);
+	}
+
+	.language-switch a[aria-current='page']:hover {
+		color: #f8fafc;
+	}
+
+	.language-switch a:focus-visible {
+		outline: 2px solid var(--sl-color-accent-high);
+		outline-offset: 2px;
+	}
+
+	.full {
+		position: absolute;
+		width: 1px;
+		height: 1px;
+		overflow: hidden;
+		clip: rect(0 0 0 0);
+		white-space: nowrap;
+	}
+
+	@media (min-width: 50rem) {
+		.language-switch a {
+			min-height: 1.85rem;
+			padding: 0.2rem 0.75rem;
+			font-size: 0.875rem;
+		}
+
+		.short {
+			display: none;
+		}
+
+		.full {
+			position: static;
+			width: auto;
+			height: auto;
+			overflow: visible;
+			clip: auto;
+		}
+	}
+</style>

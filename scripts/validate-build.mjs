@@ -29,6 +29,9 @@ const rootHtml = await readFile(new URL('index.html', dist), 'utf8');
 if (!rootHtml.includes(`content="0;url=${base}/${defaultLocale}/"`)) {
 	errors.push(`root redirect does not point to the ${defaultLocale} locale`);
 }
+if (!rootHtml.includes('crypto-founder-wiki-locale') || !rootHtml.includes('localStorage.getItem')) {
+	errors.push('root redirect does not restore a saved locale');
+}
 
 for (const htmlPath of await walk(dist.pathname)) {
 	const html = await readFile(htmlPath, 'utf8');

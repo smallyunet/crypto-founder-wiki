@@ -31,6 +31,10 @@ export default defineConfig({
 				'zh-cn': { label: '简体中文', lang: 'zh-CN' },
 			},
 			customCss: ['./src/styles/custom.css'],
+			components: {
+				Header: './src/components/Header.astro',
+				LanguageSelect: './src/components/LanguageSelect.astro',
+			},
 			social: [
 				{
 					icon: 'github',

@@ -1,6 +1,8 @@
 ---
+import { defaultLocale, localePreferenceKey, siteLocales } from '../utils/locale-preference.mjs';
+
 const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
-const destination = `${base}en/`;
+const destination = `${base}${defaultLocale}/`;
 ---
 
 <!doctype html>
@@ -8,9 +10,21 @@ const destination = `${base}en/`;
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width" />
-		<meta http-equiv="refresh" content={`0;url=${destination}`} />
+		<script is:inline define:vars={{ base, siteLocales, defaultLocale, localePreferenceKey }}>
+			(function () {
+				var locale = defaultLocale;
+				try {
+					var saved = localStorage.getItem(localePreferenceKey);
+					if (siteLocales.indexOf(saved) !== -1) locale = saved;
+				} catch (error) {}
+				location.replace(base + locale + '/');
+			})();
+		</script>
 		<link rel="canonical" href={new URL(destination, Astro.site)} />
 		<title>Crypto Founder Wiki</title>
+		<noscript>
+			<meta http-equiv="refresh" content={`0;url=${destination}`} />
+		</noscript>
 	</head>
 	<body>
 		<p><a href={destination}>Enter Crypto Founder Wiki</a></p>
